@@ -1,0 +1,246 @@
+# name|start|end|cat|tradition|region|language|place|lat|lng|woman|attestation|wiki
+# cat: SG sage (Vedic/Upanishadic) · AC acharya/philosopher · BH bhakti saint-poet · YO yogi/siddha/tantric · RF reformer & modern teacher · MA mathematician/astronomer · AY Ayurveda · MU musician-composer
+# attestation: H historical (documented dates) · T traditional (hagiographic dates, real person) · L legendary
+Yajnavalkya|-800|-700|SG|Vedic|Bihar|Sanskrit|Mithila|26.60|85.90|0|L|Yajnavalkya
+Gargi Vachaknavi|-800|-700|SG|Vedic|Bihar|Sanskrit|Mithila|26.62|85.95|1|L|Gargi_Vachaknavi
+Maitreyi|-800|-700|SG|Vedic|Bihar|Sanskrit|Mithila|26.58|85.86|1|L|Maitreyi
+Uddalaka Aruni|-800|-700|SG|Vedic|Uttar Pradesh|Sanskrit|Panchala|27.55|79.28|0|L|Uddalaka_Aruni
+Satyakama Jabala|-800|-700|SG|Vedic|Uttar Pradesh|Sanskrit|Kuru-Panchala|27.60|79.35|0|L|Satyakama_Jabala
+Sushruta|-600|-500|AY|Ayurveda|Uttar Pradesh|Sanskrit|Kashi (Varanasi)|25.32|83.01|0|T|Sushruta
+Panini|-500|-400|SG|Vyakarana (grammar)|Gandhara|Sanskrit|Shalatula, near Attock|33.90|72.36|0|T|Pāṇini
+Patanjali|-200|-150|YO|Yoga darshana|Uttar Pradesh|Sanskrit|Gonarda (traditional)|27.13|81.96|0|L|Patanjali
+Charaka|-100|100|AY|Ayurveda|Gandhara|Sanskrit|Takshashila|33.74|72.79|0|T|Charaka
+Lakulisha|100|200|YO|Pashupata Shaiva|Gujarat|Sanskrit|Karvan|22.08|73.25|0|T|Lakulisa
+Karaikkal Ammaiyar|500|560|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Karaikal|10.92|79.84|1|T|Karaikkal_Ammaiyar
+Tirumular|500|700|YO|Shaiva Siddha (Nayanar)|Tamil Nadu|Tamil|Tiruvavaduthurai|11.03|79.53|0|T|Tirumular
+Aryabhata|476|550|MA|Jyotisha|Bihar|Sanskrit|Kusumapura (Pataliputra)|25.60|85.14|0|H|Aryabhata
+Varahamihira|505|587|MA|Jyotisha|Madhya Pradesh|Sanskrit|Ujjain|23.18|75.78|0|H|Varāhamihira
+Vagbhata|550|650|AY|Ayurveda|Sindh|Sanskrit|Sindh|25.40|68.40|0|T|Vagbhata
+Poigai Alvar|550|650|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Kanchipuram|12.83|79.70|0|T|Poigai_Alvar
+Bhoothath Alvar|550|650|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Mamallapuram|12.62|80.19|0|T|Bhoothath_Alvar
+Peyalvar|550|650|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Mylapore|13.03|80.27|0|T|Peyalvar
+Appar|570|650|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Thiruvamur|11.77|79.48|0|H|Appar
+Brahmagupta|598|668|MA|Jyotisha|Rajasthan|Sanskrit|Bhinmal|25.00|72.27|0|H|Brahmagupta
+Bhaskara I|600|680|MA|Jyotisha|Gujarat|Sanskrit|Valabhi|21.88|71.88|0|H|Bhāskara_I
+Thirumalisai Alvar|600|700|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Thirumazhisai|13.05|80.06|0|T|Thirumalisai_Alvar
+Sambandar|620|640|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Sirkazhi|11.24|79.74|0|H|Sambandar
+Mangayarkkarasiyar|620|670|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Madurai|9.92|78.12|1|T|Mangayarkkarasiyar
+Siruthonda Nayanar|620|670|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Tiruchengattankudi|10.86|79.67|0|T|Siruthonda_Nayanar
+Adi Shankara|700|750|AC|Advaita Vedanta|Kerala|Sanskrit|Kalady|10.17|76.44|0|H|Adi_Shankara
+Mandana Mishra|700|780|AC|Mimamsa / Advaita|Bihar|Sanskrit|Mahishi|25.85|86.47|0|T|Maṇḍana_Miśra
+Ubhaya Bharati|700|780|AC|Mimamsa / Advaita|Bihar|Sanskrit|Mahishi|25.87|86.50|1|T|Ubhaya_Bharati
+Sundarar|700|740|BH|Shaiva (Nayanar)|Tamil Nadu|Tamil|Thirunavalur|11.77|79.33|0|H|Sundarar
+Cheraman Perumal Nayanar|780|830|BH|Shaiva (Nayanar)|Kerala|Tamil|Kodungallur|10.22|76.20|0|T|Cheraman_Perumal_Nayanar
+Vasugupta|800|850|YO|Kashmir Shaivism|Kashmir|Sanskrit|Srinagar (Mahadeva peak)|34.12|74.92|0|T|Vasugupta
+Nammalvar|800|850|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Alwarthirunagari|8.61|77.94|0|T|Nammalvar
+Madhurakavi Alvar|800|850|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Thirukkolur|8.62|77.96|0|T|Madhurakavi_Alvar
+Kulasekhara Alvar|800|850|BH|Sri Vaishnava (Alvar)|Kerala|Tamil|Thiruvanchikulam|10.21|76.21|0|T|Kulasekhara_Alvar
+Periyalvar|800|870|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Srivilliputhur|9.51|77.63|0|T|Periyalvar
+Andal|800|830|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Srivilliputhur|9.52|77.64|1|T|Andal
+Thondaradippodi Alvar|800|880|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Thirumandangudi|10.93|79.31|0|T|Thondaradippodi_Alvar
+Thiruppaan Alvar|800|880|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Uraiyur|10.83|78.68|0|T|Thiruppaan_Alvar
+Thirumangai Alvar|800|880|BH|Sri Vaishnava (Alvar)|Tamil Nadu|Tamil|Thirukurayalur|11.20|79.75|0|T|Thirumangai_Alvar
+Manikkavacakar|800|870|BH|Shaiva (Tamil)|Tamil Nadu|Tamil|Thiruvathavur|10.03|78.33|0|T|Manikkavacakar
+Nathamuni|823|951|AC|Sri Vaishnava|Tamil Nadu|Tamil / Sanskrit|Kattumannarkoil|11.28|79.55|0|T|Nathamuni
+Somananda|875|925|AC|Kashmir Shaivism|Kashmir|Sanskrit|Srinagar|34.08|74.80|0|H|Somananda
+Matsyendranath|900|1000|YO|Nath|Assam|Sanskrit|Kamarupa|26.17|91.71|0|L|Matsyendranatha
+Vachaspati Mishra|900|980|AC|Advaita / Nyaya|Bihar|Sanskrit|Andhra Tharhi, Mithila|26.40|86.10|0|H|Vācaspati_Miśra
+Utpaladeva|900|950|AC|Kashmir Shaivism|Kashmir|Sanskrit|Srinagar|34.09|74.81|0|H|Utpaladeva
+Pattinathar|900|1000|YO|Tamil Siddhar|Tamil Nadu|Tamil|Kaveripoompattinam|11.14|79.85|0|T|Pattinathar
+Yamunacharya|916|1041|AC|Sri Vaishnava|Tamil Nadu|Sanskrit|Srirangam|10.86|78.69|0|T|Yamunacharya
+Abhinavagupta|950|1016|AC|Kashmir Shaivism|Kashmir|Sanskrit|Srinagar|34.08|74.79|0|H|Abhinavagupta
+Kshemaraja|975|1025|AC|Kashmir Shaivism|Kashmir|Sanskrit|Srinagar|34.07|74.82|0|H|Kshemaraja
+Udayana|975|1050|AC|Nyaya|Bihar|Sanskrit|Kariyan, Mithila|25.90|85.95|0|H|Udayana
+Gorakhnath|1000|1100|YO|Nath|Uttar Pradesh|Sanskrit / Hindi|Gorakhpur|26.76|83.37|0|T|Gorakhnath
+Kurathalvan|1010|1132|AC|Sri Vaishnava|Tamil Nadu|Sanskrit|Kooram|12.86|79.65|0|H|Kurathalvan
+Ramanuja|1017|1137|AC|Vishishtadvaita|Tamil Nadu|Sanskrit / Tamil|Sriperumbudur|12.97|79.95|0|H|Ramanuja
+Chakrapani Datta|1050|1100|AY|Ayurveda|West Bengal|Sanskrit|Birbhum|23.90|87.60|0|H|Chakrapani_Datta
+Nimbarka|1100|1200|AC|Dvaitadvaita|Uttar Pradesh|Sanskrit|Vrindavan|27.57|77.69|0|T|Nimbarkacharya
+Allama Prabhu|1100|1170|BH|Virashaiva (Sharana)|Karnataka|Kannada|Balligavi|14.33|75.25|0|H|Allama_Prabhu
+Siddharama|1100|1180|BH|Virashaiva (Sharana)|Maharashtra|Kannada|Sonnalagi (Solapur)|17.66|75.91|0|H|Siddharama
+Sekkizhar|1100|1170|BH|Shaiva (Tamil)|Tamil Nadu|Tamil|Kundrathur|12.99|80.10|0|H|Sekkizhar
+Kambar|1100|1200|BH|Rama bhakti|Tamil Nadu|Tamil|Therazhundur|11.04|79.60|0|H|Kambar
+Basava|1105|1167|RF|Virashaiva (Sharana)|Karnataka|Kannada|Basavakalyan|17.87|76.95|0|H|Basava
+Bhaskara II|1114|1185|MA|Jyotisha|Maharashtra|Sanskrit|Patan (Chalisgaon)|20.43|75.00|0|H|Bhāskara_II
+Parasara Bhattar|1122|1174|AC|Sri Vaishnava|Tamil Nadu|Sanskrit|Srirangam|10.87|78.70|0|H|Parasara_Bhattar
+Akka Mahadevi|1130|1160|BH|Virashaiva (Sharana)|Karnataka|Kannada|Udutadi|14.27|75.35|1|H|Akka_Mahadevi
+Channabasavanna|1144|1196|AC|Virashaiva (Sharana)|Karnataka|Kannada|Ulavi|15.10|74.45|0|H|Channabasavanna
+Jayadeva|1170|1245|BH|Vaishnava (Gita Govinda)|Odisha|Sanskrit|Kenduli Sasan|20.06|85.98|0|H|Jayadeva
+Sarangadeva|1175|1247|MU|Sangita shastra|Maharashtra|Sanskrit|Devagiri|19.94|75.21|0|H|Śārṅgadeva
+Chakradhar Swami|1194|1274|AC|Mahanubhava|Maharashtra|Marathi|Riddhipur|21.18|77.73|0|H|Chakradhar_Swami
+Meykandar|1200|1260|AC|Shaiva Siddhanta|Tamil Nadu|Tamil|Thiruvennainallur|11.86|79.37|0|H|Meykandar
+Palkuriki Somanatha|1200|1280|BH|Virashaiva|Telangana|Telugu|Palkurthi|17.66|79.43|0|H|Palkuriki_Somanatha
+Pillai Lokacharya|1205|1311|AC|Sri Vaishnava (Tenkalai)|Tamil Nadu|Tamil|Srirangam|10.86|78.68|0|H|Pillai_Lokacharya
+Madhvacharya|1238|1317|AC|Dvaita Vedanta|Karnataka|Sanskrit|Pajaka, Udupi|13.34|74.75|0|H|Madhvacharya
+Janabai|1263|1350|BH|Varkari|Maharashtra|Marathi|Gangakhed|18.97|76.75|1|H|Janabai
+Gora Kumbhar|1267|1317|BH|Varkari|Maharashtra|Marathi|Ter|18.32|76.15|0|H|Gora_Kumbhar
+Vedanta Desika|1268|1369|AC|Sri Vaishnava (Vadakalai)|Tamil Nadu|Sanskrit / Tamil|Kanchipuram|12.84|79.71|0|H|Vedanta_Desika
+Namdev|1270|1350|BH|Varkari|Maharashtra|Marathi|Pandharpur|17.68|75.33|0|H|Namdev
+Nivruttinath|1273|1297|BH|Varkari / Nath|Maharashtra|Marathi|Trimbak|19.93|73.53|0|H|Nivruttinath
+Dnyaneshwar|1275|1296|BH|Varkari|Maharashtra|Marathi|Alandi|18.68|73.90|0|H|Dnyaneshwar
+Sopan|1277|1296|BH|Varkari|Maharashtra|Marathi|Saswad|18.34|74.03|0|H|Sopan_(saint)
+Muktabai|1279|1297|BH|Varkari|Maharashtra|Marathi|Alandi|18.67|73.91|1|H|Muktabai
+Savata Mali|1250|1295|BH|Varkari|Maharashtra|Marathi|Arangaon|17.95|75.35|0|H|Savata_Mali
+Vidyaranya|1296|1386|AC|Advaita Vedanta|Karnataka|Sanskrit|Sringeri / Hampi|13.42|75.25|0|H|Vidyaranya
+Chokhamela|1300|1338|BH|Varkari|Maharashtra|Marathi|Mangalvedhe|17.52|75.45|0|H|Chokhamela
+Soyarabai|1300|1350|BH|Varkari|Maharashtra|Marathi|Mangalvedhe|17.53|75.46|1|H|Soyarabai
+Gangesha|1300|1360|AC|Navya-Nyaya|Bihar|Sanskrit|Mithila|26.20|86.00|0|H|Gaṅgeśa_Upādhyāya
+Vilvamangalam Swamiyar|1300|1380|BH|Vaishnava (Kerala)|Kerala|Sanskrit|Thrissur|10.52|76.21|0|T|Vilvamangalam_Swamiyar
+Sayana|1315|1387|AC|Vedic commentary|Karnataka|Sanskrit|Vijayanagara (Hampi)|15.33|76.46|0|H|Sayana
+Lal Ded|1320|1392|YO|Kashmir Shaivism|Kashmir|Kashmiri|Pandrethan|34.06|74.88|1|H|Lal_Ded
+Madhava of Sangamagrama|1340|1425|MA|Kerala school|Kerala|Sanskrit / Malayalam|Irinjalakuda|10.34|76.21|0|H|Madhava_of_Sangamagrama
+Jayatirtha|1345|1388|AC|Dvaita Vedanta|Maharashtra|Sanskrit|Mangalvedhe|17.51|75.44|0|H|Jayatirtha
+Ramdev Pir|1352|1385|BH|Folk Vaishnava (Rajasthan)|Rajasthan|Marwari|Ramdevra|27.01|71.92|0|T|Baba_Ramdev
+Arunagirinathar|1370|1450|BH|Murugan bhakti|Tamil Nadu|Tamil|Tiruvannamalai|12.23|79.07|0|H|Arunagirinathar
+Manavala Mamunigal|1370|1443|AC|Sri Vaishnava (Tenkalai)|Tamil Nadu|Tamil|Alwarthirunagari|8.60|77.93|0|H|Manavala_Mamunigal
+Parameshvara|1380|1460|MA|Kerala school|Kerala|Sanskrit|Alathiyur|10.90|75.93|0|H|Parameshvara_Nambudiri
+Karni Mata|1387|1538|BH|Shakta (Charan)|Rajasthan|Marwari|Deshnoke|27.79|73.34|1|T|Karni_Mata
+Ramananda|1400|1476|AC|Ramanandi|Uttar Pradesh|Hindi / Sanskrit|Varanasi|25.31|83.00|0|T|Ramananda
+Kanhopatra|1400|1470|BH|Varkari|Maharashtra|Marathi|Mangalvedhe|17.54|75.47|1|T|Kanhopatra
+Annamacharya|1408|1503|BH|Vaishnava (Venkateswara)|Andhra Pradesh|Telugu|Tallapaka|14.22|79.17|0|H|Annamacharya
+Narsinh Mehta|1414|1481|BH|Vaishnava (Krishna)|Gujarat|Gujarati|Junagadh|21.52|70.46|0|H|Narsinh_Mehta
+Dhanna Bhagat|1415|1475|BH|Nirguna Sant|Rajasthan|Hindi|Dhuan Kalan, Tonk|26.17|75.79|0|T|Dhanna_Bhagat
+Sripadaraja|1422|1480|AC|Dvaita (Haridasa)|Karnataka|Kannada|Mulbagal|13.16|78.39|0|H|Sripadaraja
+Pipa|1425|1490|BH|Nirguna Sant|Rajasthan|Hindi|Gagron|24.63|76.18|0|T|Pipa_(saint)
+Kabir|1440|1518|BH|Nirguna Sant|Uttar Pradesh|Hindi|Varanasi|25.32|83.02|0|H|Kabir
+Atukuri Molla|1440|1530|BH|Rama bhakti|Andhra Pradesh|Telugu|Gopavaram|14.60|78.90|1|H|Atukuri_Molla
+Nilakantha Somayaji|1444|1544|MA|Kerala school|Kerala|Sanskrit|Trikkandiyur|10.91|75.92|0|H|Nilakantha_Somayaji
+Srimanta Sankardev|1449|1568|BH|Ekasarana Dharma|Assam|Assamese / Brajavali|Bordowa|26.43|92.62|0|H|Srimanta_Sankardev
+Ravidas|1450|1520|BH|Nirguna Sant|Uttar Pradesh|Hindi|Varanasi|25.30|83.01|0|H|Ravidas
+Bammera Potana|1450|1510|BH|Vaishnava (Bhagavata)|Telangana|Telugu|Bammera|17.78|79.60|0|H|Bammera_Pothana
+Guru Jambheshwar|1451|1536|RF|Bishnoi|Rajasthan|Marwari|Pipasar|27.24|73.92|0|H|Guru_Jambheshwar
+Vyasatirtha|1460|1539|AC|Dvaita Vedanta|Karnataka|Sanskrit / Kannada|Vijayanagara (Hampi)|15.34|76.47|0|H|Vyasatirtha
+Balarama Dasa|1470|1550|BH|Odia Vaishnava (Panchasakha)|Odisha|Odia|Puri|19.81|85.83|0|H|Balarama_Dasa
+Nityananda|1474|1540|BH|Gaudiya Vaishnava|West Bengal|Bengali|Ekachakra|24.10|87.68|0|H|Nityananda
+Vallabhacharya|1479|1531|AC|Shuddhadvaita (Pushti Marg)|Chhattisgarh|Sanskrit|Champaran|21.00|81.85|0|H|Vallabha
+Swami Haridas|1480|1575|MU|Haridasi Vaishnava|Uttar Pradesh|Braj Bhasha|Vrindavan|27.58|77.70|0|T|Swami_Haridas
+Vadiraja Tirtha|1480|1600|AC|Dvaita Vedanta|Karnataka|Sanskrit / Kannada|Sode|14.60|74.80|0|H|Vadiraja_Tirtha
+Purandara Dasa|1484|1564|MU|Haridasa (Carnatic)|Karnataka|Kannada|Vijayanagara (Hampi)|15.32|76.45|0|H|Purandara_Dasa
+Achyutananda Dasa|1485|1600|BH|Odia Vaishnava (Panchasakha)|Odisha|Odia|Tilakana|20.37|86.00|0|T|Achyutananda_Dasa
+Chaitanya Mahaprabhu|1486|1534|BH|Gaudiya Vaishnava|West Bengal|Bengali / Sanskrit|Nabadwip|23.41|88.37|0|H|Chaitanya_Mahaprabhu
+Sanatana Goswami|1488|1558|AC|Gaudiya Vaishnava|Uttar Pradesh|Sanskrit|Vrindavan|27.59|77.71|0|H|Sanatana_Goswami
+Rupa Goswami|1489|1564|AC|Gaudiya Vaishnava|Uttar Pradesh|Sanskrit|Vrindavan|27.58|77.69|0|H|Rupa_Goswami
+Madhavdev|1489|1596|BH|Ekasarana Dharma|Assam|Assamese|Narayanpur, Lakhimpur|27.00|93.85|0|H|Madhavdev
+Jagannatha Dasa (Odia)|1491|1550|BH|Odia Vaishnava (Panchasakha)|Odisha|Odia|Kapileswarpur, Puri|19.85|85.78|0|H|Jagannatha_Dasa_(Odia_poet)
+Thunchaththu Ezhuthachan|1495|1575|BH|Rama bhakti|Kerala|Malayalam|Tirur|10.91|75.93|0|H|Thunchaththu_Ramanujan_Ezhuthachan
+Krishnadasa Kaviraja|1496|1588|AC|Gaudiya Vaishnava|Uttar Pradesh|Bengali|Vrindavan|27.57|77.70|0|H|Krishnadasa_Kaviraja
+Mirabai|1498|1547|BH|Krishna bhakti|Rajasthan|Rajasthani / Braj|Merta|26.65|74.03|1|H|Meera
+Tansen|1500|1589|MU|Hindustani (Dhrupad)|Madhya Pradesh|Braj Bhasha|Gwalior|26.22|78.18|0|H|Tansen
+Jyeshthadeva|1500|1575|MA|Kerala school|Kerala|Malayalam|Parangottukara|10.90|75.95|0|H|Jyeshthadeva
+Shankara Variyar|1500|1560|MA|Kerala school|Kerala|Sanskrit|Thrikkutaveli, Ottapalam|10.77|76.38|0|H|Shankara_Variyar
+Sarvajna|1500|1600|BH|Shaiva (folk)|Karnataka|Kannada|Abaluru|14.45|75.35|0|T|Sarvajna
+Bhavamishra|1500|1600|AY|Ayurveda|Uttar Pradesh|Sanskrit|Varanasi|25.33|83.00|0|H|Bhavamishra
+Vijnanabhikshu|1500|1600|AC|Samkhya-Yoga-Vedanta|Uttar Pradesh|Sanskrit|Varanasi|25.31|82.99|0|H|Vijñānabhikṣu
+Jahnava Devi|1500|1570|BH|Gaudiya Vaishnava|West Bengal|Bengali|Khardaha|22.72|88.38|1|H|Jahnava_Devi
+Hit Harivansh|1502|1552|BH|Radhavallabha|Uttar Pradesh|Braj Bhasha|Vrindavan|27.58|77.71|0|H|Hith_Harivansh_Mahaprabhu
+Kanaka Dasa|1509|1609|BH|Haridasa|Karnataka|Kannada|Kaginele|14.66|75.49|0|H|Kanaka_Dasa
+Jiva Goswami|1513|1598|AC|Gaudiya Vaishnava|Uttar Pradesh|Sanskrit|Vrindavan|27.58|77.68|0|H|Jiva_Goswami
+Vitthalnath|1516|1588|AC|Pushti Marg|Uttar Pradesh|Sanskrit / Braj|Gokul|27.44|77.72|0|H|Vitthalnath
+Appayya Dikshitar|1520|1593|AC|Advaita / Shaiva|Tamil Nadu|Sanskrit|Adayapalam, Arani|12.67|79.29|0|H|Appayya_Dikshita
+Surdas|1478|1584|BH|Pushti Marg (Ashtachhap)|Uttar Pradesh|Braj Bhasha|Parasoli, Braj|27.49|77.67|0|H|Surdas
+Narottama Dasa|1531|1611|BH|Gaudiya Vaishnava|Bangladesh|Bengali|Kheturi, Rajshahi|24.39|88.60|0|H|Narottama_Dasa
+Tulsidas|1532|1623|BH|Rama bhakti|Uttar Pradesh|Awadhi|Varanasi|25.29|83.01|0|H|Tulsidas
+Eknath|1533|1599|BH|Varkari|Maharashtra|Marathi|Paithan|19.48|75.38|0|H|Eknath
+Madhusudana Saraswati|1540|1640|AC|Advaita Vedanta|Bangladesh|Sanskrit|Kotalipara|22.98|90.00|0|H|Madhusudana_Sarasvati
+Dadu Dayal|1544|1603|BH|Nirguna Sant (Dadupanth)|Rajasthan|Hindi|Naraina|26.79|75.20|0|H|Dadu_Dayal
+Poonthanam|1547|1640|BH|Krishna bhakti (Guruvayur)|Kerala|Malayalam|Keezhattoor|11.00|76.20|0|H|Poonthanam_Nambudiri
+Raskhan|1548|1628|BH|Krishna bhakti|Uttar Pradesh|Braj Bhasha|Mahaban, Braj|27.43|77.75|0|H|Raskhan
+Achyuta Pisharati|1550|1621|MA|Kerala school|Kerala|Sanskrit|Trikkandiyur|10.92|75.91|0|H|Achyuta_Pisharati
+Melpathur Narayana Bhattathiri|1560|1646|BH|Krishna bhakti (Narayaneeyam)|Kerala|Sanskrit|Melpathur, Tirur|10.86|75.98|0|H|Melpathur_Narayana_Bhattathiri
+Nabhadas|1570|1640|BH|Ramanandi|Rajasthan|Braj Bhasha|Galta, Jaipur|26.92|75.86|0|H|Nabhadas
+Raghavendra Tirtha|1595|1671|AC|Dvaita Vedanta|Andhra Pradesh|Sanskrit|Mantralayam|15.94|77.43|0|H|Raghavendra_Tirtha
+Sundardas|1596|1689|BH|Dadupanth|Rajasthan|Hindi|Dausa|26.88|76.33|0|H|Sundardas
+Kshetrayya|1600|1680|MU|Carnatic (padam)|Andhra Pradesh|Telugu|Movva|16.20|80.94|0|H|Kshetrayya
+Baba Kinaram|1601|1771|YO|Aghori|Uttar Pradesh|Hindi|Varanasi (Krim Kund)|25.30|82.99|0|T|Kina_Ram
+Trailanga Swami|1607|1887|YO|Dashanami|Uttar Pradesh|Telugu / Hindi|Varanasi|25.31|83.01|0|T|Trailanga
+Tukaram|1608|1650|BH|Varkari|Maharashtra|Marathi|Dehu|18.72|73.77|0|H|Tukaram
+Samarth Ramdas|1608|1681|BH|Rama bhakti (Samarth)|Maharashtra|Marathi|Sajjangad|17.66|73.90|0|H|Samarth_Ramdas
+Veerabrahmendra Swami|1608|1693|YO|Kalagnanam (folk)|Andhra Pradesh|Telugu|Kandimallayapalle|15.20|78.50|0|T|Pothuluri_Veerabrahmendra_Swamy
+Akho|1615|1675|BH|Vedanta (Gujarati)|Gujarat|Gujarati|Ahmedabad|23.03|72.58|0|H|Akho
+Prannath|1618|1694|AC|Pranami|Madhya Pradesh|Hindi|Panna|24.72|80.19|0|H|Mahamati_Prannath
+Bhadrachala Ramadasu|1620|1688|BH|Rama bhakti|Telangana|Telugu|Bhadrachalam|17.67|80.89|0|H|Kancherla_Gopanna
+Rupa Bhawani|1621|1721|YO|Kashmir Shaivism|Kashmir|Kashmiri|Srinagar|34.09|74.79|1|H|Rupa_Bhawani
+Kumaraguruparar|1625|1688|BH|Shaiva (Tamil)|Tamil Nadu|Tamil|Srivaikuntam|8.63|77.91|0|H|Kumaraguruparar
+Bahinabai|1628|1700|BH|Varkari|Maharashtra|Marathi|Shirur|18.83|74.37|1|H|Bahinabai
+Siddhendra Yogi|1650|1700|MU|Kuchipudi (Bhama Kalapam)|Andhra Pradesh|Telugu|Kuchipudi|16.25|80.97|0|T|Siddhendra_Yogi
+Vemana|1650|1750|BH|Yogi-poet|Andhra Pradesh|Telugu|Kondaveedu|16.25|80.25|0|T|Vemana
+Narayana Tirtha|1650|1745|BH|Krishna bhakti|Tamil Nadu|Sanskrit|Thirupoonthuruthi|10.89|79.10|0|H|Narayana_Teertha
+Vijaya Dasa|1682|1755|BH|Haridasa|Karnataka|Kannada|Cheekalaparvi, Manvi|16.00|77.05|0|H|Vijaya_Dasa
+Bhaskararaya|1690|1785|AC|Shakta (Srividya)|Tamil Nadu|Sanskrit|Bhaskararajapuram|11.00|79.40|0|H|Bhaskararaya
+Sadasiva Brahmendra|1700|1755|YO|Advaita|Tamil Nadu|Sanskrit|Nerur|10.99|78.07|0|H|Sadasiva_Brahmendra
+Oothukkadu Venkata Kavi|1700|1765|MU|Carnatic|Tamil Nadu|Tamil / Sanskrit|Oothukkadu|10.93|79.32|0|T|Oothukkadu_Venkata_Kavi
+Baladeva Vidyabhushana|1700|1793|AC|Gaudiya Vaishnava|Rajasthan|Sanskrit|Jaipur (Galta)|26.92|75.82|0|H|Baladeva_Vidyabhushana
+Charandas|1703|1782|BH|Charandasi|Delhi|Hindi|Delhi|28.65|77.23|0|H|Charandas
+Thayumanavar|1705|1742|YO|Shaiva Siddhanta / Advaita|Tamil Nadu|Tamil|Vedaranyam|10.37|79.85|0|H|Thayumanavar
+Arunachala Kavi|1711|1779|MU|Carnatic (Rama Natakam)|Tamil Nadu|Tamil|Sirkazhi|11.25|79.73|0|H|Arunachala_Kavi
+Mahipati|1715|1790|BH|Varkari (hagiographer)|Maharashtra|Marathi|Taharabad|19.50|74.60|0|H|Mahipati
+Ramprasad Sen|1718|1775|BH|Shakta|West Bengal|Bengali|Halisahar|22.95|88.42|0|H|Ramprasad_Sen
+Sahajo Bai|1725|1805|BH|Charandasi|Delhi|Hindi|Delhi|28.66|77.22|1|H|Sahajo_Bai
+Daya Bai|1725|1800|BH|Charandasi|Delhi|Hindi|Delhi|28.64|77.24|1|H|Daya_Bai
+Jagannatha Dasa (Haridasa)|1728|1809|BH|Haridasa|Karnataka|Kannada|Manvi|15.99|77.05|0|H|Jagannatha_Dasa_(Haridasa)
+Tarigonda Vengamamba|1730|1817|BH|Vaishnava (Venkateswara)|Andhra Pradesh|Telugu|Tarigonda|13.73|78.70|1|H|Tarigonda_Vengamamba
+Lokenath Brahmachari|1730|1890|YO|Dashanami|Bangladesh|Bengali|Barodi|23.69|90.56|0|T|Lokenath_Brahmachari
+Guru Ghasidas|1756|1850|RF|Satnami|Chhattisgarh|Chhattisgarhi|Girodpuri|21.60|82.30|0|H|Guru_Ghasidas
+Syama Sastri|1762|1827|MU|Carnatic (Trinity)|Tamil Nadu|Telugu|Thanjavur|10.79|79.14|0|H|Syama_Sastri
+Tyagaraja|1767|1847|MU|Carnatic (Trinity)|Tamil Nadu|Telugu|Thiruvaiyaru|10.88|79.10|0|H|Tyagaraja
+Kamalakanta Bhattacharya|1769|1821|BH|Shakta|West Bengal|Bengali|Bardhaman|23.24|87.86|0|H|Kamalakanta_Bhattacharya
+Ram Mohan Roy|1772|1833|RF|Brahmo Samaj|West Bengal|Bengali|Radhanagar|22.82|87.86|0|H|Ram_Mohan_Roy
+Muthuswami Dikshitar|1775|1835|MU|Carnatic (Trinity)|Tamil Nadu|Sanskrit|Tiruvarur|10.77|79.64|0|H|Muthuswami_Dikshitar
+Dayaram|1777|1853|BH|Pushti Marg|Gujarat|Gujarati|Dabhoi|22.13|73.41|0|H|Dayaram
+Swaminarayan|1781|1830|AC|Swaminarayan Sampradaya|Gujarat|Gujarati / Sanskrit|Gadhada|21.97|71.57|0|H|Swaminarayan
+Bhojo Bhagat|1785|1850|BH|Sant (Gujarati)|Gujarat|Gujarati|Fatehpur, Amreli|21.60|71.22|0|H|Bhojo_Bhagat
+Jalaram Bapa|1799|1881|BH|Rama bhakti|Gujarat|Gujarati|Virpur|21.85|70.68|0|H|Jalaram
+Swami Samarth|1800|1878|YO|Dattatreya|Maharashtra|Marathi|Akkalkot|17.52|76.20|0|T|Swami_Samarth
+Mahima Gosain|1800|1876|RF|Mahima Dharma|Odisha|Odia|Joranda|20.75|85.60|0|T|Mahima_Gosain
+Ayya Vaikundar|1809|1851|RF|Ayyavazhi|Tamil Nadu|Tamil|Swamithoppe|8.12|77.48|0|H|Ayya_Vaikundar
+Gopalakrishna Bharati|1810|1896|MU|Carnatic|Tamil Nadu|Tamil|Mayiladuthurai|11.10|79.65|0|H|Gopalakrishna_Bharathi
+Harichand Thakur|1812|1878|RF|Matua|Bangladesh|Bengali|Orakandi|23.00|89.90|0|H|Harichand_Thakur
+Swathi Thirunal|1813|1846|MU|Carnatic|Kerala|Sanskrit / Malayalam|Thiruvananthapuram|8.52|76.94|0|H|Swathi_Thirunal_Rama_Varma
+Debendranath Tagore|1817|1905|RF|Brahmo Samaj|West Bengal|Bengali|Kolkata|22.57|88.36|0|H|Debendranath_Tagore
+Ramalinga Swamigal|1823|1874|RF|Samarasa Suddha Sanmarga|Tamil Nadu|Tamil|Vadalur|11.55|79.55|0|H|Ramalinga_Swamigal
+Dayananda Saraswati|1824|1883|RF|Arya Samaj|Gujarat|Hindi / Sanskrit|Tankara|22.66|70.75|0|H|Dayananda_Saraswati
+Lahiri Mahasaya|1828|1895|YO|Kriya Yoga|Uttar Pradesh|Bengali|Varanasi|25.30|83.00|0|H|Lahiri_Mahasaya
+Ramakrishna|1836|1886|YO|Shakta / Vedanta|West Bengal|Bengali|Dakshineswar|22.65|88.36|0|H|Ramakrishna
+Bamakhepa|1837|1911|YO|Shakta (Tantra)|West Bengal|Bengali|Tarapith|24.11|87.80|0|H|Bamakhepa
+Bhaktivinoda Thakur|1838|1914|AC|Gaudiya Vaishnava|West Bengal|Bengali|Mayapur|23.42|88.39|0|H|Bhaktivinoda_Thakur
+Sai Baba of Shirdi|1838|1918|YO|Syncretic|Maharashtra|Marathi / Urdu|Shirdi|19.77|74.48|0|H|Sai_Baba_of_Shirdi
+Gondavalekar Maharaj|1845|1913|BH|Rama bhakti|Maharashtra|Marathi|Gondavale|17.60|74.50|0|H|Gondavalekar_Maharaj
+Ganga Sati|1846|1894|BH|Sant (Gujarati)|Gujarat|Gujarati|Samadhiyala|21.60|71.70|1|T|Ganga_Sati
+Bhima Bhoi|1850|1895|BH|Mahima Dharma|Odisha|Odia|Khaliapali|21.28|84.04|0|H|Bhima_Bhoi
+Brahmananda Sivayogi|1852|1929|RF|Ananda Matham|Kerala|Malayalam|Alathur|10.65|76.54|0|H|Brahmananda_Swami_Sivayogi
+Sarada Devi|1853|1920|BH|Ramakrishna Order|West Bengal|Bengali|Jayrambati|23.00|87.60|1|H|Sarada_Devi
+Chattampi Swamikal|1853|1924|RF|Advaita (Kerala)|Kerala|Malayalam|Kollur, Thiruvananthapuram|8.53|76.95|0|H|Chattampi_Swamikal
+Sri Yukteswar Giri|1855|1936|YO|Kriya Yoga|West Bengal|Bengali|Serampore|22.75|88.34|0|H|Swami_Sri_Yukteswar_Giri
+Swami Shraddhanand|1856|1926|RF|Arya Samaj|Uttarakhand|Hindi|Kangri, Haridwar|29.93|78.13|0|H|Swami_Shraddhanand
+Narayana Guru|1856|1928|RF|Advaita (anti-caste)|Kerala|Malayalam|Chempazhanthy|8.61|76.89|0|H|Narayana_Guru
+Vishnu Narayan Bhatkhande|1860|1936|MU|Hindustani|Maharashtra|Marathi|Mumbai|18.96|72.82|0|H|Vishnu_Narayan_Bhatkhande
+Swami Vivekananda|1863|1902|RF|Vedanta (Ramakrishna Order)|West Bengal|Bengali / English|Kolkata|22.58|88.37|0|H|Swami_Vivekananda
+Seshadri Swamigal|1870|1929|YO|Advaita|Tamil Nadu|Tamil|Tiruvannamalai|12.24|79.06|0|H|Seshadri_Swamigal
+Upasni Maharaj|1870|1941|YO|Sakori|Maharashtra|Marathi|Sakori|19.72|74.47|0|H|Upasni_Maharaj
+Vishnu Digambar Paluskar|1872|1931|MU|Hindustani|Maharashtra|Marathi|Kurundwad|16.68|74.59|0|H|Vishnu_Digambar_Paluskar
+Sri Aurobindo|1872|1950|YO|Integral Yoga|Puducherry|English / Bengali|Pondicherry|11.93|79.83|0|H|Sri_Aurobindo
+Rama Tirtha|1873|1906|RF|Vedanta|Punjab (Pakistan)|Urdu / English|Muraliwala, Gujranwala|32.16|74.18|0|H|Rama_Tirtha
+Bhaktisiddhanta Sarasvati|1874|1937|AC|Gaudiya Vaishnava|Odisha|Bengali|Puri|19.81|85.83|0|H|Bhaktisiddhanta_Sarasvati
+Gadge Maharaj|1876|1956|RF|Varkari (social reform)|Maharashtra|Marathi|Amravati|20.93|77.75|0|H|Gadge_Maharaj
+Gajanan Maharaj|1878|1910|YO|Avadhuta|Maharashtra|Marathi|Shegaon|20.79|76.69|0|H|Gajanan_Maharaj
+Ramana Maharshi|1879|1950|YO|Advaita|Tamil Nadu|Tamil|Tiruvannamalai|12.23|79.07|0|H|Ramana_Maharshi
+Swami Kuvalayananda|1883|1966|YO|Modern yoga (research)|Maharashtra|Marathi|Lonavala|18.75|73.41|0|H|Swami_Kuvalayananda
+Vagbhatananda|1885|1939|RF|Atmavidya Sangham|Kerala|Malayalam|Kannur|11.87|75.37|0|H|Vagbhatananda
+Srinivasa Ramanujan|1887|1920|MA|Modern mathematics|Tamil Nadu|Tamil|Kumbakonam|10.96|79.38|0|H|Srinivasa_Ramanujan
+Swami Sivananda|1887|1963|YO|Divine Life Society|Uttarakhand|English|Rishikesh|30.09|78.27|0|H|Sivananda_Saraswati
+T. Krishnamacharya|1888|1989|YO|Modern yoga (Vinyasa)|Karnataka|Kannada / Sanskrit|Mysuru|12.30|76.65|0|H|Tirumalai_Krishnamacharya
+Sahajanand Saraswati|1889|1950|RF|Dashanami (peasant movement)|Bihar|Hindi|Bihta|25.56|84.87|0|H|Sahajanand_Saraswati
+Papanasam Sivan|1890|1973|MU|Carnatic|Tamil Nadu|Tamil|Papanasam|10.93|79.27|0|H|Papanasam_Sivan
+Chandrashekhara Bharati III|1892|1954|AC|Advaita (Sringeri)|Karnataka|Sanskrit|Sringeri|13.41|75.26|0|H|Chandrashekhara_Bharati_III
+Paramahansa Yogananda|1893|1952|YO|Kriya Yoga|Uttar Pradesh|Bengali / English|Gorakhpur|26.75|83.38|0|H|Paramahansa_Yogananda
+Chandrasekharendra Saraswati|1894|1994|AC|Advaita (Kanchi)|Tamil Nadu|Tamil / Sanskrit|Kanchipuram|12.84|79.70|0|H|Chandrashekarendra_Saraswati
+Vinoba Bhave|1895|1982|RF|Sarvodaya|Maharashtra|Marathi|Paunar|20.79|78.67|0|H|Vinoba_Bhave
+Anandamayi Ma|1896|1982|YO|Bengal Vaishnava-Shakta|Bangladesh|Bengali|Kheora|23.96|91.13|1|H|Anandamayi_Ma
+Bhaktivedanta Swami Prabhupada|1896|1977|AC|Gaudiya Vaishnava (ISKCON)|West Bengal|Bengali / English|Kolkata|22.56|88.35|0|H|A._C._Bhaktivedanta_Swami_Prabhupada
+Shri Yogendra|1897|1989|YO|Modern yoga|Maharashtra|Gujarati / English|Mumbai|18.97|72.83|0|H|Shri_Yogendra
+Neem Karoli Baba|1900|1973|BH|Hanuman bhakti|Uttarakhand|Hindi|Kainchi Dham|29.42|79.50|0|H|Neem_Karoli_Baba
+Swami Lakshmanjoo|1907|1991|AC|Kashmir Shaivism|Kashmir|Kashmiri / Sanskrit|Srinagar|34.10|74.84|0|H|Swami_Lakshman_Joo
+Karpatri|1907|1982|AC|Dashanami|Uttar Pradesh|Hindi / Sanskrit|Varanasi|25.32|82.98|0|H|Karpatri
+Tukdoji Maharaj|1909|1968|RF|Varkari (social reform)|Maharashtra|Marathi|Mozari|20.82|78.13|0|H|Tukdoji_Maharaj
+Swami Chinmayananda|1916|1993|AC|Advaita (Chinmaya Mission)|Kerala|English|Ernakulam|9.98|76.28|0|H|Chinmayananda_Saraswati
+Samanta Chandrasekhar|1835|1904|MA|Jyotisha|Odisha|Odia / Sanskrit|Khandapara|20.26|85.17|0|H|Samanta_Chandrasekhar

@@ -1,0 +1,77 @@
+# name|deity / tradition|group|place|lat|lng|wiki
+Somnath|Shiva|Jyotirlinga|Prabhas Patan, Gujarat|20.888|70.401|Somnath_temple
+Mallikarjuna, Srisailam|Shiva|Jyotirlinga|Srisailam, Andhra Pradesh|16.074|78.868|Mallikarjuna_Temple,_Srisailam
+Mahakaleshwar|Shiva|Jyotirlinga|Ujjain, Madhya Pradesh|23.183|75.768|Mahakaleshwar_Jyotirlinga
+Omkareshwar|Shiva|Jyotirlinga|Mandhata, Madhya Pradesh|22.245|76.151|Omkareshwar
+Kedarnath|Shiva|Jyotirlinga|Kedarnath, Uttarakhand|30.735|79.067|Kedarnath_Temple
+Bhimashankar|Shiva|Jyotirlinga|Bhimashankar, Maharashtra|19.072|73.536|Bhimashankar_Temple
+Kashi Vishwanath|Shiva|Jyotirlinga|Varanasi, Uttar Pradesh|25.311|83.011|Kashi_Vishwanath_Temple
+Trimbakeshwar|Shiva|Jyotirlinga|Trimbak, Maharashtra|19.932|73.531|Trimbakeshwar_Shiva_Temple
+Baidyanath|Shiva|Jyotirlinga|Deoghar, Jharkhand|24.492|86.700|Baidyanath_Temple
+Nageshwar|Shiva|Jyotirlinga|Dwarka, Gujarat|22.336|69.087|Nageshvara_Jyotirlinga
+Ramanathaswamy|Shiva|Jyotirlinga · Char Dham|Rameswaram, Tamil Nadu|9.288|79.317|Ramanathaswamy_Temple
+Grishneshwar|Shiva|Jyotirlinga|Verul, Maharashtra|20.025|75.170|Grishneshwar_Temple
+Badrinath|Vishnu|Char Dham|Badrinath, Uttarakhand|30.744|79.491|Badrinath_Temple
+Jagannath, Puri|Vishnu (Jagannath)|Char Dham|Puri, Odisha|19.805|85.818|Jagannath_Temple,_Puri
+Dwarkadhish|Krishna|Char Dham|Dwarka, Gujarat|22.238|68.968|Dwarkadhish_Temple
+Gangotri|Ganga|Himalayan shrine|Gangotri, Uttarakhand|30.994|78.940|Gangotri_Temple
+Yamunotri|Yamuna|Himalayan shrine|Yamunotri, Uttarakhand|31.014|78.459|Yamunotri_Temple
+Meenakshi Amman|Meenakshi & Sundareswarar|Shakta / Shaiva|Madurai, Tamil Nadu|9.919|78.119|Meenakshi_Temple
+Ranganathaswamy, Srirangam|Vishnu (Ranganatha)|Divya Desam|Srirangam, Tamil Nadu|10.862|78.690|Ranganathaswamy_Temple,_Srirangam
+Venkateswara, Tirumala|Vishnu (Venkateswara)|Divya Desam|Tirumala, Andhra Pradesh|13.683|79.347|Venkateswara_Temple,_Tirumala
+Brihadeeswarar|Shiva|Chola temple|Thanjavur, Tamil Nadu|10.783|79.132|Brihadisvara_Temple,_Thanjavur
+Thillai Nataraja|Shiva (Nataraja)|Pancha Bhoota|Chidambaram, Tamil Nadu|11.399|79.693|Thillai_Nataraja_Temple,_Chidambaram
+Ekambareswarar|Shiva|Pancha Bhoota|Kanchipuram, Tamil Nadu|12.847|79.700|Ekambareswarar_Temple
+Arunachaleswarar|Shiva|Pancha Bhoota|Tiruvannamalai, Tamil Nadu|12.231|79.068|Annamalaiyar_Temple
+Jambukeswarar|Shiva|Pancha Bhoota|Thiruvanaikaval, Tamil Nadu|10.853|78.706|Jambukeswarar_Temple,_Thiruvanaikaval
+Srikalahasti|Shiva|Pancha Bhoota|Srikalahasti, Andhra Pradesh|13.750|79.698|Srikalahasti_Temple
+Varadharaja Perumal|Vishnu|Divya Desam|Kanchipuram, Tamil Nadu|12.819|79.725|Varadharaja_Perumal_Temple,_Kanchipuram
+Kamakshi Amman|Kamakshi|Shakta|Kanchipuram, Tamil Nadu|12.840|79.703|Kamakshi_Amman_Temple
+Kapaleeshwarar|Shiva|Paadal Petra Sthalam|Mylapore, Chennai|13.034|80.270|Kapaleeshwarar_Temple
+Parthasarathy|Krishna|Divya Desam|Triplicane, Chennai|13.054|80.277|Parthasarathy_Temple,_Chennai
+Andal Temple|Andal & Vishnu|Divya Desam|Srivilliputhur, Tamil Nadu|9.509|77.632|Srivilliputhur_Andal_Temple
+Adinathar, Alwarthirunagari|Vishnu|Divya Desam|Alwarthirunagari, Tamil Nadu|8.608|77.938|Adinatha_Perumal_Temple
+Sarangapani|Vishnu|Divya Desam|Kumbakonam, Tamil Nadu|10.959|79.376|Sarangapani_Temple
+Thyagaraja, Tiruvarur|Shiva|Paadal Petra Sthalam|Tiruvarur, Tamil Nadu|10.772|79.636|Thyagaraja_Temple,_Tiruvarur
+Kailasanathar|Shiva|Pallava temple|Kanchipuram, Tamil Nadu|12.843|79.687|Kailasanathar_Temple,_Kanchipuram
+Palani Murugan|Murugan|Arupadai Veedu|Palani, Tamil Nadu|10.440|77.520|Arulmigu_Dhandayuthapani_Swamy_Temple
+Tiruchendur Murugan|Murugan|Arupadai Veedu|Tiruchendur, Tamil Nadu|8.496|78.124|Tiruchendur_Murugan_Temple
+Guruvayur|Krishna|Kerala temple|Guruvayur, Kerala|10.594|76.039|Guruvayur_Temple
+Padmanabhaswamy|Vishnu|Divya Desam|Thiruvananthapuram, Kerala|8.483|76.944|Padmanabhaswamy_Temple
+Sabarimala|Ayyappan|Kerala temple|Sabarimala, Kerala|9.435|77.081|Sabarimala_Temple
+Udupi Krishna Matha|Krishna|Dvaita matha|Udupi, Karnataka|13.341|74.752|Krishna_Temple,_Udupi
+Sringeri Sharada Peetham|Sharada|Advaita matha|Sringeri, Karnataka|13.418|75.252|Sringeri_Sharada_Peetham
+Mookambika, Kollur|Mookambika|Shakta|Kollur, Karnataka|13.863|74.814|Kollur_Mookambika_Temple
+Virupaksha, Hampi|Shiva|Vijayanagara|Hampi, Karnataka|15.335|76.459|Virupaksha_Temple,_Hampi
+Chennakeshava, Belur|Vishnu|Hoysala temple|Belur, Karnataka|13.163|75.861|Chennakeshava_Temple,_Belur
+Gokarna Mahabaleshwar|Shiva|Kshetra|Gokarna, Karnataka|14.543|74.318|Mahabaleshwar_Temple,_Gokarna
+Raghavendra Swamy Matha|Raghavendra Tirtha|Dvaita matha|Mantralayam, Andhra Pradesh|15.940|77.426|Mantralayam
+Simhachalam|Narasimha|Vaishnava|Visakhapatnam, Andhra Pradesh|17.766|83.250|Simhachalam_Temple
+Bhadrachalam|Rama|Vaishnava|Bhadrachalam, Telangana|17.668|80.893|Bhadrachalam_Temple
+Vitthal, Pandharpur|Vitthal|Varkari|Pandharpur, Maharashtra|17.678|75.331|Vithoba_Temple,_Pandharpur
+Mahalakshmi, Kolhapur|Mahalakshmi|Shakti Peetha|Kolhapur, Maharashtra|16.695|74.224|Mahalakshmi_Temple,_Kolhapur
+Kailasa, Ellora|Shiva|Rock-cut|Ellora, Maharashtra|20.024|75.179|Kailasa_temple,_Ellora
+Shirdi Sai Baba Samadhi|Sai Baba|Samadhi mandir|Shirdi, Maharashtra|19.766|74.477|Shirdi_Sai_Baba_Temple
+Kamakhya|Kamakhya|Shakti Peetha|Guwahati, Assam|26.166|91.705|Kamakhya_Temple
+Kalighat|Kali|Shakti Peetha|Kolkata, West Bengal|22.520|88.342|Kalighat_Kali_Temple
+Dakshineswar Kali|Bhavatarini Kali|Shakta|Dakshineswar, West Bengal|22.655|88.357|Dakshineswar_Kali_Temple
+Tarapith|Tara|Shakti Peetha|Tarapith, West Bengal|24.115|87.797|Tarapith
+Lingaraj|Shiva (Harihara)|Kalinga temple|Bhubaneswar, Odisha|20.238|85.834|Lingaraja_Temple
+Konark Sun Temple|Surya|Kalinga temple|Konark, Odisha|19.888|86.095|Konark_Sun_Temple
+Vishnupad|Vishnu|Vaishnava|Gaya, Bihar|24.772|85.009|Vishnupad_Temple
+Banke Bihari|Krishna|Braj temple|Vrindavan, Uttar Pradesh|27.580|77.700|Banke_Bihari_Temple
+Govind Dev Ji|Krishna|Gaudiya Vaishnava|Jaipur, Rajasthan|26.926|75.824|Govind_Dev_Ji_Temple
+Shrinathji|Krishna (Shrinathji)|Pushti Marg|Nathdwara, Rajasthan|24.930|73.822|Shrinathji_Temple
+Brahma Temple, Pushkar|Brahma|Tirtha|Pushkar, Rajasthan|26.488|74.555|Brahma_Temple,_Pushkar
+Karni Mata Temple|Karni Mata|Shakta|Deshnoke, Rajasthan|27.790|73.341|Karni_Mata_Temple
+Kandariya Mahadeva|Shiva|Chandela temple|Khajuraho, Madhya Pradesh|24.852|79.921|Kandariya_Mahadeva_Temple
+Modhera Sun Temple|Surya|Solanki temple|Modhera, Gujarat|23.583|72.133|Sun_Temple,_Modhera
+Ambaji|Amba|Shakti Peetha|Ambaji, Gujarat|24.335|72.851|Ambaji_Temple
+Vaishno Devi|Vaishno Devi|Shakta|Katra, Jammu|33.030|74.949|Vaishno_Devi_Temple
+Amarnath Cave|Shiva|Himalayan shrine|Amarnath, Kashmir|34.215|75.501|Amarnath_Temple
+Kheer Bhawani|Ragnya Devi|Shakta|Tulmul, Kashmir|34.218|74.772|Kheer_Bhawani
+Jwalamukhi|Jwala Devi|Shakti Peetha|Jawalamukhi, Himachal Pradesh|31.876|76.322|Jawalamukhi_Temple
+Pashupatinath|Shiva|Shaiva|Kathmandu, Nepal|27.711|85.348|Pashupatinath_Temple
+Gorakhnath Math|Gorakhnath|Nath|Gorakhpur, Uttar Pradesh|26.775|83.358|Gorakhnath_Math
+Batadrava Than|Sankardev|Ekasarana (Satra)|Bordowa, Assam|26.430|92.620|Batadrava_Than
+Kudalasangama|Shiva (Sangamesha)|Virashaiva|Kudalasangama, Karnataka|16.208|76.059|Kudalasangama

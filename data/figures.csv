@@ -1,0 +1,838 @@
+id,name,start,end,category,tradition,sect,region,language,place,lat,lon,woman,attestation,wikipedia,note
+0,Malayala Swami,1885,1962,AC,Advaita Vedanta,Smarta,Andhra Pradesh,Malayalam / Telugu,Erpedu,13.685,79.348,,H,Malayala_Swamy,"founder of Vyasashram, Erpedu"
+1,Atukuri Molla,1440,1530,PW,Bhakti poetry,Shaiva,Andhra Pradesh,Telugu,Gopavaram,14.6,79.6,1,H,Atukuri_Molla,"woman poet, Molla Ramayanam"
+2,Tarigonda Vengamamba,1730,1817,PW,Bhakti poetry,Vaishnava,Andhra Pradesh,Telugu,Tarigonda,13.85,78.65,1,H,Tarigonda_Vengamamba,woman poet-saint and yogini of Tirumala
+3,Annamacharya,1408,1503,MU,Carnatic-Bhakti,Vaishnava,Andhra Pradesh,Telugu,Tallapaka,14.06,79.12,,H,Annamacharya,"earliest Telugu sankirtana composer, Tirumala"
+4,Kshetrayya,1600,1699,MU,Carnatic-Bhakti,Vaishnava,Andhra Pradesh,Telugu,Movva,16.19,80.99,,T,Kshetrayya,"padam composer, devotee of Muvva Gopala"
+5,Tallapaka Peda Tirumalacharya,1445,1520,MU,Carnatic-Bhakti,Vaishnava,Andhra Pradesh,,Tallapaka,14.06,79.12,,H,,son of Annamacharya
+6,Sripada Sri Vallabha,1320,1350,BH,Datta,Datta,Andhra Pradesh,,Pithapuram,17.11,82.25,,T,,first avatar of Dattatreya
+7,Raghavendra Swami,1595,1671,AC,Dvaita/Madhva,Vaishnava,Andhra Pradesh,Sanskrit,Mantralayam,15.945,77.42,,H,Raghavendra_Tirtha,saint of Mantralaya
+8,Nimbarka,1200,1299,AC,Nimbarka (Dvaitadvaita),Vaishnava,Andhra Pradesh,Sanskrit,,,,,T,Nimbarkacharya,founder of Nimbarka Sampradaya
+9,Shivabalayogi,1935,1994,YO,Yoga/tapas,Shaiva,Andhra Pradesh,,Adivarapupeta,16.83,82.02,,H,Shivabalayogi,performed 12 years of tapas
+10,Potuluri Veerabrahmam,1608,1693,BH,Yogic-Bhakti,Shaiva,Andhra Pradesh,,Kandimallayapalle,14.55,78.42,,T,Potuluri_Veerabrahmam,seer-saint of Kadapa; Kalagnana
+11,Vemana,1652,1730,BH,Yogic-Bhakti,Shaiva,Andhra Pradesh,Telugu,Kadapa region,14.47,78.82,,T,Vemana,yogi and satirical philosopher-poet
+12,Jiddu Krishnamurti,1895,1986,BH,non-sectarian,,Andhra Pradesh,Telugu,Madanapalle,13.55,78.5,,H,Jiddu_Krishnamurti,'freedom from the known'
+13,Ananta Kandali,1500,1599,BH,Ekasarana,Vaishnava,Assam,,Hajo,26.24,91.53,,H,,Assamese poet-translator
+14,Damodardeva,1488,1598,BH,Ekasarana (Brahma),Vaishnava,Assam,,Nalaca,26.32,91.0,,H,,founder of Brahma sub-sect
+15,Harideva,1449,1568,BH,Ekasarana (Harideva),Vaishnava,Assam,,Barpeta region,26.32,91.0,,H,,founded a sub-sect
+16,Gopaladeva,1541,1611,BH,Ekasarana (Kala),Vaishnava,Assam,,Bhawanipur,26.4,90.87,,H,,founder of Kala Sanghati sub-sect
+17,Madhavdeva,1489,1596,BH,Ekasarana Dharma,Vaishnava,Assam,Assamese,Letekupukhuri,27.05,94.2,,H,Madhavdev,chief disciple of Sankardeva; Naam Ghosa
+18,Srimanta Sankardeva,1449,1568,BH,Ekasarana Dharma,Vaishnava,Assam,Assamese / Brajavali,Bordowa,26.42,92.66,,H,Srimanta_Sankardev,founder of Ekasarana/Neo-Vaishnavism
+19,Nigamananda Paramahansa,1880,1935,AC,Tantra/Vedanta,Shakta,Assam,Bangla,Kokilamukh,26.85,94.16,,H,Nigamananda_Paramahansa,Saraswata Math founder
+20,Dariya Sahib of Bihar,1634,1780,BH,Dariya Panth,Nirguna-Sant,Bihar,,Dharkandha,24.95,84.03,,H,,founder of Dariya panth (Bihar)
+21,Bhikha Sahib,1718,1778,BH,Sant/Nirguna,Nirguna-Sant,Bihar,,,,,,H,,"poet-saint, guru of Paltu Sahib"
+22,Dharnidas,1700,1799,BH,Sant/Nirguna,Nirguna-Sant,Bihar,,Manjhi,25.78,84.53,,H,,nirguna poet-saint of Bihar
+23,Vidyapati,1352,1448,BH,Vaishnava/Shaiva bhakti,Vaishnava,Bihar,Maithili / Sanskrit,Bisfi,26.28,86.08,,H,Vidyapati,Maithili poet of Mithila
+24,Charandas,1703,1782,BH,Charandasi,Nirguna-Sant,Delhi,Hindi,Delhi,28.656,77.23,,H,Charandas,founder of Charandasi sampradaya
+25,Sahjo Bai,1725,1795,BH,Charandasi,Nirguna-Sant,Delhi,Hindi,Delhi,28.656,77.23,1,H,Sahajo_Bai,"woman poet-saint, disciple of Charandas"
+26,Kirpal Singh,1894,1974,BH,Sant Mat (Ruhani Satsang),,Delhi,,Delhi,28.68,77.24,,H,,founder of Ruhani Satsang
+27,Guru Har Krishan,1656,1664,BH,Sikh,Sikh,Delhi,,Delhi,28.626,77.208,,H,,eighth Sikh Guru
+28,Rang Avadhoot,1898,1968,BH,Datta sampradaya,Datta,Gujarat,Gujarati / Marathi,Nareshwar,21.98,73.38,,H,Rang_Avadhoot,"Datta avadhuta, Datta Bavani"
+29,Dhiro Bhagat,1753,1825,BH,Jnana bhakti,Vaishnava,Gujarat,,Savli,22.57,73.21,,H,,Gujarati poet of 'kafi' verses
+30,Akho (Akha Bhagat),1591,1656,BH,Jnana/Nirguna,Vaishnava,Gujarat,Gujarati,Ahmedabad,23.03,72.58,,H,Akho,Gujarati poet of chhappa satire
+31,Narsinh Mehta,1414,1481,BH,Krishna bhakti,Vaishnava,Gujarat,Gujarati,Junagadh,21.52,70.46,,H,Narsinh_Mehta,Adi Kavi of Gujarati; 'Vaishnava Jana To'
+32,Swami Kripalvananda (Kripalu),1913,1981,YO,Kundalini/Kripalu Yoga,Shaiva,Gujarat,,Kayavarohan,22.07,73.27,,H,,kundalini yoga master
+33,Dhyanyogi Madhusudandas,1878,1994,YO,Kundalini/Shakti yoga,Shakta,Gujarat,,Bandhwad,22.2,73.1,,H,Dhyanyogi_Madhusudandas,shaktipat guru
+34,Bhojo Bhagat,1785,1850,BH,Nirguna/Jnana bhakti,Vaishnava,Gujarat,Gujarati,Devki Galol,21.75,70.62,,H,Bhojo_Bhagat,Gujarati poet of 'chabkha' verses
+35,Dayaram,1777,1852,BH,Pushtimarg,Vaishnava,Gujarat,Gujarati,Chanod,21.99,73.42,,H,Dayaram,Gujarati garbi poet of Krishna bhakti
+36,Jalaram Bapa,1799,1881,BH,Rama bhakti,Vaishnava,Gujarat,Gujarati,Virpur,21.86,70.68,,H,Jalaram,"saint of Virpur, langar tradition"
+37,Pritam Das,1718,1798,BH,Ramanandi bhakti,Vaishnava,Gujarat,,Sandesar,22.5,72.3,,H,,Gujarati bhajan poet ('Harino Marag')
+38,Gangasati,1800,1899,BH,Sant/Nijia bhakti,Vaishnava,Gujarat,Gujarati,Samadhiyala,21.73,71.8,1,T,Ganga_Sati,woman saint-poet of Saurashtra
+39,Brahmanand Swami,1772,1832,BH,Swaminarayan,Vaishnava,Gujarat,,Muli,22.68,71.23,,H,,poet-saint of Swaminarayan Sampraday
+40,Muktanand Swami,1758,1830,BH,Swaminarayan,Vaishnava,Gujarat,,Amreli,21.6,71.22,,H,,senior paramhansa and poet
+41,Nishkulanand Swami,1766,1848,BH,Swaminarayan,Vaishnava,Gujarat,Gujarati,Shekhpat,22.45,70.05,,H,Nishkulanand_Swami,poet of vairagya; Yamdanda
+42,Premanand Swami,1784,1855,BH,Swaminarayan,Vaishnava,Gujarat,,Dora,21.5,70.5,,H,,kirtan composer
+43,Swaminarayan (Sahajanand Swami),1781,1830,AC,Swaminarayan,Vaishnava,Gujarat,Gujarati / Sanskrit,Gadhada,21.97,71.57,,H,Swaminarayan,founder of Swaminarayan Sampraday
+44,Bhagatji Maharaj,1829,1897,BH,Swaminarayan (BAPS),Vaishnava,Gujarat,,Mahuva,21.08,71.75,,H,Bhagatji_Maharaj,second guru of BAPS
+45,Gunatitanand Swami,1785,1867,BH,Swaminarayan (BAPS),Vaishnava,Gujarat,,Bhadra,22.35,70.0,,H,Gunatitanand_Swami,BAPS first guru
+46,Shastriji Maharaj,1865,1951,BH,Swaminarayan (BAPS),Vaishnava,Gujarat,,Bochasan,22.48,72.75,,H,Shastriji_Maharaj,founder of BAPS
+47,Yogiji Maharaj,1892,1971,BH,Swaminarayan (BAPS),Vaishnava,Gujarat,,Dhari,21.33,71.02,,H,Yogiji_Maharaj,fourth guru of BAPS
+48,Garib Das,1717,1778,BH,Garibdasi,Nirguna-Sant,Haryana,,Chhudani,28.58,76.72,,H,,"founder of Garibdasi panth, Chhudani"
+49,Charpatinath,900,999,YO,Nath,Shaiva,Himachal Pradesh,,Chamba,32.55,76.13,,T,,Navnath siddha; alchemist-yogi
+50,Hastamalaka,700,799,AC,Advaita,Smarta,Karnataka,,Gokarna region,14.55,74.32,,T,,disciple of Shankara; Dwaraka lineage
+51,Abhinava Vidyatirtha,1917,1989,AC,Advaita (Sringeri),Smarta,Karnataka,,Sringeri,13.417,75.253,,H,Abhinava_Vidyatirtha,35th Jagadguru of Sringeri
+52,Chandrashekhara Bharati III,1892,1954,AC,Advaita (Sringeri),Smarta,Karnataka,Sanskrit,Sringeri,13.417,75.253,,H,Chandrashekhara_Bharati_III,"34th Jagadguru of Sringeri, jivanmukta"
+53,Sacchidananda Shivabhinava Narasimha Bharati,1858,1912,AC,Advaita (Sringeri),Smarta,Karnataka,,Sringeri,13.417,75.253,,H,Sachchidananda_Shivabhinava_Narasimha_Bharati,33rd Jagadguru of Sringeri
+54,Siddharudha Swami,1836,1929,AC,Advaita/Smarta,Smarta,Karnataka,,Hubli,15.36,75.12,,H,Siddharudha_Swami,Advaita saint of Hubli
+55,Vidyaranya,1296,1386,AC,Advaita/Smarta,Smarta,Karnataka,Sanskrit,Hampi,15.335,76.462,,H,Vidyaranya,"Sringeri Jagadguru, mentor of Vijayanagara"
+56,Manik Prabhu,1817,1865,BH,Datta,Datta,Karnataka,,Maniknagar,17.74,77.15,,H,,Datta saint of Maniknagar; Sakalmata sampradaya
+57,Akshobhya Tirtha,1300,1399,AC,Dvaita/Madhva,Vaishnava,Karnataka,,Malkhed,17.19,77.15,,H,Akshobhya_Tirtha,direct disciple of Madhva
+58,Jayatirtha,1345,1388,AC,Dvaita/Madhva,Vaishnava,Karnataka,Sanskrit,Malkhed,17.19,77.15,,H,Jayatirtha,great commentator on Madhva
+59,Madhvacharya,1238,1317,AC,Dvaita/Madhva,Vaishnava,Karnataka,Sanskrit,Pajaka,13.283,74.79,,H,Madhvacharya,founder of Dvaita Vedanta at Udupi
+60,Naraharitirtha,1263,1333,AC,Dvaita/Madhva,Vaishnava,Karnataka,,Hampi,15.335,76.47,,H,,early dasa-sahitya pioneer
+61,Padmanabha Tirtha,1300,1399,AC,Dvaita/Madhva,Vaishnava,Karnataka,,Anegundi,15.348,76.474,,H,,first pontiff after Madhva
+62,Satyanatha Tirtha,1604,1674,AC,Dvaita/Madhva,Vaishnava,Karnataka,,Veligallu,14.1,78.2,,H,Satyanatha_Tirtha,pontiff of Uttaradi Mutt
+63,Gopala Dasa,1721,1769,BH,Haridasa,Vaishnava,Karnataka,,Mosarakallu,16.0,77.0,,H,,disciple of Vijaya Dasa
+64,Jagannatha Dasa,1728,1809,BH,Haridasa,Vaishnava,Karnataka,Odia,Manvi,15.993,77.053,,H,Jagannatha_Dasa_(Odia_poet),author of Harikathamruthasara
+65,Kanaka Dasa,1509,1609,BH,Haridasa,Vaishnava,Karnataka,Kannada,Kaginele,14.85,75.62,,H,Kanaka_Dasa,"dasa poet-saint of Kaginele, reformer"
+66,Purandara Dasa,1484,1564,MU,Haridasa,Vaishnava,Karnataka,Kannada,Hampi,15.335,76.462,,H,Purandara_Dasa,'Pitamaha' of Carnatic music
+67,Sripadaraja,1404,1502,AC,Haridasa,Vaishnava,Karnataka,Kannada,Mulbagal,13.165,78.39,,H,Sripadaraja,pioneer of Haridasa movement
+68,Vijaya Dasa,1682,1755,BH,Haridasa,Vaishnava,Karnataka,Kannada,Chikalaparvi,15.85,77.0,,H,Vijaya_Dasa,reviver of Haridasa movement (Dasakuta)
+69,Vyasatirtha (Vyasaraja),1460,1539,AC,Haridasa/Madhva,Vaishnava,Karnataka,Sanskrit / Kannada,"Nava Brindavana, Hampi",15.348,76.474,,H,Vyasatirtha,"rajaguru of Vijayanagara, patron of Haridasas"
+70,Shishunala Sharif,1819,1889,BH,Lingayat (syncretic),Shaiva,Karnataka,,Shishuvinahal,14.98,75.23,,H,,'Kabir of Karnataka'
+71,Akka Mahadevi,1130,1160,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,Kannada,Udutadi,14.27,75.35,1,H,Akka_Mahadevi,woman vachana poet
+72,Allama Prabhu,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,Kannada,Balligavi,14.35,75.13,,H,Allama_Prabhu,"head of Anubhava Mantapa, vachana poet"
+73,Ambigara Chowdayya,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Chaudadanapura,14.62,75.6,,H,,"boatman-saint, radical vachana poet"
+74,Aydakki Lakkamma,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Basavakalyan,17.875,76.948,1,H,,"woman vachana poet, wife of Marayya"
+75,Aydakki Marayya,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Basavakalyan,17.875,76.948,,H,,grain-gleaner saint
+76,Basavanna (Basaveshwara),1105,1167,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Basavana Bagewadi,16.576,75.972,,H,,"founder-figure of Sharana movement, vachana poet"
+77,Channabasavanna,1100,1199,AC,Lingayat/Veerashaiva,Shaiva,Karnataka,Kannada,Kudalasangama,16.32,76.07,,H,Channabasavanna,"nephew of Basavanna, theologian"
+78,Devara Dasimayya,1000,1099,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Mudanur,16.5,76.75,,H,,"early Shaiva vachana poet, weaver-saint"
+79,Kumaraswamiji,1898,1979,AC,Lingayat/Veerashaiva,Shaiva,Karnataka,,,,,,H,,Veerashaiva seer-philosopher
+80,Madivala Machideva,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Basavakalyan,17.875,76.948,,H,,"washerman-saint, vachana poet"
+81,Nijaguna Shivayogi,1500,1599,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Shivaganga,13.36,77.22,,H,,"Veerashaiva yogi, encyclopedist"
+82,Sarvajna,1500,1599,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,Kannada,Masur,14.45,75.4,,H,Sarvajna,wandering poet of tripadi verses
+83,Siddharama,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,Kannada,Solapur,17.66,75.906,,H,Siddharama,"yogi, vachana poet of Sonnalige"
+84,Tontada Siddhalinga,1400,1499,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Yediyur,12.99,76.98,,H,,revival of Sharana tradition
+85,Urilinga Peddi,1100,1199,BH,Lingayat/Veerashaiva,Shaiva,Karnataka,,Basavakalyan,17.875,76.948,,H,,"Dalit Sharana, vachana poet"
+86,Vadirajatirtha,1480,1600,BH,Madhva/Haridasa,Vaishnava,Karnataka,,Sonda,14.72,74.73,,H,,"pontiff of Sode mutt, poet"
+87,Revananath,1100,1199,YO,Nath,Shaiva,Karnataka,,Saundatti,15.77,75.12,,T,,one of the Navnath yogis
+88,Amburao Maharaj,1857,1933,YO,Nath (Inchegiri),Shaiva,Karnataka,,Inchegiri,16.85,76.15,,H,,Inchegiri lineage master
+89,Bhausaheb Maharaj,1843,1914,YO,Nath (Inchegiri),Shaiva,Karnataka,,Inchegiri,16.85,76.15,,H,,founder of Inchegiri Sampradaya
+90,Nimbargi Maharaj,1789,1885,YO,Nath (Inchegiri),Shaiva,Karnataka,,Nimbargi,16.9,76.1,,H,,founder of Nimbargi/Inchegiri meditation lineage
+91,R. D. Ranade,1886,1957,YO,Nath (Nimbargi),,Karnataka,,Nimbal,17.13,75.98,,H,,philosopher-saint of the Nimbargi lineage
+92,Somananda,875,925,AC,Kashmir Shaivism (Pratyabhijna),Shaiva,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,Somananda,founder of Pratyabhijna; Shivadrishti
+93,Utpaladeva,900,950,AC,Kashmir Shaivism (Pratyabhijna),Shaiva,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,Utpaladeva,Ishvara-pratyabhijna-karika
+94,Vasugupta,800,850,YO,Kashmir Shaivism (Spanda),Shaiva,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,Vasugupta,revealed the Shiva Sutras
+95,Abhinavagupta,950,1016,AC,Kashmir Shaivism (Trika),Shaiva,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,Abhinavagupta,master synthesizer of Trika; Tantraloka
+96,Kshemaraja,1000,1099,AC,Kashmir Shaivism (Trika),Shaiva,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,Kshemaraja,disciple of Abhinavagupta; Pratyabhijnahridaya
+97,Swami Lakshman Joo,1907,1991,BH,Kashmir Shaivism (Trika),Shaiva,Kashmir,Hindi / Kashmiri,Srinagar,34.084,74.797,,H,Lakshman_Joo,last great master of Kashmir Shaivism
+98,Lalleshwari (Lal Ded),1320,1392,BH,Kashmir Shaivism/Shaiva bhakti,Shaiva,Kashmir,,Pandrethan,34.033,74.853,1,T,Lalleshwari,mystic poetess; the Vakhs
+99,Rupa Bhavani,1621,1721,YO,Kashmir Shaivism/Shakta,Shakta,Kashmir,Kashmiri,Srinagar,34.084,74.797,1,H,Rupa_Bhawani,Kashmiri woman saint; Rahasyopadesha
+100,Krishna Joo Razdan,1850,1926,BH,Kashmiri Shaiva bhakti,Shaiva,Kashmir,,Vanpoh,33.8,75.1,,H,,devotional poet-saint of Kashmir
+101,Adi Shankara,788,820,AC,Advaita,Smarta,Kerala,Sanskrit,Kaladi,10.17,76.44,,H,Adi_Shankara,consolidator of Advaita; founded the four mathas
+102,Chattampi Swamikal,1853,1924,RF,Social reform,Shaiva,Kerala,Malayalam,Panmana,9.06,76.53,,H,Chattampi_Swamikal,Kerala renaissance reformer and Advaita scholar; associate of Narayana Guru; disciple of Ayyavu Swamikal
+103,Swami Chinmayananda,1916,1993,AC,Advaita Vedanta,,Kerala,English,Ernakulam,9.982,76.3,,H,Chinmayananda_Saraswati,founder of Chinmaya Mission
+104,Narayana Guru,1856,1928,RF,Advaita/social reform,Shaiva,Kerala,Sanskrit,Chempazhanthy,8.55,76.92,,H,Narayana_Teertha,"reformer, 'one caste, one religion, one God'"
+105,Mother Krishnabai,1903,1989,BH,Bhakti/Advaita,Vaishnava,Kerala,,Kanhangad,12.31,75.09,1,H,,successor of Papa Ramdas
+106,Swami Ramdas (Papa Ramdas),1884,1963,BH,Bhakti/Advaita,Vaishnava,Kerala,,Kanhangad,12.31,75.09,,H,Swami_Ramdas,"Ram-nama saint, Anandashram"
+107,Swami Vishnudevananda,1927,1993,YO,Sivananda Yoga Vedanta,,Kerala,,,,,,H,,founder of Sivananda Yoga Vedanta Centres
+108,Bhartrihari,,,YO,Nath,Shaiva,Madhya Pradesh,,Ujjain,23.19,75.79,,T,,king of Ujjain turned Nath yogi
+109,Sena,1400,1499,BH,Sant/Nirguna,Nirguna-Sant,Madhya Pradesh,,Bandhavgarh,23.7,81.03,,H,,barber poet-saint in Guru Granth Sahib
+110,Osho (Rajneesh),1931,1990,BH,neo-sannyas,,Madhya Pradesh,,Kuchwada,23.0,78.3,,H,,"mystic, founder of neo-sannyas movement"
+111,Nisargadatta Maharaj,1897,1981,YO,Advaita (Navnath),,Maharashtra,Marathi,Mumbai,18.96,72.83,,H,Nisargadatta_Maharaj,"'I Am That', Mumbai"
+112,Akkalkot Swami Samarth,1808,1878,BH,Datta,Datta,Maharashtra,,Akkalkot,17.52,76.2,,H,,third Datta avatar; saint of Akkalkot
+113,Gajanan Maharaj,1840,1910,YO,Datta,Datta,Maharashtra,Marathi,Shegaon,20.794,76.69,,H,Gajanan_Maharaj,avadhuta saint of Shegaon
+114,Janardan Swami,1504,1575,BH,Datta,Datta,Maharashtra,Marathi,Daulatabad,19.942,75.22,,H,Janardan_Swami,guru of Eknath
+115,Narasimha Saraswati,1378,1458,BH,Datta,Datta,Maharashtra,,Ganagapur,17.02,76.52,,T,,"second Datta avatar; Ganagapur, Gurucharitra"
+116,Vasudevananda Saraswati (Tembe Swami),1854,1914,BH,Datta,Datta,Maharashtra,,Mangaon,16.03,73.75,,H,,restorer of the Datta tradition
+117,Shankar Maharaj,1877,1947,YO,Datta/Nath,Datta,Maharashtra,,Pune,18.46,73.85,,H,,avadhuta saint of Pune
+118,Morya Gosavi,1300,1399,BH,Ganapatya,Ganapatya,Maharashtra,,Chinchwad,18.628,73.8,,T,,Ganesha-devotee saint of Chinchwad
+119,Chakradhar Swami,1194,1274,AC,Mahanubhava,Vaishnava,Maharashtra,Marathi,Ridhpur,21.09,78.15,,H,Chakradhar_Swami,founder of the Mahanubhava sect
+120,Govinda Prabhu,1200,1299,BH,Mahanubhava,Vaishnava,Maharashtra,,Ridhpur,21.09,78.15,,H,,guru of Chakradhar Swami
+121,Changdev,1200,1299,YO,Nath,Shaiva,Maharashtra,,Puntamba,19.44,74.74,,T,,yogi; Changdev Pasashti
+122,Gahininath,1100,1199,YO,Nath,Shaiva,Maharashtra,,Chincholi,18.9,75.8,,T,,Navnath; guru of Nivrittinath
+123,Kanifnath,1100,1199,YO,Nath,Shaiva,Maharashtra,,Madhi,19.15,75.1,,T,,one of the Navnath
+124,Siddharameshwar Maharaj,1888,1936,YO,Nath (Inchegiri/Navnath),,Maharashtra,,Pathri,19.25,76.44,,H,,guru of Nisargadatta
+125,Gondavalekar Maharaj,1845,1913,BH,Ramdasi,Vaishnava,Maharashtra,Marathi,Gondavale Budruk,17.62,74.61,,H,Gondavalekar_Maharaj,Rama-nama saint of Gondavale
+126,Kalyan Swami,1600,1699,BH,Ramdasi,Vaishnava,Maharashtra,,Domgaon,18.27,75.65,,H,,chief disciple of Samarth Ramdas
+127,Samarth Ramdas,1608,1681,BH,Ramdasi,Vaishnava,Maharashtra,Marathi,Sajjangad,17.6,73.94,,H,Samarth_Ramdas,author of Dasbodh; guru of Shivaji era
+128,Upasni Maharaj,1870,1941,AC,Sant/Advaita,,Maharashtra,Marathi,Sakori,19.73,74.49,,H,Upasni_Maharaj,"disciple of Shirdi Sai, guru of Meher Baba"
+129,Sai Baba of Shirdi,1838,1918,YO,Sant/syncretic,,Maharashtra,Marathi / Urdu,Shirdi,19.767,74.478,,H,Sai_Baba_of_Shirdi,fakir-saint of Shirdi
+130,Swami Muktananda,1908,1982,YO,Siddha Yoga,Shaiva,Maharashtra,,Ganeshpuri,19.5,73.13,,H,Muktananda,founder of Siddha Yoga (SYDA)
+131,Bhagawan Nityananda,1897,1961,BH,Siddha/Avadhuta,Shaiva,Maharashtra,,Ganeshpuri,19.5,73.13,,H,,"avadhuta of Ganeshpuri, guru of Muktananda"
+132,Meher Baba,1894,1969,BH,Sufi-Vedantic,,Maharashtra,,Meherabad,19.02,74.73,,H,Meher_Baba,"observed decades of silence, Meherabad"
+133,Tajuddin Baba,1861,1925,BH,Sufi/syncretic,,Maharashtra,,Nagpur,21.15,79.1,,H,,majzoob saint of Nagpur
+134,Bahinabai,1628,1700,BH,Warkari,Vaishnava,Maharashtra,Marathi,Shirur,18.83,74.37,1,H,Bahinabai,"woman saint-poet, disciple of Tukaram"
+135,Banka Mahar,1300,1399,BH,Warkari,Vaishnava,Maharashtra,,Mangalvedha,17.51,75.46,,T,,brother-in-law of Chokhamela
+136,Chokhamela,1300,1338,BH,Warkari,Vaishnava,Maharashtra,Marathi,Pandharpur,17.677,75.331,,H,Chokhamela,Dalit (Mahar) saint-poet
+137,Damaji,1400,1499,BH,Warkari,Vaishnava,Maharashtra,,Mangalvedha,17.51,75.46,,T,,saint-official of Mangalvedha
+138,Dnyaneshwar (Jnaneshwar),1275,1296,BH,Warkari,Vaishnava,Maharashtra,Marathi,Alandi,18.677,73.898,,H,Dnyaneshwar,author of Dnyaneshwari
+139,Eknath,1533,1599,BH,Warkari,Vaishnava,Maharashtra,Marathi,Paithan,19.48,75.38,,H,Eknath,scholar-saint of Paithan; Eknathi Bhagavata
+140,Gora Kumbhar,1267,1317,BH,Warkari,Vaishnava,Maharashtra,Marathi,Ter,18.32,76.15,,H,Gora_Kumbhar,potter saint
+141,Gulabrao Maharaj,1881,1915,BH,Warkari,Vaishnava,Maharashtra,,Madhan,20.85,78.1,,H,Gulabrao_Maharaj,blind saint-scholar of Vidarbha
+142,Janabai,1258,1350,BH,Warkari,Vaishnava,Maharashtra,Marathi,Gangakhed,18.97,76.75,1,H,Janabai,maidservant of Namdev; woman saint-poet
+143,Kanhopatra,1400,1499,BH,Warkari,Vaishnava,Maharashtra,Marathi,Pandharpur,17.677,75.331,1,T,Kanhopatra,courtesan-born woman saint
+144,Karmamela,1300,1399,BH,Warkari,Vaishnava,Maharashtra,,Mangalvedha,17.51,75.46,,T,,son of Chokhamela
+145,Muktabai,1279,1297,BH,Warkari,Vaishnava,Maharashtra,Marathi,Muktainagar,21.05,76.02,1,H,Muktabai,"youngest sibling, woman saint-poet"
+146,Namdev,1270,1350,BH,Warkari,Vaishnava,Maharashtra,Marathi,Pandharpur,17.677,75.331,,H,Namdev,abhanga poet; also in Guru Granth Sahib
+147,Narahari Sonar,1200,1299,BH,Warkari,Shaiva,Maharashtra,,Pandharpur,17.677,75.331,,H,,goldsmith saint of Pandharpur
+148,Nilobaraya,1650,1753,BH,Warkari,Vaishnava,Maharashtra,,Pimpalner,19.0,74.43,,H,,poet-saint of Pimpalner
+149,Nirmala,1300,1399,BH,Warkari,Vaishnava,Maharashtra,,Mangalvedha,17.51,75.46,1,T,,sister of Chokhamela
+150,Nivruttinath,1273,1297,BH,Warkari,Vaishnava,Maharashtra,Marathi,Trimbakeshwar,19.93,73.53,,H,Nivruttinath,eldest sibling saint; guru to Dnyaneshwar
+151,Santaji Jagnade,1624,1688,BH,Warkari,Vaishnava,Maharashtra,,Sudumbare,18.72,73.7,,H,,recorded Tukaram's abhangas
+152,Savata Mali,1250,1295,BH,Warkari,Vaishnava,Maharashtra,Marathi,Aran,18.13,75.3,,H,Savata_Mali,gardener saint
+153,Sena Nhavi,1400,1499,BH,Warkari,Vaishnava,Maharashtra,,Pandharpur,17.677,75.331,,T,,barber saint-poet
+154,Sopan,1277,1296,BH,Warkari,Vaishnava,Maharashtra,Marathi,Saswad,18.345,74.03,,H,Sopan_(saint),"third sibling, brother of Dnyaneshwar"
+155,Soyarabai,1300,1399,BH,Warkari,Vaishnava,Maharashtra,Marathi,Mangalvedha,17.51,75.46,1,H,Soyarabai,wife of Chokhamela; woman saint-poet
+156,Tukaram,1608,1650,BH,Warkari,Vaishnava,Maharashtra,Marathi,Dehu,18.717,73.767,,H,Tukaram,foremost abhanga poet of Dehu
+157,Vishnubuwa Jog,1867,1920,BH,Warkari,Vaishnava,Maharashtra,,Alandi,18.677,73.898,,H,,"Warkari reformer, Alandi"
+158,Visoba Khechar,1200,1299,YO,Warkari (Nath),Shaiva,Maharashtra,,Barsi,18.23,75.69,,T,,guru of Namdev
+159,Sane Guruji,1899,1950,BH,Warkari (modern),Vaishnava,Maharashtra,,Palgad,17.73,73.3,,H,,writer-reformer; Shyamchi Aai
+160,Tukdoji Maharaj,1909,1968,RF,Warkari (modern),Vaishnava,Maharashtra,Marathi,Mozari,20.88,78.05,,H,Tukdoji_Maharaj,Rashtrasant; Gramgeeta
+161,Gadge Maharaj,1876,1956,RF,Warkari (reformer),Vaishnava,Maharashtra,Marathi,Shendgaon,20.95,77.3,,H,Gadge_Maharaj,kirtan-based social reformer
+162,Salabega,1607,1675,YO,Jagannath bhakti,Vaishnava,Odisha,Odia,Puri,19.814,85.831,,H,Salabega,Muslim-born devotee-poet of Jagannath
+163,Bhima Bhoi,1850,1895,BH,Mahima Dharma,Nirguna,Odisha,Odia,Khaliapali,20.84,83.9,,H,Bhima_Bhoi,blind poet-saint; Stuti Chintamani
+164,Arakshita Das,1700,1799,BH,Mahima/Panchasakha,Vaishnava,Odisha,,Olasuni,20.78,86.22,,T,,Odia saint-poet (Olasuni)
+165,Achyutananda Das,1500,1599,BH,Panchasakha,Vaishnava,Odisha,Odia,Puri,19.814,85.831,,H,Achyutananda_Dasa,"Panchasakha seer, prophetic Malikas"
+166,Ananta Das,1500,1599,BH,Panchasakha,Vaishnava,Odisha,,Puri,19.814,85.831,,H,,one of the five Panchasakha
+167,Balarama Das,1482,1550,BH,Panchasakha,Vaishnava,Odisha,Odia,Puri,19.814,85.831,,H,Balarama_Dasa,Panchasakha; Jagamohana Ramayana
+168,Jagannatha Das (Odia),1490,1550,BH,Panchasakha,Vaishnava,Odisha,,Puri,19.814,85.831,,H,,author of Odia Bhagavata
+169,Jasobanta Das,1500,1599,BH,Panchasakha,Vaishnava,Odisha,Odia,Puri,19.814,85.831,,H,Jasobanta_Dasa,Panchasakha poet; Prema-bhakti Brahma Gita
+170,Jayadeva,1100,1199,BH,Vaishnava-bhakti,Vaishnava,Odisha,Sanskrit,Kenduli Sasan,20.13,85.62,,H,Jayadeva,author of Gita Govinda
+171,Sri Aurobindo,1872,1950,YO,Integral Yoga,,Puducherry,English / Bengali,Pondicherry,11.934,79.836,,H,Sri_Aurobindo,yogi-philosopher of Pondicherry
+172,The Mother (Mirra Alfassa),1878,1973,YO,Integral Yoga,,Puducherry,,Pondicherry,11.934,79.836,1,H,,founder of Auroville
+173,Swami Rama Tirtha,1873,1906,AC,Advaita Vedanta,,Punjab,Urdu / English,Muraliwala,32.16,74.19,,H,Rama_Tirtha,practical Vedanta teacher
+174,Jalandharnath,1100,1199,YO,Nath,Shaiva,Punjab,,Jalandhar,31.326,75.576,,T,,prominent Navnath; guru of Gopichand
+175,Charan Singh,1916,1990,BH,Radha Soami (Beas),,Punjab,,Beas,31.52,75.3,,H,Charan_Singh,master of Radha Soami Satsang Beas
+176,Jagat Singh,1884,1951,BH,Radha Soami (Beas),,Punjab,,Beas,31.52,75.3,,H,,successor master at Beas
+177,Jaimal Singh,1839,1903,BH,Radha Soami (Beas),,Punjab,,Beas,31.52,75.3,,H,,founder of Radha Soami Satsang Beas
+178,Sawan Singh,1858,1948,BH,Radha Soami (Beas),,Punjab,,Beas,31.52,75.3,,H,,'Great Master' of Beas
+179,Baba Faqir Chand,1886,1981,BH,Sant Mat,,Punjab,,Hoshiarpur,31.532,75.912,,H,,radically honest Sant Mat teacher
+180,Bhai Mardana,1459,1534,BH,Sikh,Sikh,Punjab,,Nankana Sahib,31.449,73.713,,H,,"rebab-player, companion of Guru Nanak"
+181,Guru Amar Das,1479,1574,BH,Sikh,Sikh,Punjab,,Goindwal,31.367,75.133,,H,,third Sikh Guru
+182,Guru Angad,1504,1552,BH,Sikh,Sikh,Punjab,,Khadur Sahib,31.433,75.1,,H,,"second Sikh Guru, Gurmukhi script"
+183,Guru Arjan,1563,1606,BH,Sikh,Sikh,Punjab,,Amritsar,31.62,74.876,,H,,"fifth Guru, compiled Adi Granth"
+184,Guru Gobind Singh,1666,1708,BH,Sikh,Sikh,Punjab,,Anandpur Sahib,31.239,76.502,,H,,"tenth Guru, founded the Khalsa"
+185,Guru Har Rai,1630,1661,BH,Sikh,Sikh,Punjab,,Kiratpur Sahib,31.18,76.58,,H,,seventh Sikh Guru
+186,Guru Hargobind,1595,1644,BH,Sikh,Sikh,Punjab,,Amritsar,31.62,74.876,,H,,"sixth Guru, Miri-Piri"
+187,Guru Nanak,1469,1539,BH,Sikh,Sikh,Punjab,,Nankana Sahib,31.449,73.713,,H,,"founder of Sikhism, first Guru"
+188,Guru Ram Das,1534,1581,BH,Sikh,Sikh,Punjab,,Amritsar,31.62,74.876,,H,,"fourth Sikh Guru, founded Amritsar"
+189,Guru Tegh Bahadur,1621,1675,BH,Sikh,Sikh,Punjab,,Amritsar,31.62,74.876,,H,,"ninth Guru, martyred at Delhi"
+190,Guru Jambheshwar (Jambhoji),1451,1536,RF,Bishnoi,Vaishnava,Rajasthan,Marwari,Mukam,27.79,73.55,,H,Guru_Jambheshwar,founder of the Bishnoi sect
+191,Daya Bai,1700,1799,BH,Charandasi,Nirguna-Sant,Rajasthan,Hindi,,,,1,H,Daya_Bai,"woman poet-saint, disciple of Charandas"
+192,Rajjab,1567,1689,BH,Dadu Panth,Nirguna-Sant,Rajasthan,,Sanganer,26.819,75.79,,H,,"disciple of Dadu, anthologist (Sarvangi)"
+193,Sundardas,1596,1689,BH,Dadu Panth,Nirguna-Sant,Rajasthan,Hindi,Dausa,26.891,76.338,,H,Sundardas,learned poet of Dadu Panth
+194,Mavji Maharaj,1700,1799,BH,Folk Vaishnava,Vaishnava,Rajasthan,,Sabla,23.68,74.05,,T,,tribal saint-prophet of Sabla
+195,Baba Ramdevji (Ramdev Pir),1400,1499,YO,Folk/Nath-Vaishnava,Vaishnava,Rajasthan,,Ramdevra,27.017,71.9,,T,,"Tanwar Rajput saint, Ramdevra"
+196,Jasnath Ji,1482,1506,YO,Jasnathi,Shaiva-Nath,Rajasthan,,Katariyasar,27.9,73.7,,T,,founder of Jasnathi Siddha sect
+197,Mirabai,1498,1547,BH,Krishna-bhakti,Vaishnava,Rajasthan,Rajasthani / Braj,Merta,26.644,74.034,1,H,Meera,Rajput princess poet-saint of Krishna
+198,Haridas Niranjani,1500,1599,BH,Niranjani Sampraday,Nirguna-Sant,Rajasthan,,Didwana,27.395,74.574,,T,,founder of Niranjani sect
+199,Dhanna Bhagat,1400,1499,BH,Nirguna/Vaishnava bhakti,Vaishnava,Rajasthan,Hindi,Dhuan Kalan,25.87,75.55,,H,Dhanna_Bhagat,Jat farmer-saint; in Guru Granth Sahib
+200,Pipa,1400,1499,BH,Ramananda-bhakti,Vaishnava,Rajasthan,Hindi,Gagron,24.64,76.19,,T,Pipa_(saint),king of Gagron turned poet-saint
+201,Agradas,1500,1599,BH,Ramanandi,Vaishnava,Rajasthan,,Raivasa,27.35,75.5,,H,,"Rasik Ramanandi poet, guru of Nabhadas"
+202,Nabhadas,1570,1643,BH,Ramanandi,Vaishnava,Rajasthan,Braj Bhasha,Galta,26.87,75.87,,H,Nabhadas,author of Bhaktamal
+203,Ram Charan,1720,1798,BH,Ramsnehi,Nirguna-Sant,Rajasthan,,Shahpura,25.63,74.93,,H,Ram_Charan_(guru),founder of Shahpura Ramsnehi sect
+204,Dariya Sahib of Marwar,1676,1758,BH,Sant/Nirguna,Nirguna-Sant,Rajasthan,,Jaitaran,26.16,73.93,,H,,Rajasthani nirguna poet-saint
+205,Ghisa Das,1700,1799,BH,Sant/Nirguna,Nirguna-Sant,Rajasthan,,,,,,T,,nirguna poet-saint
+206,Dadu Dayal,1544,1603,BH,Sant/Nirguna (Dadu Panth),Nirguna-Sant,Rajasthan,Hindi,Naraina,26.79,75.2,,H,Dadu_Dayal,founder of Dadu Panth
+207,Karni Mata,1387,1538,BH,Shakta (Charan),Shakta,Rajasthan,Marwari,Deshnok,27.797,73.343,1,T,Karni_Mata,"Deshnok, revered as Durga incarnation"
+208,Yogaswami of Jaffna,1872,1964,BH,Tamil Shaiva Siddhanta,Shaiva,Sri Lanka,,Jaffna,9.665,80.025,,H,,Natha Shaiva sage of Jaffna
+209,Chandrashekharendra Saraswati (Kanchi Paramacharya),1894,1994,AC,Advaita (Kanchi),Smarta,Tamil Nadu,Tamil / Sanskrit,Kanchipuram,12.834,79.704,,H,Chandrashekarendra_Saraswati,68th Shankaracharya of Kanchi
+210,Ramana Maharshi,1879,1950,AC,Advaita Vedanta,Shaiva,Tamil Nadu,Tamil,Tiruvannamalai,12.225,79.075,,H,Ramana_Maharshi,sage of Arunachala; self-enquiry
+211,Sadhu Om,1922,1985,AC,Advaita Vedanta,Smarta,Tamil Nadu,,Tiruvannamalai,12.225,79.075,,H,,expositor of Ramana Maharshi
+212,Swami Gnanananda Giri,1904,1974,AC,Advaita Vedanta,Smarta,Tamil Nadu,,Tirukoilur,11.967,79.2,,H,,long-lived sage of Tirukoilur
+213,Sadasiva Brahmendra,1685,1755,AC,Advaita/Avadhuta,Smarta,Tamil Nadu,Sanskrit,Nerur,10.92,78.05,,T,Sadasiva_Brahmendra,"silent avadhuta sage and composer, Nerur"
+214,Seshadri Swamigal,1870,1929,AC,Advaita/Avadhuta,Shaiva,Tamil Nadu,Tamil,Tiruvannamalai,12.225,79.075,,H,Seshadri_Swamigal,avadhuta saint of Tiruvannamalai
+215,Abhishiktananda (Henri Le Saux),1910,1973,AC,Advaita/Christian-Hindu,,Tamil Nadu,,Tiruvannamalai,12.225,79.075,,H,,French monk who embraced Advaita
+216,Ganapati Muni,1878,1936,AC,Advaita/Shakta tantra,Shakta,Tamil Nadu,,Tiruvannamalai,12.225,79.075,,H,,scholar-disciple of Ramana
+217,Arunagirinathar,1400,1499,BH,Bhakti (Murugan),Shaiva,Tamil Nadu,Tamil,Tiruvannamalai,12.225,79.075,,H,Arunagirinathar,composer of the Tiruppugazh
+218,Avvaiyar,,,BH,Bhakti/Didactic,Shaiva,Tamil Nadu,,,,,1,L,,revered woman poet-saint
+219,Muthuswami Dikshitar,1775,1835,MU,Carnatic-Bhakti,Shaiva,Tamil Nadu,Sanskrit,Tiruvarur,10.773,79.637,,H,Muthuswami_Dikshitar,Carnatic Trinity; Navagraha kritis
+220,Syama Sastri,1762,1827,MU,Carnatic-Bhakti,Shakta,Tamil Nadu,Telugu,Tiruvarur,10.773,79.637,,H,Syama_Sastri,Carnatic Trinity; devotee of Kamakshi
+221,Tyagaraja,1767,1847,MU,Carnatic-Bhakti,Vaishnava,Tamil Nadu,Telugu,Thiruvaiyaru,10.88,79.1,,H,Tyagaraja,Carnatic Trinity; Rama-devotee kriti composer
+222,Swami Ramakrishnananda,1863,1911,BH,Ramakrishna Mission,,Tamil Nadu,Bangla,Chennai,13.034,80.269,,H,Ramakrishnananda,"direct disciple, founded Madras Math"
+223,Guhai Namasivaya,1500,1599,BH,Shaiva Bhakti,Shaiva,Tamil Nadu,,Tiruvannamalai,12.225,79.075,,H,,saint of Tiruvannamalai
+224,Manikkavacakar,800,899,AC,Shaiva Siddhanta,Shaiva,Tamil Nadu,Tamil,Thiruvathavur,10.03,78.34,,T,Manikkavacakar,Samayacharya; author of Tiruvasagam
+225,Sekkizhar,1100,1199,BH,Shaiva Siddhanta,Shaiva,Tamil Nadu,Tamil,Kunrathur,12.99,80.08,,H,Sekkizhar,author of Periya Puranam
+226,Kumara Devar,1600,1699,BH,Shaiva Siddhanta/Advaita,Shaiva,Tamil Nadu,,,,,,T,,saint-poet of Shaiva-Vedanta stream
+227,Thayumanavar,1705,1742,YO,Shaiva Siddhanta/Vedanta,Shaiva,Tamil Nadu,Tamil,Tiruchirappalli,10.79,78.705,,H,Thayumanavar,mystic poet; Paraparakanni
+228,Ramalinga Swamigal (Vallalar),1823,1874,RF,Suddha Sanmarga,Shaiva,Tamil Nadu,Tamil,Vadalur,11.51,79.62,,H,Ramalinga_Swamigal,founder of Suddha Sanmarga; Tiruvarutpa
+229,Agastyar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Pothigai Hills,8.62,77.27,,L,,foremost of the 18 Siddhars
+230,Bogar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Palani,10.45,77.52,,L,,alchemist Siddhar; Palani navapashanam
+231,Idaikkadar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,Siddhar-astrologer
+232,Kamalamuni,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,one of the 18 Siddhars
+233,Karuvurar,900,999,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Karur,10.96,78.077,,T,,linked to Thanjavur Brihadeeswarar temple
+234,Konganar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,"Siddhar, disciple of Bogar"
+235,Kudambai Siddhar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,Siddhar poet
+236,Machamuni,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Thiruparankundram,9.879,78.071,,L,,one of the 18 Siddhars
+237,Nandi Devar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,Siddhar among the 18
+238,Pambatti Siddhar,1400,1499,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Sankarankovil,9.166,77.546,,T,,'snake-charmer' Siddhar
+239,Pulastiyar,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,L,,one of the 18 Siddhars
+240,Ramadevar (Yacob),,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Alagarmalai,10.09,78.214,,L,,Siddhar-alchemist
+241,Sattamuni,,,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Srirangam,10.862,78.689,,L,,Siddhar guru
+242,Sivavakkiyar,900,999,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,,,,,T,,iconoclastic anti-ritual Siddhar poet
+243,Sundaranandar,1926,2020,BH,Tamil Siddhar,Shaiva,Tamil Nadu,,Madurai,9.919,78.119,,L,Swami_Sundaranand,one of the 18 Siddhars
+244,Dhanvantari,,,BH,Tamil Siddhar/Medicine,Shaiva,Tamil Nadu,,Vaitheeswaran Koil,11.125,79.719,,L,,divine physician among the Siddhars
+245,Pattinathar,900,999,YO,Tamil Siddhar/Shaiva,Shaiva,Tamil Nadu,Tamil,Poompuhar,11.142,79.852,,T,Pattinathar,merchant-turned-renunciant poet-saint
+246,Patanjali (Siddhar),-200,-100,YO,Tamil Siddhar/Yoga,Shaiva,Tamil Nadu,Sanskrit,Chidambaram,11.399,79.693,,L,Patanjali,Compiler of the Yoga Sutras (Ashtanga/Raja Yoga)
+247,Nathamuni,823,951,AC,Vishishtadvaita,Vaishnava,Tamil Nadu,Tamil / Sanskrit,Kattumannarkoil,11.443,79.612,,H,Nathamuni,compiled the Divya Prabandham
+248,Ramanuja,1017,1137,AC,Vishishtadvaita,Vaishnava,Tamil Nadu,Sanskrit / Tamil,Sriperumbudur,12.967,79.946,,H,Ramanuja,chief systematizer of Vishishtadvaita
+249,Yamunacharya (Alavandar),916,1041,AC,Vishishtadvaita,Vaishnava,Tamil Nadu,Sanskrit,Srirangam,10.862,78.689,,H,Yamunacharya,precursor to Ramanuja
+250,Manavala Mamunigal,1370,1443,AC,Vishishtadvaita (Tenkalai),Vaishnava,Tamil Nadu,Tamil,Srirangam,10.862,78.689,,H,Manavala_Mamunigal,leading acharya of Tenkalai
+251,Vedanta Desika,1268,1369,AC,Vishishtadvaita (Vadakalai),Vaishnava,Tamil Nadu,Sanskrit / Tamil,Thoopul,12.833,79.702,,H,Vedanta_Desika,poet-philosopher; Vadakalai founder-figure
+252,Bammera Pothana,1450,1510,PW,Bhakti poetry,Vaishnava,Telangana,Telugu,Bammera,17.72,79.17,,H,Bammera_Pothana,rendered Bhagavata into Telugu
+253,Bhadrachala Ramadasu,1620,1680,MU,Carnatic-Bhakti,Vaishnava,Telangana,Telugu,Bhadrachalam,17.669,80.889,,H,Kancherla_Gopanna,Rama devotee of Bhadrachalam
+254,H.W.L. Poonja (Papaji),1910,1997,AC,Advaita (Ramana lineage),,Uttar Pradesh,,Lucknow,26.847,80.946,,H,H._W._L._Poonja,"neo-Advaita teacher, Lucknow"
+255,Swami Karpatri,1907,1982,AC,Advaita/Dharma revival,Smarta,Uttar Pradesh,Hindi / Sanskrit,Varanasi,25.318,82.974,,H,Karpatri,"Dandi sannyasi, scholar-reformer"
+256,Pavhari Baba,1800,1898,YO,Advaita/yoga,Vaishnava,Uttar Pradesh,,Ghazipur,25.579,83.578,,H,Pavhari_Baba,reclusive yogi admired by Vivekananda
+257,Trailanga Swami,1607,1887,AC,Dashanami/Advaita,Shaiva,Uttar Pradesh,Telugu / Hindi,Varanasi,25.31,83.01,,H,Trailanga,long-lived yogi of Varanasi
+258,Gopala Bhatta Goswami,1503,1578,BH,Gaudiya,Vaishnava,Uttar Pradesh,,Vrindavan,27.582,77.701,,H,,established Radharamana temple
+259,Jiva Goswami,1513,1598,AC,Gaudiya,Vaishnava,Uttar Pradesh,Sanskrit,Vrindavan,27.582,77.701,,H,Jiva_Goswami,systematic theologian; the Sandarbhas
+260,Raghunatha Bhatta Goswami,1505,1579,BH,Gaudiya,Vaishnava,Uttar Pradesh,,Vrindavan,27.582,77.701,,H,Raghunatha_Bhatta_Goswami,Six Goswamis; Bhagavata reciter
+261,Raghunatha Das Goswami,1495,1571,BH,Gaudiya,Vaishnava,Uttar Pradesh,,Radha Kunda,27.524,77.489,,H,Raghunatha_dasa_Goswami,Six Goswamis; exemplar of renunciation
+262,Rupa Goswami,1489,1564,AC,Gaudiya,Vaishnava,Uttar Pradesh,Sanskrit,Vrindavan,27.582,77.701,,H,Rupa_Goswami,foremost of the Six Goswamis
+263,Sanatana Goswami,1488,1558,AC,Gaudiya,Vaishnava,Uttar Pradesh,Sanskrit,Vrindavan,27.582,77.701,,H,Sanatana_Goswami,Six Goswamis; Hari Bhakti Vilasa
+264,Swami Haridas,1478,1573,MU,Haridasi,Vaishnava,Uttar Pradesh,Braj Bhasha,Vrindavan,27.582,77.698,,H,Swami_Haridas,"founder of Haridasi sampradaya, musician-saint"
+265,Raskhan,1548,1628,BH,Krishna-bhakti,Vaishnava,Uttar Pradesh,Braj Bhasha,Mahavan,27.436,77.785,,H,Raskhan,Muslim Krishna-bhakta poet of Braj
+266,Lahiri Mahasaya,1828,1895,YO,Kriya Yoga,Shaiva,Uttar Pradesh,Bengali,Varanasi,25.31,83.01,,H,Lahiri_Mahasaya,"householder yogi, revived Kriya Yoga"
+267,Vitthalnath (Gusainji),1515,1585,AC,Pushtimarg,Vaishnava,Uttar Pradesh,Sanskrit / Braj,Gokul,27.439,77.719,,H,Vitthalnath,organized the Ashtachhap
+268,Chaturbhujdas,1530,1585,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Gokul,27.439,77.719,,H,,"Ashtachhap poet, son of Kumbhandas"
+269,Chhitswami,1500,1599,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Mathura,27.492,77.674,,H,,Ashtachhap poet of Mathura
+270,Govindswami,1500,1599,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Gokul,27.439,77.719,,H,,Ashtachhap poet-musician of Braj
+271,Krishnadas,1496,1581,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Govardhan,27.497,77.464,,H,,"Ashtachhap poet, temple administrator"
+272,Kumbhandas,1468,1582,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Govardhan,27.497,77.464,,H,,Ashtachhap poet of Braj
+273,Nanddas,1533,1586,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Gokul,27.439,77.719,,H,,"Ashtachhap poet, Ras Panchadhyayi"
+274,Paramananddas,1493,1584,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,,Kannauj,27.055,79.919,,H,,"Ashtachhap poet, Paramanand Sagar"
+275,Surdas,1478,1583,BH,Pushtimarg (Ashtachhap),Vaishnava,Uttar Pradesh,Braj Bhasha,Govardhan,27.497,77.464,,H,Surdas,"blind Krishna poet, Sursagar"
+276,Vallabhacharya,1479,1531,AC,Pushtimarg (Shuddhadvaita),Vaishnava,Uttar Pradesh,Sanskrit,Gokul,27.439,77.719,,H,Vallabha,founder of Pushtimarg
+277,Shiv Dayal Singh (Soamiji),1818,1878,BH,Radha Soami,,Uttar Pradesh,Hindi / Persian,Agra,27.23,78.02,,H,Shiv_Dayal_Singh,"founder of Radha Soami Satsang, Agra"
+278,Hariram Vyas,1500,1599,BH,Radhavallabh,Vaishnava,Uttar Pradesh,,Vrindavan,27.582,77.701,,H,,Braj bhakti poet of Vrindavan
+279,Hit Harivansh,1502,1552,BH,Radhavallabh,Vaishnava,Uttar Pradesh,Braj Bhasha,Vrindavan,27.582,77.701,,H,Hith_Harivansh_Mahaprabhu,founder of Radhavallabh Sampradaya
+280,Swami Vijnanananda,1868,1938,BH,Ramakrishna Mission,,Uttar Pradesh,,Prayagraj,25.436,81.846,,H,Vijnanananda,"direct disciple, fourth president"
+281,Ramananda,1400,1499,AC,Ramanandi,Vaishnava,Uttar Pradesh,Hindi / Sanskrit,Varanasi,25.318,82.974,,T,Ramananda,"founder of Ramanandi sampradaya, Kashi"
+282,Tulsidas,1532,1623,BH,Ramanandi,Vaishnava,Uttar Pradesh,Awadhi,Varanasi,25.288,83.001,,H,Tulsidas,author of Ramcharitmanas
+283,Ram Chandra of Fatehgarh (Lalaji),1873,1931,BH,Sahaj Marg,,Uttar Pradesh,,Fatehgarh,27.36,79.63,,H,,adi-guru of the Sahaj Marg lineage
+284,Ram Chandra of Shahjahanpur (Babuji),1899,1983,BH,Sahaj Marg,,Uttar Pradesh,,Shahjahanpur,27.88,79.91,,H,,founder of Shri Ram Chandra Mission
+285,Tulsi Sahib of Hathras,1763,1843,BH,Sant Mat (proto),Nirguna-Sant,Uttar Pradesh,,Hathras,27.6,78.05,,H,,Ghat Ramayan; proto-Sant Mat
+286,Kabir,1440,1518,BH,Sant/Nirguna,Nirguna-Sant,Uttar Pradesh,Hindi,Varanasi,25.32,82.96,,H,Kabir,foundational nirguna poet-saint of Kashi
+287,Malukdas,1574,1682,BH,Sant/Nirguna,Nirguna-Sant,Uttar Pradesh,,Kara,25.55,81.325,,H,,"poet-saint of Kara, Malukdasi order"
+288,Paltu Sahib,1700,1799,BH,Sant/Nirguna,Nirguna-Sant,Uttar Pradesh,,Ayodhya,26.792,82.199,,H,,poet-saint of Ayodhya
+289,Ravidas (Raidas),1450,1520,BH,Sant/Nirguna,Nirguna-Sant,Uttar Pradesh,Hindi,Varanasi,25.276,82.988,,H,Ravidas,"cobbler poet-saint, Ravidassia founder-figure"
+290,Devraha Baba,1920,1990,YO,Vaishnava yoga/siddha,Vaishnava,Uttar Pradesh,,Deoria,26.5,83.79,,H,,"riverbank ascetic, reputed long-lived"
+291,Swami Tapovan Maharaj,1889,1957,AC,Advaita Vedanta,,Uttarakhand,,Uttarkashi,30.73,78.44,,H,,"Himalayan sage, guru of Chinmayananda"
+292,Neem Karoli Baba,1900,1973,BH,Bhakti (Hanuman),Vaishnava,Uttarakhand,Hindi,Kainchi Dham,29.423,79.532,,H,Neem_Karoli_Baba,"Hanuman devotee, Kainchi Dham"
+293,Swami Sivananda Saraswati,1887,1963,YO,Divine Life Society,,Uttarakhand,English,Rishikesh,30.12,78.32,,H,Sivananda_Saraswati,"founder of Divine Life Society, Rishikesh"
+294,Swami Rama of the Himalayas,1925,1996,YO,Himalayan yoga,,Uttarakhand,,Rishikesh,30.115,78.31,,H,,founder of Himalayan Institute
+295,Swami Purushottamananda,1879,1961,AC,Ramakrishna/Advaita,,Uttarakhand,,Vasishtha Guha,30.187,78.408,,H,Swami_Purushottamananda,cave sage of Vasishtha Guha
+296,Haidakhan Babaji,1970,1984,YO,Shaiva yoga,Shaiva,Uttarakhand,,Haidakhan,29.28,79.73,,T,Haidakhan_Babaji,Herakhan Baba. Appeared in a cave near Haidakhan in 1970 and taught there until his death in 1984; followers identify him with the earlier Hariakhan Baba. His birth year is unknown.
+297,Balananda Brahmachari,1868,1938,YO,Advaita/Yoga,Shaiva,West Bengal,,Deoghar,24.484,86.696,,H,,"ascetic saint, Deoghar"
+298,Prabhat Ranjan Sarkar (Anandamurti),1921,1990,BH,Ananda Marga,,West Bengal,Bangla / Hindi,Jamalpur,25.313,86.489,,H,Prabhat_Ranjan_Sarkar,founder of Ananda Marga
+299,Ram Thakur,1860,1949,BH,Bhakti,Vaishnava,West Bengal,,Chattogram,22.357,91.783,,H,Ram_Thakur,Bengali saint revered as avatar
+300,Advaita Acharya,1434,1559,BH,Gaudiya,Vaishnava,West Bengal,,Shantipur,23.255,88.435,,H,Advaita_Acharya,elder associate of Chaitanya
+301,Bhaktisiddhanta Sarasvati,1874,1937,AC,Gaudiya,Vaishnava,West Bengal,Bengali,Puri,19.813,85.831,,H,Bhaktisiddhanta_Sarasvati,founder of Gaudiya Math
+302,Bhaktivinoda Thakur,1838,1914,AC,Gaudiya,Vaishnava,West Bengal,Bengali,Birnagar,23.372,88.531,,H,Bhaktivinoda_Thakur,Gaudiya revivalist and author
+303,Chaitanya Mahaprabhu,1486,1534,BH,Gaudiya,Vaishnava,West Bengal,Bengali / Sanskrit,Mayapur,23.424,88.388,,H,Chaitanya_Mahaprabhu,founder-inspirer of Gaudiya Vaishnavism
+304,Gaurakisora Dasa Babaji,1838,1915,BH,Gaudiya,Vaishnava,West Bengal,,Nabadwip,23.407,88.365,,H,Gaurakisora_Dasa_Babaji,renunciant guru of Bhaktisiddhanta
+305,Narottama Dasa,1520,1580,BH,Gaudiya,Vaishnava,West Bengal,Bengali,Kheturi,24.4,88.6,,H,Narottama_Dasa,"kirtan reformer, padavali poet"
+306,Nityananda Prabhu,1474,1540,BH,Gaudiya,Vaishnava,West Bengal,,Ekchakra,23.982,87.418,,H,,chief associate of Chaitanya
+307,A. C. Bhaktivedanta Swami Prabhupada,1896,1977,AC,Gaudiya (ISKCON),Vaishnava,West Bengal,Bengali / English,Kolkata,22.573,88.364,,H,A._C._Bhaktivedanta_Swami_Prabhupada,founder of ISKCON
+308,Bijoy Krishna Goswami,1841,1899,BH,Gaudiya/Brahmo,Vaishnava,West Bengal,Bangla,Shantipur,23.255,88.435,,H,Bijoy_Krishna_Goswami,reformer and Vaishnava saint
+309,Sitaramdas Omkarnath,1892,1982,BH,Gaudiya/Shakta,Vaishnava,West Bengal,Bangla,Dumurdaha,22.88,88.4,,H,Sitaramdas_Omkarnath,nama-sankirtan saint
+310,Paramahansa Yogananda,1893,1952,YO,Kriya Yoga,,West Bengal,Bengali / English,Gorakhpur,26.76,83.373,,H,Paramahansa_Yogananda,founder of Self-Realization Fellowship
+311,Sri Yukteswar Giri,1855,1936,YO,Kriya Yoga,,West Bengal,Bengali,Serampore,22.75,88.34,,H,Swami_Sri_Yukteswar_Giri,guru of Yogananda
+312,Gopichand,,,YO,Nath,Shaiva,West Bengal,,,,,,T,,king who renounced to become a Nath yogi
+313,Sarada Devi,1853,1920,BH,Ramakrishna Mission,Shakta,West Bengal,Bengali,Jayrambati,22.874,87.362,1,H,Sarada_Devi,the Holy Mother
+314,Swami Abhedananda,1866,1939,AC,Ramakrishna Mission,,West Bengal,Bangla,Kolkata,22.573,88.364,,H,Swami_Abhedananda,"direct disciple, Vedanta Society New York"
+315,Swami Adbhutananda (Latu),1864,1920,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.573,88.364,,H,Adbhutananda,direct disciple
+316,Swami Advaitananda,1828,1909,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.573,88.364,,H,Advaitananda,eldest direct disciple
+317,Swami Akhandananda,1864,1937,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.59,88.353,,H,,"direct disciple, third president"
+318,Swami Brahmananda,1863,1922,BH,Ramakrishna Mission,,West Bengal,,Sikra-Kulingram,22.66,88.86,,H,Brahmananda_Saraswati,first president of Ramakrishna Math
+319,Swami Niranjanananda,1862,1904,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.573,88.364,,H,Niranjanananda,direct disciple
+320,Swami Premananda,1861,1918,BH,Ramakrishna Mission,,West Bengal,,Antpur,22.83,88.05,,H,,direct disciple
+321,Swami Saradananda,1865,1927,BH,Ramakrishna Mission,,West Bengal,Bangla,Kolkata,22.573,88.364,,H,Swami_Sadananda,"direct disciple, biographer of Ramakrishna"
+322,Swami Shivananda (Mahapurush),1854,1934,BH,Ramakrishna Mission,,West Bengal,,Barasat,22.723,88.481,,H,,"second president, direct disciple"
+323,Swami Subodhananda,1867,1932,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.573,88.364,,H,Subodhananda,direct disciple
+324,Swami Trigunatitananda,1865,1915,BH,Ramakrishna Mission,,West Bengal,,Kolkata,22.59,88.353,,H,Trigunatitananda,"direct disciple, San Francisco"
+325,Swami Turiyananda,1863,1922,AC,Ramakrishna Mission,,West Bengal,,Kolkata,22.59,88.353,,H,Turiyananda,"direct disciple, Vedanta teacher in USA"
+326,Swami Vivekananda,1863,1902,RF,Ramakrishna Mission,,West Bengal,Bengali / English,Kolkata,22.585,88.365,,H,Swami_Vivekananda,founder of Ramakrishna Mission
+327,Swami Yogananda (Jogindra),1861,1899,BH,Ramakrishna Mission,,West Bengal,,Dakshineswar,22.655,88.357,,H,,direct disciple of Ramakrishna
+328,Ramakrishna Paramahansa,1836,1886,AC,Ramakrishna/Neo-Vedanta,Shakta,West Bengal,Bengali,Kamarpukur,22.918,87.657,,H,Ramakrishna,mystic of Dakshineswar
+329,Balak Brahmachari,1905,1993,BH,Santan Dal,,West Bengal,,Sukchar,22.702,88.378,,H,,founder of Santan Dal
+330,Sri Sri Anukulchandra,1888,1969,BH,Satsang movement,Vaishnava,West Bengal,,Himaitpur,24.006,89.237,,H,,"founder of Satsang, Deoghar"
+331,Kamalakanta Bhattacharya,1769,1821,BH,Shakta,Shakta,West Bengal,Bengali,Burdwan,23.232,87.861,,H,Kamalakanta_Bhattacharya,"Shakta poet-saint, Kali/Tara songs"
+332,Ramprasad Sen,1718,1775,BH,Shakta,Shakta,West Bengal,Bengali,Halisahar,22.951,88.417,,H,Ramprasad_Sen,Kali devotional poet (Ramprasadi songs)
+333,Bamakhepa,1837,1911,YO,Shakta (Tara),Shakta,West Bengal,Bengali,Tarapith,23.88,87.795,,H,Bamakhepa,avadhuta saint of Tarapith
+334,Anandamayi Ma,1896,1982,YO,Universal/Shakta,Shakta,West Bengal,Bengali,Kheora,23.74,91.13,1,H,Anandamayi_Ma,revered Bengali woman saint
+335,Chandidas,1400,1499,BH,Vaishnava Sahajiya,Vaishnava,West Bengal,,Nanoor,23.66,87.82,,T,,Bengali Radha-Krishna padavali poet
+336,Tibbetibaba,1860,1930,YO,Yoga siddha,,West Bengal,,Kolkata,22.522,88.338,,H,,Tibet-trained yogi of Bengal
+337,Lokenath Brahmachari,1730,1890,YO,Yoga/Advaita,Shaiva,West Bengal,Bengali,Chakla,22.77,88.68,,H,Lokenath_Brahmachari,yogi saint of Baradi
+338,Swami Pranavananda,1896,1941,YO,Yoga/service,Shaiva,West Bengal,Sanskrit,Bajitpur,23.3,89.9,,H,Swami_Pranavananda,founder of Bharat Sevashram Sangha
+339,Vishuddhananda Paramahansa,1853,1937,YO,Yoga/tantra,,West Bengal,,Kolkata,22.53,88.34,,H,Shuddhananda,'perfume saint' (Gandha Baba)
+340,Gaudapada,500,599,AC,Advaita,Smarta,pan-India,,,,,,T,,author of Mandukya Karika; paramaguru of Shankara
+341,Padmapada,700,799,AC,Advaita,Smarta,pan-India,,,,,,H,,disciple of Shankara; Panchapadika
+342,Sureshvara,700,799,AC,Advaita,Smarta,pan-India,,Sringeri,13.417,75.253,,H,,disciple of Shankara; first head of Sringeri
+343,Totakacharya,700,799,AC,Advaita,Smarta,pan-India,,Joshimath,30.556,79.564,,H,,disciple of Shankara; first head of Jyotirmath
+344,Bhaskara,800,899,AC,Bhedabheda Vedanta,Smarta,pan-India,Sanskrit,,,,,H,Bhāskara_I,exponent of Bhedabheda; critic of Shankara
+345,Adinath,,,YO,Nath,Shaiva,pan-India,,,,,,L,,Shiva as primordial guru of the Nath lineage
+346,Chauranginath,1100,1199,YO,Nath,Shaiva,pan-India,,,,,,T,,one of the Navnath
+347,Gorakhnath,1100,1199,YO,Nath,Shaiva,pan-India,Sanskrit / Hindi,Gorakhpur,26.752,83.369,,T,Gorakhnath,systematizer of Hatha yoga and the Nath sampradaya
+348,Matsyendranath,900,999,YO,Nath,Shaiva,pan-India,Sanskrit,,,,,T,Matsyendranatha,first human Nath guru
+349,Svatmarama,1400,1499,YO,Nath/Hatha Yoga,Shaiva,pan-India,,,,,,H,,author of the Hatha Yoga Pradipika
+350,Vishnuswami,1200,1299,BH,Rudra Sampradaya,Vaishnava,pan-India,,,,,,T,,traditional founder of Rudra Sampradaya
+351,Baudhayana,-830,-770,MA,Mathematics/Astronomy,,North India,,,,,,H,,"Baudhayana Sulbasutra; early Pythagorean theorem, altar geometry"
+352,Apastamba,-600,-500,MA,Mathematics/Astronomy,,Andhra Pradesh,,,,,,H,,Apastamba Sulbasutra; Vedic altar geometry
+353,Katyayana,-330,-270,MA,Mathematics/Astronomy,,North India,Sanskrit,,,,,H,Kātyāyana,Katyayana Sulbasutra
+354,Pingala,-300,-200,MA,Mathematics/Astronomy,,North India,,,,,,H,,"Chandahshastra; binary numeration, combinatorics, proto-Fibonacci"
+355,Aryabhata,476,550,MA,Mathematics/Astronomy,Smarta,Bihar,Sanskrit,Pataliputra (Patna),25.61,85.14,,H,Aryabhata,"Aryabhatiya; place-value, sine tables, earth's rotation"
+356,Varahamihira,505,587,MA,Mathematics/Astronomy,Smarta,Madhya Pradesh,Sanskrit,Ujjain,23.18,75.78,,H,Varāhamihira,"Pancha-Siddhantika, Brihat Samhita; astronomy at Ujjain"
+357,Brahmagupta,598,668,MA,Mathematics/Astronomy,Smarta,Rajasthan,Sanskrit,Bhinmal,25.0,72.26,,H,Brahmagupta,Brahmasphutasiddhanta; rules for zero and negatives
+358,Bhaskara I,600,680,MA,Mathematics/Astronomy,Smarta,Gujarat,,Saurashtra,21.5,70.5,,H,,Aryabhatiyabhashya; rational sine approximation
+359,Mahavira (mathematician),820,880,MA,Mathematics/Astronomy,,Karnataka,,Manyakheta,17.19,77.13,,H,,"Ganita-sara-sangraha; Jain mathematician, Rashtrakuta court"
+360,Sridhara,870,930,MA,Mathematics/Astronomy,Smarta,West Bengal,,,,,,H,Sridhara,"Trisatika, Patiganita; quadratic-equation rule"
+361,Sripati,1019,1066,MA,Mathematics/Astronomy,Smarta,Maharashtra,Sanskrit,,,,,H,Śrīpati,"Siddhantasekhara, Ganitatilaka"
+362,Bhaskara II (Bhaskaracharya),1114,1185,MA,Mathematics/Astronomy,Smarta,Karnataka,,Vijjadavida (Bijapur),16.83,75.71,,H,,"Siddhanta Shiromani (Lilavati, Bijaganita); early calculus"
+363,Madhava of Sangamagrama,1340,1425,MA,Kerala school,Smarta,Kerala,Sanskrit / Malayalam,Irinjalakuda,10.34,76.21,,H,Madhava_of_Sangamagrama,Founder of Kerala school; infinite series for pi/sine/cosine
+364,Vatasseri Parameshvara,1380,1460,MA,Kerala school,Smarta,Kerala,,Alathiyur,10.9,75.98,,H,,Drigganita system; observational astronomy
+365,Nilakantha Somayaji,1444,1544,MA,Kerala school,Smarta,Kerala,Sanskrit,Tirur,10.92,75.92,,H,Nilakantha_Somayaji,"Tantrasangraha; partial heliocentric model, infinite series"
+366,Jyeshtadeva,1500,1575,MA,Kerala school,Smarta,Kerala,Malayalam,Alathur,10.9,75.95,,H,Jyeshthadeva,Yuktibhasa; systematic proofs of calculus/series (Malayalam)
+367,Achyuta Pisharati,1550,1621,MA,Kerala school,Smarta,Kerala,Sanskrit,Tirur,10.92,75.92,,H,Achyuta_Pisharati,Sphutanirnaya; grammarian and astronomer
+368,Shankara Variyar,1500,1560,MA,Kerala school,Smarta,Kerala,Sanskrit,Tirur,10.92,75.92,,H,Shankara_Variyar,"Yuktidipika, Kriyakramakari commentaries"
+369,Melpathur Narayana Bhattathiri,1560,1646,MA,Kerala school,Smarta,Kerala,Sanskrit,Tirunavaya,10.87,76.02,,H,Melpathur_Narayana_Bhattathiri,Prakriya-sarvasva; Narayaniyam
+370,Narayana Pandita,1340,1400,MA,Mathematics/Astronomy,Smarta,North India,,,,,,H,Narayana_Pandita_(mathematician),"Ganita Kaumudi; magic squares, combinatorics"
+371,Munishvara,1603,1670,MA,Mathematics/Astronomy,Smarta,Uttar Pradesh,,Varanasi,25.32,83.01,,H,,Siddhanta-sarvabhauma; trigonometry at Varanasi
+372,Kamalakara,1616,1700,MA,Mathematics/Astronomy,Smarta,Uttar Pradesh,,Varanasi,25.32,83.01,,H,,Siddhanta-tattva-viveka; blended Islamic and Indian astronomy
+373,Jagannatha Samrat,1652,1744,MA,Mathematics/Astronomy,Smarta,Rajasthan,,Jaipur,26.92,75.82,,H,,"Samrat Siddhanta; astronomer to Jai Singh II, Jantar Mantar"
+374,Charaka,-200,-100,AY,Ayurveda,,Kashmir,Sanskrit,Kashmir,34.08,74.8,,H,Charaka,Charaka Samhita; foundational internal medicine (kayachikitsa)
+375,Sushruta,-600,-500,AY,Ayurveda,,Uttar Pradesh,Sanskrit,Kashi (Varanasi),25.32,83.01,,H,Sushruta,"Sushruta Samhita; father of surgery, rhinoplasty"
+376,Vagbhata,600,699,AY,Ayurveda,,Sindh,Sanskrit,Sindh,25.4,68.4,,H,Vagbhata,Ashtanga Hridaya; synthesis of Charaka and Sushruta
+377,Nagarjuna (rasashastra),700,799,AY,Ayurveda,,Andhra Pradesh,,Nagarjunakonda,16.52,79.24,,L,,Rasashastra (alchemical medicine); conflated figure
+378,Madhava (Madhavakara),670,730,AY,Ayurveda,,West Bengal,,,,,,H,,Madhava Nidana; classic diagnosis/pathology treatise
+379,Sharngadhara,1300,1399,AY,Ayurveda,,Rajasthan,,Ranthambore,26.02,76.46,,H,,"Sharngadhara Samhita; pharmaceutics, pulse diagnosis"
+380,Bhava Mishra,1500,1600,AY,Ayurveda,,Uttar Pradesh,Sanskrit,Varanasi,25.32,83.01,,H,Bhavamishra,Bhavaprakasha; last great nibandha text
+381,Chakrapani Datta,1000,1099,AY,Ayurveda,,West Bengal,Sanskrit,Bengal,23.5,87.3,,H,Chakrapani_Datta,"Ayurveda Dipika (Charaka commentary), Chakradatta"
+382,Vrinda,800,899,AY,Ayurveda,,West Bengal,,,,,,H,,Siddha Yoga (Vrinda Madhava); remedies by disease
+383,Jivaka,-500,-400,AY,Ayurveda,,Bihar,,Rajgir,25.03,85.42,,H,Jīvaka,Court physician of Bimbisara; pediatric/surgical fame
+384,Tansen,1500,1586,MU,Hindustani music,,Madhya Pradesh,Braj Bhasha,Behat (Gwalior),26.44,78.44,,H,Tansen,"Dhrupad master, one of Akbar's Navaratnas"
+385,Amir Khusrau,1253,1325,MU,Hindustani music,,Uttar Pradesh,,Patiyali,27.7,78.98,,H,,"Sufi poet-musician; qawwali, khayal, tarana"
+386,Baiju Bawra,1500,1599,MU,Hindustani music,,Madhya Pradesh,,Chanderi,24.71,78.14,,L,,"Legendary dhrupad singer, rival of Tansen"
+387,Gopala Nayaka,1300,1399,MU,Hindustani music,Smarta,Maharashtra,,Daulatabad,19.94,75.24,,T,,Court musician of Devagiri/Delhi
+388,Sadarang (Niyamat Khan),1670,1748,MU,Hindustani music,,Delhi,,Delhi,28.65,77.23,,H,,Systematized modern khayal
+389,Adarang (Firoz Khan),1700,1799,MU,Hindustani music,,Delhi,,Delhi,28.65,77.23,,H,,"Khayal composer, Muhammad Shah's court"
+390,Vishnu Narayan Bhatkhande,1860,1936,MU,Hindustani music,,Maharashtra,Marathi,Mumbai,19.07,72.87,,H,Vishnu_Narayan_Bhatkhande,Codified the thaat system of Hindustani theory
+391,Vishnu Digambar Paluskar,1872,1931,MU,Hindustani music,,Maharashtra,Marathi,Kurundwad,16.68,74.58,,H,Vishnu_Digambar_Paluskar,Founded Gandharva Mahavidyalaya
+392,Ustad Allauddin Khan,1862,1972,MU,Hindustani music,,Madhya Pradesh,,Maihar,24.27,80.76,,H,,Maihar gharana founder; guru of Ravi Shankar
+393,Narayana Teertha,1650,1745,MU,Carnatic music,Vaishnava,Tamil Nadu,,Tirupoonthuruthi,10.87,79.18,,H,,Krishna Leela Tarangini (Tarangam tradition)
+394,Oothukkadu Venkata Kavi,1700,1765,MU,Carnatic music,Vaishnava,Tamil Nadu,Tamil / Sanskrit,Oothukkadu,10.77,79.42,,H,Oothukkadu_Venkata_Kavi,Prolific pre-Trinity Krishna composer
+395,Papanasam Sivan,1890,1973,MU,Carnatic music,Shaiva,Tamil Nadu,Tamil,Polagam,10.94,79.4,,H,Papanasam_Sivan,'Tamil Thyagaraja'; Tamil kritis and film music
+396,Gopalakrishna Bharati,1811,1896,MU,Carnatic music,Shaiva,Tamil Nadu,Tamil,Mudikondan,10.83,79.57,,H,Gopalakrishna_Bharathi,Nandanar Charitram (anti-caste devotional opera)
+397,Muthu Thandavar,1600,1699,MU,Carnatic music,Shaiva,Tamil Nadu,,Sirkazhi,11.24,79.73,,T,,"Early Tamil kriti composer, 'Tamil Trinity'"
+398,Arunachala Kavi,1711,1779,MU,Carnatic music,Vaishnava,Tamil Nadu,Tamil,Tillaiyadi,11.03,79.83,,H,Arunachala_Kavi,Rama Natakam (Tamil Ramayana kirtanas)
+399,Maharaja Swathi Thirunal,1813,1846,MU,Carnatic music,Vaishnava,Kerala,,Thiruvananthapuram,8.52,76.94,,H,,"Travancore king-composer, Carnatic & Hindustani"
+400,Gheranda,1600,1699,YO,Yoga/Meditation,Vaishnava,Bihar,,,,,,T,,Gheranda Samhita (sevenfold yoga)
+401,Yajnavalkya,-800,-700,YO,Yoga/Meditation,,Bihar,Sanskrit,Mithila,26.63,85.9,,L,Yajnavalkya,Sage of Yoga Yajnavalkya and Upanishadic teaching
+402,Tirumalai Krishnamacharya,1888,1989,YO,Yoga/Meditation,Vaishnava,Karnataka,,Mysore,12.3,76.64,,H,,'Father of modern yoga'; Mysore Palace teacher
+403,Swami Kuvalayananda,1883,1966,YO,Yoga/Meditation,,Maharashtra,Marathi,Lonavla,18.75,73.41,,H,Swami_Kuvalayananda,"Scientific yoga research; founded Kaivalyadhama, Lonavla"
+404,Shri Yogendra,1897,1989,YO,Yoga/Meditation,,Maharashtra,Gujarati / English,Mumbai,19.08,72.84,,H,Shri_Yogendra,Founded The Yoga Institute (1918); householder yoga
+405,Ayya Vaikundar (Vaikunda Swami),1809,1851,RF,Social reform,,Tamil Nadu,Tamil,Swamithope,8.14,77.44,,T,Ayya_Vaikundar,Founder of Ayyavazhi; anti-caste movement
+406,Ayyavu Swamikal (Thycaud Ayya),1814,1909,RF,Social reform,Advaita,Kerala,,Thiruvananthapuram,8.5,76.96,,H,Ayyavu_Swamikal,Kerala renaissance guru; teacher of Chattampi Swamikal and Narayana Guru; championed inter-caste dining
+407,Brahmananda Swami Sivayogi,1852,1929,RF,Social reform,,Kerala,Malayalam,Karunagappally,9.06,76.53,,H,Brahmananda_Swami_Sivayogi,Rationalist yogi; founded Ananda Mahasabha
+408,Vagbhatananda,1885,1939,RF,Social reform,,Kerala,Malayalam,"Patyam, Kannur",11.87,75.65,,H,Vagbhatananda,Rationalist anti-caste reformer; Atmavidya Sangham
+409,Sahodaran Ayyappan,1889,1968,RF,Social reform,,Kerala,,Cherai,10.13,76.18,,H,,"'No religion, no caste, no God for mankind'"
+410,Poykayil Yohannan,1879,1939,RF,Social reform,,Kerala,,Eraviperoor,9.35,76.72,,H,,Founded PRDS for enslaved-caste liberation
+411,Ayyankali,1863,1941,RF,Social reform,,Kerala,,Venganoor,8.38,77.03,,H,,"Dalit (Pulaya) leader; won school access, road rights"
+412,Jyotiba Phule,1827,1890,RF,Social reform,,Maharashtra,,Pune,18.52,73.86,,H,,"Satyashodhak Samaj; anti-caste, women's education"
+413,Swami Sahajanand Saraswati,1889,1950,RF,Social reform,Advaita,Bihar,Hindi,Bihta,25.55,84.87,,H,Sahajanand_Saraswati,Dashanami monk; founded All India Kisan Sabha
+414,Mangoo Ram Mugowalia,1886,1980,RF,Social reform,,Punjab,,Mugowal,31.5,75.9,,H,,Founded Ad Dharm movement for Dalit identity
+415,Guru Ghasidas,1756,1836,RF,Social reform,,Chhattisgarh,Chhattisgarhi,Girodpuri,21.68,82.32,,H,Guru_Ghasidas,Founded the Satnami sect; egalitarian 'Satnam'
+416,Valmiki,,,PW,Epic/Puranic poet (Sanskrit),,Uttar Pradesh,Sanskrit,Bithoor,26.609,80.27,,L,,Ramayana (adi-kavya)
+417,Vyasa,,,PW,Epic/Puranic poet (Sanskrit),,Uttarakhand,Sanskrit,Mana,30.772,79.49,,L,,Mahabharata and compiler of the Puranas
+418,Kamban,1100,1199,PW,Epic/Puranic poet (Tamil),,Tamil Nadu,Tamil,Therazhundur,11.021,79.632,,T,,Kamba Ramayanam (Ramavataram)
+419,Ilango Adigal,500,599,PW,Epic/Puranic poet (Tamil),,Tamil Nadu,Tamil,Kodungallur,10.229,76.195,,T,,Silappatikaram
+420,Villiputturar,1400,1499,PW,Epic/Puranic poet (Tamil),,Tamil Nadu,Tamil,Thanjavur region,10.787,79.138,,H,,Villi Bharatam (Tamil Mahabharata)
+421,Nannaya Bhattaraka,1000,1099,PW,Epic/Puranic poet (Telugu),,Andhra Pradesh,Telugu,Rajahmundry,17.0,81.804,,H,,Andhra Mahabharatamu (began the Kavitrayam)
+422,Tikkana Somayaji,1200,1299,PW,Epic/Puranic poet (Telugu),,Andhra Pradesh,Telugu,Nellore,14.443,79.987,,H,,Andhra Mahabharatamu (Kavitrayam)
+423,Yerrapragada,1300,1399,PW,Epic/Puranic poet (Telugu),,Andhra Pradesh,Telugu,Addanki,15.811,79.973,,H,,Completed the Andhra Mahabharatamu (Kavitrayam)
+424,Srinatha,1365,1441,PW,Epic/Puranic poet (Telugu),,Andhra Pradesh,Telugu,Rajahmundry,16.989,81.783,,H,,"Kavisarvabhauma; Srungara Naishadham, Bhimakhandamu"
+425,Gona Budda Reddy,1200,1299,PW,Epic/Puranic poet (Telugu),,Telangana,Telugu,Vardhamanapura,16.36,78.06,,T,,Ranganatha Ramayanam (first full Telugu Ramayana)
+426,Pampa (Adikavi),911,971,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Annigeri,15.423,75.433,,H,,Vikramarjuna Vijaya (Pampa Bharata)
+427,Ponna,900,999,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Manyakheta,17.19,77.15,,H,,Shanti Purana (ratnatraya)
+428,Ranna,949,1019,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Mudhol,16.333,75.283,,H,,Sahasa Bhima Vijaya (Gada Yuddha); ratnatraya
+429,Kumaravyasa (Naranappa),1400,1499,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Gadag,15.425,75.63,,H,,Karnata Bharata Kathamanjari (Gadugina Bharata)
+430,Lakshmisha,1600,1699,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Devanuru (Kadur),13.55,76.0,,H,,Jaimini Bharata
+431,Kumara Valmiki (Torave Narahari),1500,1599,PW,Epic/Puranic poet (Kannada),,Karnataka,Kannada,Torave,16.8,75.7,,T,,Torave Ramayana
+432,Krittibas Ojha,1400,1499,PW,Epic/Puranic poet (Bengali),,West Bengal,Bengali,Phulia,23.24,88.47,,H,Krittibas_Ojha,Krittivasi Ramayan (Bengali Ramayana)
+433,Kashiram Das,1600,1699,PW,Epic/Puranic poet (Bengali),,West Bengal,Bengali,Singi,23.6,88.1,,H,,Bengali Mahabharata (Kashidasi Mahabharata)
+434,Kavindra Parameshwar,1500,1599,PW,Epic/Puranic poet (Bengali),,West Bengal,Bengali,Chittagong,22.34,91.83,,H,,First Bengali Mahabharata (for Paragal Khan)
+435,Chandrabati,1500,1599,PW,Epic/Puranic poet (Bengali),,West Bengal,Bengali,Patuari,24.43,90.78,1,H,,Chandrabati Ramayan (Sita-centred retelling)
+436,Sarala Das,1400,1499,PW,Epic/Puranic poet (Odia),,Odisha,Odia,Jhankada,20.5,85.9,,H,,Odia Mahabharata; Chandi Purana
+437,Madhava Kandali,1300,1399,PW,Epic/Puranic poet (Assamese),,Assam,Assamese,Nagaon region,26.35,92.68,,H,,Saptakanda Ramayana (earliest Assamese Ramayana)
+438,Rama Saraswati,1500,1599,PW,Epic/Puranic poet (Assamese),,Assam,Assamese,western Assam,26.3,89.4,,H,,Assamese Mahabharata (for Naranarayana)
+439,Thunchaththu Ezhuthachan,1500,1599,PW,Epic/Puranic poet (Malayalam),,Kerala,Malayalam,Tirur,10.913,75.92,,H,Thunchaththu_Ramanujan_Ezhuthachan,Adhyatma Ramayanam Kilippattu; father of Malayalam
+440,Cherusseri Namboothiri,1400,1499,PW,Epic/Puranic poet (Malayalam),,Kerala,Malayalam,Kolathunadu,11.7,75.6,,T,,Krishnagatha
+441,Rama Panikkar,1400,1499,PW,Epic/Puranic poet (Malayalam),,Kerala,Malayalam,Niranam,9.33,76.55,,H,,Kannassa Ramayanam (Niranam poets)
+442,Moropant,1729,1794,PW,Epic/Puranic poet (Marathi),,Maharashtra,Marathi,Baramati,18.152,74.577,,H,,Aryabharata; Kekavali
+443,Mukteshwar,1600,1699,PW,Epic/Puranic poet (Marathi),,Maharashtra,Marathi,Paithan,19.48,75.38,,H,,Marathi Mahabharata and Ramayana in ovi
+444,Sabalsingh Chauhan,1600,1699,PW,Epic/Puranic poet (Hindi),,Uttar Pradesh,Hindi,Etawah region,26.5,79.5,,T,,Mahabharat in Hindi verse
+445,Premanand Bhatt,1700,1799,PW,Epic/Puranic poet (Gujarati),,Gujarat,Gujarati,Vadodara,22.31,73.18,,H,,"Akhyana poet: Dashamaskandha, Nalakhyana"
+446,Bhalan,1400,1499,PW,Epic/Puranic poet (Gujarati),,Gujarat,Gujarati,Patan,23.85,72.12,,H,,Akhyana poet: Dashamaskandha; Kadambari
+447,Nakar,1500,1599,PW,Epic/Puranic poet (Gujarati),,Gujarat,Gujarati,Vadodara region,22.3,73.2,,H,,Akhyana poet: Mahabharata episodes
+448,Prakash Ram Kurigami,1800,1899,PW,Epic/Puranic poet (Kashmiri),,Kashmir,Kashmiri,Kurigam,33.7,75.1,,H,,Ramavatara Charita (Kashmiri Ramayana)
+449,Kalidasa,400,499,PW,Classical Sanskrit poetry,,Madhya Pradesh,Sanskrit,Ujjain,23.179,75.785,,H,,"Abhijnanashakuntalam, Meghaduta, Raghuvamsha"
+450,Bhasa,-200,-100,PW,Classical Sanskrit poetry,,North India,Sanskrit,,,,,L,,Sanskrit dramatist; Svapnavasavadatta
+451,Ashvaghosha,120,180,PW,Classical Sanskrit poetry,,Uttar Pradesh,Sanskrit,Saketa (Ayodhya),26.792,82.2,,H,,Buddhacharita; earliest Sanskrit mahakavya
+452,Dandin,700,799,PW,Classical Sanskrit poetry,,Tamil Nadu,Sanskrit,Kanchipuram,12.834,79.704,,H,,Dashakumaracharita; Kavyadarsha
+453,Bharavi,500,599,PW,Classical Sanskrit poetry,,North India,Sanskrit,,,,,H,,Kiratarjuniya mahakavya
+454,Magha,600,699,PW,Classical Sanskrit poetry,,Rajasthan,Sanskrit,Bhinmal,25.006,72.269,,H,Magha_(poet),Shishupala Vadha mahakavya
+455,Bhavabhuti,700,799,PW,Classical Sanskrit poetry,,Maharashtra,Sanskrit,Padmapura (Vidarbha),21.45,80.19,,H,,Uttararamacharita; dramatist
+456,Banabhatta,600,699,PW,Classical Sanskrit poetry,,Uttar Pradesh,Sanskrit,Kannauj,27.055,79.914,,H,,"Harshacharita, Kadambari"
+457,Amaru,700,799,PW,Classical Sanskrit poetry,,North India,Sanskrit,,,,,L,,Amarushataka; love lyric
+458,Sriharsha,1100,1199,PW,Classical Sanskrit poetry,,Uttar Pradesh,Sanskrit,Kannauj,27.055,79.914,,H,,Naishadhacharita mahakavya
+459,Bilhana,1000,1099,PW,Classical Sanskrit poetry,,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,,Vikramankadevacharita; Chaurapanchashika
+460,Kshemendra,1000,1099,PW,Classical Sanskrit poetry,,Kashmir,Sanskrit,Srinagar,34.084,74.797,,H,,Kashmiri polymath; Brihatkathamanjari
+461,Rajasekhara,900,999,PW,Classical Sanskrit poetry,,Uttar Pradesh,Sanskrit,Kannauj,27.055,79.914,,H,,"Karpuramanjari, Kavyamimamsa"
+462,Thiruvalluvar,-100,-400,PW,Tamil literature,,Tamil Nadu,Tamil,"Mylapore, Chennai",13.033,80.271,,L,,Tirukkural
+463,Subramania Bharati,1882,1921,PW,Tamil literature,,Tamil Nadu,Tamil,Ettayapuram,9.145,77.993,,H,Subramania_Bharati,"Nationalist poet; Kannan Pattu, Panchali Sabatham"
+464,Bharathidasan,1891,1964,PW,Tamil literature,,Puducherry,Tamil,Pondicherry,11.934,79.831,,H,,Revolutionary Tamil poet
+465,Namakkal Kavignar,1888,1972,PW,Tamil literature,,Tamil Nadu,Tamil,Namakkal,11.219,78.167,,H,,National poet; Gandhian verse
+466,Gurajada Apparao,1862,1915,PW,Telugu literature,,Andhra Pradesh,Telugu,Vizianagaram,18.107,83.396,,H,Gurajada_Apparao,Kanyasulkam; patriotic poetry
+467,Viswanatha Satyanarayana,1895,1976,PW,Telugu literature,,Andhra Pradesh,Telugu,Nandamuru,16.43,80.99,,H,,Jnanpith laureate; Ramayana Kalpavrukshamu
+468,Sri Sri,1910,1983,PW,Telugu literature,,Andhra Pradesh,Telugu,Visakhapatnam,17.687,83.219,,H,,Maha Prasthanam; progressive poet
+469,Kuvempu,1904,1994,PW,Kannada literature,,Karnataka,Kannada,Kuppali,13.794,75.164,,H,,Jnanpith laureate; Sri Ramayana Darshanam
+470,D. R. Bendre,1896,1981,PW,Kannada literature,,Karnataka,Kannada,Dharwad,15.459,75.008,,H,,Jnanpith laureate; Naaku Tanti
+471,Govinda Pai,1883,1963,PW,Kannada literature,,Karnataka,Kannada,Manjeshwar,12.692,74.89,,H,,First Rashtrakavi of Karnataka; Golgotha
+472,Masti Venkatesha Iyengar,1891,1986,PW,Kannada literature,,Karnataka,Kannada,"Masti, Kolar",13.13,77.98,,H,,Jnanpith laureate; Chikaveera Rajendra
+473,Kumaran Asan,1873,1924,PW,Malayalam literature,,Kerala,Malayalam,Kayikkara,8.683,76.717,,H,,"Veena Poovu; romantic revival, reformer"
+474,Vallathol Narayana Menon,1878,1958,PW,Malayalam literature,,Kerala,Malayalam,Chennara (Tirur),10.9,75.92,,H,,Founder of Kerala Kalamandalam
+475,Ulloor S. Parameswara Iyer,1877,1949,PW,Malayalam literature,,Kerala,Malayalam,Thiruvananthapuram,8.524,76.937,,H,Ulloor_S._Parameswara_Iyer,Modern triumvirate; Umakeralam
+476,G. Sankara Kurup,1901,1978,PW,Malayalam literature,,Kerala,Malayalam,Nayathode,10.13,76.43,,H,,First Jnanpith laureate; Odakkuzhal
+477,Changampuzha Krishna Pillai,1911,1948,PW,Malayalam literature,,Kerala,Malayalam,Edappally,10.026,76.308,,H,,Ramanan; romantic lyric poet
+478,Rabindranath Tagore,1861,1941,PW,Bengali literature,,West Bengal,Bengali,"Jorasanko, Kolkata",22.585,88.364,,H,Rabindranath_Tagore,Nobel laureate; Gitanjali
+479,Kazi Nazrul Islam,1899,1976,PW,Bengali literature,,West Bengal,Bengali,Churulia,23.752,86.994,,H,,Rebel poet; Bidrohi
+480,Michael Madhusudan Dutt,1824,1873,PW,Bengali literature,,West Bengal,Bengali,Sagardari,23.0,89.05,,H,,Meghnad Badh Kavya; blank verse pioneer
+481,Bankim Chandra Chatterjee,1838,1894,PW,Bengali literature,,West Bengal,Bengali,Naihati,22.9,88.42,,H,,Vande Mataram; Anandamath
+482,Jibanananda Das,1899,1954,PW,Bengali literature,,West Bengal,Bengali,Barisal,22.701,90.353,,H,,Banalata Sen; modernist poet
+483,Sukumar Ray,1887,1923,PW,Bengali literature,,West Bengal,Bengali,Kolkata,22.573,88.364,,H,,Abol Tabol; nonsense verse
+484,Iswar Chandra Gupta,1812,1859,PW,Bengali literature,,West Bengal,Bengali,Kanchrapara,22.95,88.433,,H,Ishwar_Chandra_Gupta,Pioneer of modern Bengali poetry/journalism
+485,Bharatendu Harishchandra,1850,1885,PW,Hindi literature,,Uttar Pradesh,Hindi,Varanasi,25.318,83.013,,H,,Father of modern Hindi literature
+486,Maithili Sharan Gupt,1886,1964,PW,Hindi literature,,Uttar Pradesh,Hindi,"Chirgaon, Jhansi",25.61,78.81,,H,,"Rashtrakavi; Bharat-Bharati, Saket"
+487,Jaishankar Prasad,1889,1937,PW,Hindi literature,,Uttar Pradesh,Hindi,Varanasi,25.318,83.013,,H,,Chhayavaad poet; Kamayani
+488,Suryakant Tripathi Nirala,1899,1961,PW,Hindi literature,,Uttar Pradesh,Hindi,Allahabad,25.436,81.846,,H,,Chhayavaad poet; Ram ki Shakti Puja
+489,Sumitranandan Pant,1900,1977,PW,Hindi literature,,Uttarakhand,Hindi,Kausani,29.844,79.605,,H,,Jnanpith laureate; Chidambara
+490,Mahadevi Varma,1907,1987,PW,Hindi literature,,Uttar Pradesh,Hindi,Allahabad,25.436,81.846,1,H,,Jnanpith laureate; Chhayavaad; Yama
+491,Ramdhari Singh Dinkar,1908,1974,PW,Hindi literature,,Bihar,Hindi,Simaria,25.42,86.13,,H,,"Rashtrakavi; Rashmirathi, Kurukshetra"
+492,Keshavsut,1866,1905,PW,Marathi literature,,Maharashtra,Marathi,Malgund,17.15,73.27,,H,,Father of modern Marathi poetry
+493,B. R. Tambe,1874,1941,PW,Marathi literature,,Madhya Pradesh,Marathi,Gwalior,26.218,78.183,,H,,Rajakavi of Gwalior
+494,Kusumagraj,1912,1999,PW,Marathi literature,,Maharashtra,Marathi,Nashik,19.997,73.79,,H,,V.V. Shirwadkar; Jnanpith laureate; Vishakha
+495,Govindagraj,1885,1919,PW,Marathi literature,,Maharashtra,Marathi,Navsari,20.946,72.952,,H,,Ram Ganesh Gadkari; poet-dramatist
+496,Narmad,1833,1886,PW,Gujarati literature,,Gujarat,Gujarati,Surat,21.17,72.831,,H,Narmad,Pioneer of modern Gujarati; Jai Jai Garvi Gujarat
+497,Dalpatram,1820,1898,PW,Gujarati literature,,Gujarat,Gujarati,Vadtal,22.55,72.9,,H,,Early modern Gujarati poet
+498,Kalapi,1874,1900,PW,Gujarati literature,,Gujarat,Gujarati,Lathi,21.723,71.383,,H,,Prince-poet; Kalapino Kekarav
+499,Jhaverchand Meghani,1896,1947,PW,Gujarati literature,,Gujarat,Gujarati,Chotila,22.422,71.19,,H,,Rashtriya Shayar; folk literature
+500,Umashankar Joshi,1911,1988,PW,Gujarati literature,,Gujarat,Gujarati,Bamna,23.75,73.0,,H,,Jnanpith laureate; Nishith
+501,Fakir Mohan Senapati,1843,1918,PW,Odia literature,,Odisha,Odia,Balasore,21.493,86.933,,H,,Father of modern Odia literature; Chha Mana Atha Guntha
+502,Radhanath Ray,1848,1908,PW,Odia literature,,Odisha,Odia,"Kedarpur, Balasore",21.5,86.9,,H,,Kabibar; Chilika
+503,Gangadhar Meher,1862,1924,PW,Odia literature,,Odisha,Odia,Barpali,21.19,83.58,,H,,Swabhava Kavi; Tapaswini
+504,Waris Shah,1722,1798,PW,Punjabi literature,,Punjab (Pakistan),Punjabi,Jandiala Sher Khan,31.821,73.93,,H,,Heer Ranjha
+505,Bulleh Shah,1680,1757,PW,Punjabi literature,,Punjab (Pakistan),Punjabi,Kasur,31.118,74.441,,H,,Sufi Kafi poet
+506,Shah Hussain,1538,1599,PW,Punjabi literature,,Punjab (Pakistan),Punjabi,Lahore,31.55,74.344,,H,,Sufi Kafi poet; Madho Lal Hussain
+507,Puran Singh,1881,1931,PW,Punjabi literature,,Punjab,Punjabi,Abbottabad region,34.15,73.21,,H,,Modern Punjabi poet and essayist
+508,Mirza Ghalib,1797,1869,PW,Urdu literature,,Delhi,Urdu,Delhi,28.656,77.241,,H,,Diwan-e-Ghalib; supreme Urdu ghazal poet
+509,Mir Taqi Mir,1723,1810,PW,Urdu literature,,Uttar Pradesh,Urdu,Agra,27.177,78.008,,H,,Khuda-e-sukhan; classical ghazal master
+510,Allama Iqbal,1877,1938,PW,Urdu literature,,Punjab (Pakistan),Urdu,Sialkot,32.495,74.523,,H,,Bang-e-Dara; Saare Jahan se Achha
+511,Firaq Gorakhpuri,1896,1982,PW,Urdu literature,,Uttar Pradesh,Urdu,Gorakhpur,26.761,83.373,,H,Firaq_Gorakhpuri,Jnanpith laureate; Gul-e-Naghma
+512,Lakshminath Bezbaroa,1864,1938,PW,Assamese literature,,Assam,Assamese,Nagaon,26.35,92.68,,H,,O Mor Apunar Desh; Jonaki-era literary giant
+513,Gargi Vachaknavi,-800,-700,SG,Vedic,,Bihar,Sanskrit,Mithila,26.62,85.95,1,L,Gargi_Vachaknavi,
+514,Maitreyi,-800,-700,SG,Vedic,,Bihar,Sanskrit,Mithila,26.58,85.86,1,L,Maitreyi,
+515,Uddalaka Aruni,-800,-700,SG,Vedic,,Uttar Pradesh,Sanskrit,Panchala,27.55,79.28,,L,Uddalaka_Aruni,
+516,Satyakama Jabala,-800,-700,SG,Vedic,,Uttar Pradesh,Sanskrit,Kuru-Panchala,27.6,79.35,,L,Satyakama_Jabala,
+517,Panini,-500,-400,SG,Vyakarana (grammar),,Gandhara,Sanskrit,"Shalatula, near Attock",33.9,72.36,,T,Pāṇini,
+518,Lakulisha,100,200,YO,Pashupata Shaiva,,Gujarat,Sanskrit,Karvan,22.08,73.25,,T,Lakulisa,
+519,Karaikkal Ammaiyar,500,560,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Karaikal,10.92,79.84,1,T,Karaikkal_Ammaiyar,
+520,Tirumular,500,700,YO,Shaiva Siddha (Nayanar),,Tamil Nadu,Tamil,Tiruvavaduthurai,11.03,79.53,,T,Tirumular,
+521,Poigai Alvar,550,650,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Kanchipuram,12.83,79.7,,T,Poigai_Alvar,
+522,Bhoothath Alvar,550,650,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Mamallapuram,12.62,80.19,,T,Bhoothath_Alvar,
+523,Peyalvar,550,650,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Mylapore,13.03,80.27,,T,Peyalvar,
+524,Appar,570,650,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Thiruvamur,11.77,79.48,,H,Appar,
+525,Thirumalisai Alvar,600,700,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Thirumazhisai,13.05,80.06,,T,Thirumalisai_Alvar,
+526,Sambandar,620,640,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Sirkazhi,11.24,79.74,,H,Sambandar,
+527,Mangayarkkarasiyar,620,670,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Madurai,9.92,78.12,1,T,Mangayarkkarasiyar,
+528,Siruthonda Nayanar,620,670,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Tiruchengattankudi,10.86,79.67,,T,Siruthonda_Nayanar,
+529,Mandana Mishra,700,780,AC,Mimamsa / Advaita,,Bihar,Sanskrit,Mahishi,25.85,86.47,,T,Maṇḍana_Miśra,
+530,Ubhaya Bharati,700,780,AC,Mimamsa / Advaita,,Bihar,Sanskrit,Mahishi,25.87,86.5,1,T,Ubhaya_Bharati,
+531,Sundarar,700,740,BH,Shaiva (Nayanar),,Tamil Nadu,Tamil,Thirunavalur,11.77,79.33,,H,Sundarar,
+532,Cheraman Perumal Nayanar,780,830,BH,Shaiva (Nayanar),,Kerala,Tamil,Kodungallur,10.22,76.2,,T,Cheraman_Perumal_Nayanar,
+533,Nammalvar,800,850,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Alwarthirunagari,8.61,77.94,,T,Nammalvar,
+534,Madhurakavi Alvar,800,850,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Thirukkolur,8.62,77.96,,T,Madhurakavi_Alvar,
+535,Kulasekhara Alvar,800,850,BH,Sri Vaishnava (Alvar),,Kerala,Tamil,Thiruvanchikulam,10.21,76.21,,T,Kulasekhara_Alvar,
+536,Periyalvar,800,870,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Srivilliputhur,9.51,77.63,,T,Periyalvar,
+537,Andal,800,830,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Srivilliputhur,9.52,77.64,1,T,Andal,
+538,Thondaradippodi Alvar,800,880,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Thirumandangudi,10.93,79.31,,T,Thondaradippodi_Alvar,
+539,Thiruppaan Alvar,800,880,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Uraiyur,10.83,78.68,,T,Thiruppaan_Alvar,
+540,Thirumangai Alvar,800,880,BH,Sri Vaishnava (Alvar),,Tamil Nadu,Tamil,Thirukurayalur,11.2,79.75,,T,Thirumangai_Alvar,
+541,Vachaspati Mishra,900,980,AC,Advaita / Nyaya,,Bihar,Sanskrit,"Andhra Tharhi, Mithila",26.4,86.1,,H,Vācaspati_Miśra,
+542,Udayana,975,1050,AC,Nyaya,,Bihar,Sanskrit,"Kariyan, Mithila",25.9,85.95,,H,Udayana,
+543,Kurathalvan,1010,1132,AC,Sri Vaishnava,,Tamil Nadu,Sanskrit,Kooram,12.86,79.65,,H,Kurathalvan,
+544,Kambar,1100,1200,BH,Rama bhakti,,Tamil Nadu,Tamil,Therazhundur,11.04,79.6,,H,Kambar,
+545,Basava,1105,1167,RF,Virashaiva (Sharana),,Karnataka,Kannada,Basavakalyan,17.87,76.95,,H,Basava,
+546,Parasara Bhattar,1122,1174,AC,Sri Vaishnava,,Tamil Nadu,Sanskrit,Srirangam,10.87,78.7,,H,Parasara_Bhattar,
+547,Sarangadeva,1175,1247,MU,Sangita shastra,,Maharashtra,Sanskrit,Devagiri,19.94,75.21,,H,Śārṅgadeva,
+548,Meykandar,1200,1260,AC,Shaiva Siddhanta,,Tamil Nadu,Tamil,Thiruvennainallur,11.86,79.37,,H,Meykandar,
+549,Palkuriki Somanatha,1200,1280,BH,Virashaiva,,Telangana,Telugu,Palkurthi,17.66,79.43,,H,Palkuriki_Somanatha,
+550,Pillai Lokacharya,1205,1311,AC,Sri Vaishnava (Tenkalai),,Tamil Nadu,Tamil,Srirangam,10.86,78.68,,H,Pillai_Lokacharya,
+551,Gangesha,1300,1360,AC,Navya-Nyaya,,Bihar,Sanskrit,Mithila,26.2,86.0,,H,Gaṅgeśa_Upādhyāya,
+552,Vilvamangalam Swamiyar,1300,1380,BH,Vaishnava (Kerala),,Kerala,Sanskrit,Thrissur,10.52,76.21,,T,Vilvamangalam_Swamiyar,
+553,Sayana,1315,1387,AC,Vedic commentary,,Karnataka,Sanskrit,Vijayanagara (Hampi),15.33,76.46,,H,Sayana,
+554,Lal Ded,1320,1392,YO,Kashmir Shaivism,,Kashmir,Kashmiri,Pandrethan,34.06,74.88,1,H,Lal_Ded,
+555,Ramdev Pir,1352,1385,BH,Folk Vaishnava (Rajasthan),,Rajasthan,Marwari,Ramdevra,27.01,71.92,,T,Baba_Ramdev,
+556,Parameshvara,1380,1460,MA,Kerala school,,Kerala,Sanskrit,Alathiyur,10.9,75.93,,H,Parameshvara_Nambudiri,
+557,Nityananda,1474,1540,BH,Gaudiya Vaishnava,,West Bengal,Bengali,Ekachakra,24.1,87.68,,H,Nityananda,
+558,Vadiraja Tirtha,1480,1600,AC,Dvaita Vedanta,,Karnataka,Sanskrit / Kannada,Sode,14.6,74.8,,H,Vadiraja_Tirtha,
+559,Krishnadasa Kaviraja,1496,1588,AC,Gaudiya Vaishnava,,Uttar Pradesh,Bengali,Vrindavan,27.57,77.7,,H,Krishnadasa_Kaviraja,
+560,Vijnanabhikshu,1500,1600,AC,Samkhya-Yoga-Vedanta,,Uttar Pradesh,Sanskrit,Varanasi,25.31,82.99,,H,Vijñānabhikṣu,
+561,Jahnava Devi,1500,1570,BH,Gaudiya Vaishnava,,West Bengal,Bengali,Khardaha,22.72,88.38,1,H,Jahnava_Devi,
+562,Appayya Dikshitar,1520,1593,AC,Advaita / Shaiva,,Tamil Nadu,Sanskrit,"Adayapalam, Arani",12.67,79.29,,H,Appayya_Dikshita,
+563,Madhusudana Saraswati,1540,1640,AC,Advaita Vedanta,,Bangladesh,Sanskrit,Kotalipara,22.98,90.0,,H,Madhusudana_Sarasvati,
+564,Poonthanam,1547,1640,BH,Krishna bhakti (Guruvayur),,Kerala,Malayalam,Keezhattoor,11.0,76.2,,H,Poonthanam_Nambudiri,
+565,Baba Kinaram,1601,1771,YO,Aghori,,Uttar Pradesh,Hindi,Varanasi (Krim Kund),25.3,82.99,,T,Kina_Ram,
+566,Veerabrahmendra Swami,1608,1693,YO,Kalagnanam (folk),,Andhra Pradesh,Telugu,Kandimallayapalle,15.2,78.5,,T,Pothuluri_Veerabrahmendra_Swamy,
+567,Prannath,1618,1694,AC,Pranami,,Madhya Pradesh,Hindi,Panna,24.72,80.19,,H,Mahamati_Prannath,
+568,Kumaraguruparar,1625,1688,BH,Shaiva (Tamil),,Tamil Nadu,Tamil,Srivaikuntam,8.63,77.91,,H,Kumaraguruparar,
+569,Siddhendra Yogi,1650,1700,MU,Kuchipudi (Bhama Kalapam),,Andhra Pradesh,Telugu,Kuchipudi,16.25,80.97,,T,Siddhendra_Yogi,
+570,Bhaskararaya,1690,1785,AC,Shakta (Srividya),,Tamil Nadu,Sanskrit,Bhaskararajapuram,11.0,79.4,,H,Bhaskararaya,
+571,Baladeva Vidyabhushana,1700,1793,AC,Gaudiya Vaishnava,,Rajasthan,Sanskrit,Jaipur (Galta),26.92,75.82,,H,Baladeva_Vidyabhushana,
+572,Mahipati,1715,1790,BH,Varkari (hagiographer),,Maharashtra,Marathi,Taharabad,19.5,74.6,,H,Mahipati,
+573,Ram Mohan Roy,1772,1833,RF,Brahmo Samaj,,West Bengal,Bengali,Radhanagar,22.82,87.86,,H,Ram_Mohan_Roy,
+574,Swami Samarth,1800,1878,YO,Dattatreya,,Maharashtra,Marathi,Akkalkot,17.52,76.2,,T,Swami_Samarth,
+575,Mahima Gosain,1800,1876,RF,Mahima Dharma,,Odisha,Odia,Joranda,20.75,85.6,,T,Mahima_Gosain,
+576,Harichand Thakur,1812,1878,RF,Matua,,Bangladesh,Bengali,Orakandi,23.0,89.9,,H,Harichand_Thakur,
+577,Swathi Thirunal,1813,1846,MU,Carnatic,,Kerala,Sanskrit / Malayalam,Thiruvananthapuram,8.52,76.94,,H,Swathi_Thirunal_Rama_Varma,
+578,Debendranath Tagore,1817,1905,RF,Brahmo Samaj,,West Bengal,Bengali,Kolkata,22.57,88.36,,H,Debendranath_Tagore,
+579,Dayananda Saraswati,1824,1883,RF,Arya Samaj,,Gujarat,Hindi / Sanskrit,Tankara,22.66,70.75,,H,Dayananda_Saraswati,
+580,Swami Shraddhanand,1856,1926,RF,Arya Samaj,,Uttarakhand,Hindi,"Kangri, Haridwar",29.93,78.13,,H,Swami_Shraddhanand,
+581,Srinivasa Ramanujan,1887,1920,MA,Modern mathematics,,Tamil Nadu,Tamil,Kumbakonam,10.96,79.38,,H,Srinivasa_Ramanujan,
+582,T. Krishnamacharya,1888,1989,YO,Modern yoga (Vinyasa),,Karnataka,Kannada / Sanskrit,Mysuru,12.3,76.65,,H,Tirumalai_Krishnamacharya,
+583,Vinoba Bhave,1895,1982,RF,Sarvodaya,,Maharashtra,Marathi,Paunar,20.79,78.67,,H,Vinoba_Bhave,
+584,Swami Lakshmanjoo,1907,1991,AC,Kashmir Shaivism,,Kashmir,Kashmiri / Sanskrit,Srinagar,34.1,74.84,,H,Swami_Lakshman_Joo,
+585,Samanta Chandrasekhar,1835,1904,MA,Jyotisha,,Odisha,Odia / Sanskrit,Khandapara,20.26,85.17,,H,Samanta_Chandrasekhar,
+586,Karmabai,1615,1634,BH,,,India,,Kalwa,25.156,73.841,1,H,Karmabai,
+587,Mekan Dada,1667,1730,BH,,,Kutch district,Kutchi language,Dhrang,23.826,68.775,,H,Mekan_Dada,
+588,Yogi Naraharinath,1915,2003,YO,Yoga,,Nepal,,Kalikot District,29.15,81.617,,H,Yogi_Naraharinath,
+589,Pranavananda Saraswathi,1908,1982,BH,,,,,Sri Lanka,7,81,,H,Pranavananda_Saraswathi,
+590,Yogaswami,1872,1964,BH,,,Sri Lanka,,Maviddapuram,9.8,80.033,,H,Yogaswami,
+591,Anasuya Devī,1923,1985,BH,,,Bapatla district,,Jillellamudi,15.983,80.45,1,H,Anasuya_Devī,
+592,Mahavatar Babaji,203,263,YO,Kriya Yoga,,,,Himalaya (traditional),30.0,79.6,,L,Mahavatar_Babaji,
+593,Bhoja Bhagat,1785,1850,BH,,,India,,Gujarat,23.156,71.838,,H,Bhoja_Bhagat,
+594,Panchanan Bhattacharya,1853,1919,YO,Yoga,,Kolkata district,Bangla,Kolkata,22.567,88.37,,H,Panchanan_Bhattacharya,
+595,Satyananda Giri,1896,1971,BH,Founders of Hindu new religious movements,,,,Bangladesh,24.017,89.867,,H,Satyananda_Giri,
+596,Bhagwan Gopinath,1898,1968,BH,Kashmiri Shaivites,,Srinagar district,,Srinagar,34.091,74.806,,H,Bhagwan_Gopinath,
+597,Krishnananda Saraswati,1922,2001,AC,Advaitin,,,,India,22.8,83,,H,Krishnananda_Saraswati,
+598,Gagangiri Maharaj,1906,2008,RF,revivalists,,Raigad district,,Khopoli,18.791,73.344,,H,Gagangiri_Maharaj,
+599,Maharishi Mahesh Yogi,1917,2008,AC,,,Jabalpur district,Hindi / Sanskrit,Jabalpur,23.167,79.933,,H,Maharishi_Mahesh_Yogi,
+600,Raghunatha Tirtha,1405,1502,AC,Dvaita Vedanta,,Vijaypura District,,Vijayapura,16.824,75.715,,H,Raghunatha_Tirtha,
+601,Swami Bhaskarananda Saraswati,1833,1899,AC,Advaitin,,India,,Uttar Pradesh,26.85,80.91,,H,Swami_Bhaskarananda_Saraswati,
+602,Satyadharma Tirtha,1743,1830,AC,Dvaitin,,Haveri district,,Savanur,14.967,75.35,,H,Satyadharma_Tirtha,
+603,Satyanidhi Tirtha,1580,1660,AC,Dvaitin,,Ahilyanagar district,,Puntamba,19.75,74.633,,H,Satyanidhi_Tirtha,
+604,Swami Swarupanand,1884,1936,AC,Hindu,,,,Teri,33.298,71.101,,H,Swami_Swarupanand,
+605,Lakshmi Kumara Tatacharya,1572,1632,AC,Sri Vaishnava,,Thanjavur district,,Kudanthaiyan,10.967,79.383,,H,Lakshmi_Kumara_Tatacharya,
+606,Raghuttama Tirtha,1527,1595,AC,Bhakti movement,,Kalaburgi district,,Malkhed,17.195,77.161,,H,Raghuttama_Tirtha,
+607,Satyabodha Tirtha,1701,1783,AC,Dvaitin,,Raichur district,,Raichur,16.2,77.351,,H,Satyabodha_Tirtha,
+608,Satyapramoda Tirtha,1918,1997,AC,Bhakti movement,,India,,Guttal,14.833,75.633,,H,Satyapramoda_Tirtha,
+609,Swami Bhoomananda Tirtha,1933,1993,BH,,,India,Malayalam,Parlikad,10.641,76.214,,T,Swami_Bhoomananda_Tirtha,
+610,Vedesa Tirtha,1570,1620,AC,Dvaitin,,Palakkad district,,Mannur,10.804,76.469,,H,Vedesa_Tirtha,
+611,Achalananda,1876,1947,SG,Rishis,,Varanasi district,,Varanasi,25.319,83.013,,H,Achalananda,
+612,Kalanos,-398,-323,YO,Rishis,,,,Taxila,33.746,72.787,,H,Kalanos,
+613,Kalyanananda,1874,1937,SG,Rishis,,Bangladesh,,Barishal,22.7,90.367,,H,Kalyanananda,
+614,Nischayananda,1865,1934,SG,Rishis,,India,,Maharashtra,19.751,75.714,,H,Nischayananda,
+615,Parashara,-1500,-1440,AC,Rishis,,,,India,22.8,83,,T,Parashara,
+616,Shriram Sharma,1911,1990,RF,Rishis,,India,,Agra district,27.083,77.967,,H,Shriram_Sharma,
+617,Dayaram Gidumal,1857,1927,RF,Sindhi Hindu,,,Sindhi / Sanskrit,Hyderabad,25.379,68.368,,H,Dayaram_Gidumal,
+618,Dada Lekhraj,1876,1969,BH,Sindhi Hindu,,,,Hyderabad,25.379,68.368,,H,Dada_Lekhraj,
+619,Sadhu Vaswani,1879,1966,AC,Sindhi Hindu,,,Sindhi,Hyderabad,25.379,68.368,,H,Sadhu_Vaswani,
+620,Swami Chidbhavananda,1898,1985,BH,Tamil Hindu,,Coimbatore district,,Pollachi,10.659,77.008,,H,Swami_Chidbhavananda,
+621,Bhagat Sadhana,1180,1240,BH,Vaishnava,,,,Sehwan,26.419,67.859,,T,Bhagat_Sadhana,
+622,Baba Hari Dass,1923,2018,YO,Vaishnava,,Almora district,,Almora,29.62,79.67,,H,Baba_Hari_Dass,
+623,Prabhu Jagadbandhu,1871,1921,AC,Vaishnava,,Murshidabad district,,Murshidabad,24.18,88.27,,H,Prabhu_Jagadbandhu,
+624,Ramdas Kathiababa,1800,1909,BH,Vaishnava,,Mathura district,,Vrindavan,27.573,77.693,,H,Ramdas_Kathiababa,
+625,Mahanambrata Brahmachari,1904,1999,RF,revivalists,,Bangladesh,Bangla,Barishal District,22.8,90.37,,H,Mahanambrata_Brahmachari,
+626,Anukulchandra Chakravarty,1888,1969,RF,revivalists,,Bangladesh,,Hemayetpur,24.004,89.208,,H,Anukulchandra_Chakravarty,
+627,Vethathiri Maharishi,1911,2006,YO,,,Kanchipuram district,,Guduvancheri,12.845,80.057,,H,Vethathiri_Maharishi,
+628,Akha Bhagat,1591,1656,BH,Bhakti movement,,India,Gujarati,Gujarat,23.156,71.838,,H,Akha_Bhagat,
+629,Anwarmiya Kaji,1843,1916,BH,Bhakti movement,,Mehsana district,Gujarati,Visnagar,23.7,72.55,,H,Anwarmiya_Kaji,
+630,Shyam Manohar Goswami,1940,2000,AC,Bhakti movement,,Mumbai City district,,Mumbai,19.076,72.877,,T,Shyam_Manohar_Goswami,
+631,Lalon,1772,1890,MU,Bhakti movement,,Bangladesh,Bangla,Jhenaidah District,23.54,89,,H,Lalon,
+632,Bharatchandra Ray,1712,1760,MU,Bhakti movement,,,Bangla,Bhurshut,22.76,88.04,,H,Bharatchandra_Ray,
+633,Coimbatore Thayi,1872,1917,BH,Bhakti movement,,Coimbatore district,,Coimbatore,11.001,76.963,1,H,Coimbatore_Thayi,
+634,Vedavyasa Tirtha,1559,1619,AC,Bhakti movement,,West Godavari district,,Vasavi Penugonda,16.657,81.746,,T,Vedavyasa_Tirtha,
+635,Vishnupriya,1570,1630,BH,Chaitanya Mahaprabhu,,Nadia district,,Nabadwip,23.409,88.366,1,T,Vishnupriya,
+636,Bhagat Munshi Ram,1906,1998,BH,Sant Mat,,,,Sialkot,32.5,74.533,,H,Bhagat_Munshi_Ram,
+637,Mahant Swami Maharaj,1933,1993,BH,Swaminarayan Sampradaya,,Jabalpur district,,Jabalpur,23.167,79.933,,T,Mahant_Swami_Maharaj,
+638,Pramukh Swami Maharaj,1921,2016,BH,Swaminarayan Sampradaya,,Ahmedabad district,,Salangpur,22.233,71.733,,H,Pramukh_Swami_Maharaj,
+639,Narayanprasaddasji Swami,1921,2018,BH,Swaminarayan Sampradaya,,India,,Saurashtra,22.3,70.783,,H,Narayanprasaddasji_Swami,
+640,Puttaraj Gawai,1914,2010,MU,Lingayatism,,Gadag district,Sanskrit / Hindi,Gadag-Betageri,15.417,75.617,,H,Puttaraj_Gawai,
+641,Shivakumara Swami,1907,2019,BH,Lingayatism,,Bengaluru South District,,Magadi,12.957,77.223,,H,Shivakumara_Swami,
+642,Ramesh Balsekar,1917,2009,AC,Advaitin,,Mumbai City district,,Mumbai,19.076,72.877,,H,Ramesh_Balsekar,
+643,Kesavananda Bharati,1940,2020,AC,Advaitin,,Dakshina Kannada district,,Mangaluru,12.872,74.843,,H,Kesavananda_Bharati,
+644,Brahmajna Ma,1880,1934,AC,Advaitin,,Bangladesh,,Cumilla,23.45,91.2,1,H,Brahmajna_Ma,
+645,Ananda Coomaraswamy,1877,1947,AC,Advaitin,,Sri Lanka,,Colombo,6.927,79.861,,H,Ananda_Coomaraswamy,
+646,Manilal Dwivedi,1858,1898,AC,Advaitin,,Kheda district,Gujarati,Nadiad,22.7,72.87,,H,Manilal_Dwivedi,
+647,Ganapatrao Maharaj Kannur,1909,2004,AC,Advaitin,,Kannur district,,Kannur,11.869,75.356,,H,Ganapatrao_Maharaj_Kannur,
+648,Ranjit Maharaj,1913,2000,AC,Advaitin,,Mumbai City district,,Mumbai,19.076,72.877,,H,Ranjit_Maharaj,
+649,Atmananda Krishna Menon,1883,1959,AC,Advaitin,,Pathanamthitta district,Malayalam,Peringara,9.367,76.533,,H,Atmananda_Krishna_Menon,
+650,Prajnanapada,1891,1974,AC,Advaitin,,Hooghly district,,Hugli-Chuchura,22.909,88.397,,H,Prajnanapada,
+651,Sarvepalli Radhakrishnan,1888,1975,AC,Advaitin,,India,,Tiruttani,13.183,79.633,,H,Sarvepalli_Radhakrishnan,
+652,Malladi Chandrasekhara Sastry,1925,2022,AC,Advaitin,,Palnadu district,,Krosuru,16.55,80.133,,H,Malladi_Chandrasekhara_Sastry,
+653,Niralamba Swami,1877,1930,AC,Advaitin,,Purba Bardhaman district,,Channa,23.33,87.73,,H,Niralamba_Swami,
+654,Soham Swami,1858,1918,YO,Advaitin,,Bangladesh,Bangla,Dhaka,23.729,90.394,,H,Soham_Swami,
+655,Swami Vipulananda,1892,1947,RF,Advaitin,,,,Sri Lanka,7,81,,H,Swami_Vipulananda,
+656,Pandharinathacharya Galagali,1922,2015,AC,Dvaita Vedanta,,Bagalkot district,Sanskrit,Galagali,16.416,75.438,,H,Pandharinathacharya_Galagali,
+657,Bannanje Govindacharya,1936,2020,AC,Dvaita Vedanta,,Dakshina Kannada district,,Udupi,13.332,74.746,,H,Bannanje_Govindacharya,
+658,Narayanacharya Vaishvanathi,1600,1660,AC,Dvaita Vedanta,,India,,North Karnataka,16.82,76.21,,H,Narayanacharya_Vaishvanathi,
+659,Satyabhinava Tirtha,1673,1706,AC,Dvaita Vedanta,,India,,Thirunarayur Nambi Temple,10.917,79.433,,H,Satyabhinava_Tirtha,
+660,Satyapriya Tirtha,1701,1744,AC,Dvaita Vedanta,,Raichur district,,Raichur,16.2,77.351,,H,Satyapriya_Tirtha,
+661,Satyavijaya Tirtha,1677,1737,AC,Dvaita Vedanta,,Tiruvannamalai district,,Sathiyavijayanagaram,12.692,79.334,,T,Satyavijaya_Tirtha,
+662,Vedanidhi Tirtha,1575,1635,AC,Dvaita Vedanta,,Solapur district,,Pandharpur,17.67,75.33,,T,Vedanidhi_Tirtha,
+663,Vidyadhisha Tirtha,1571,1631,AC,Dvaita Vedanta,,Ahilyanagar district,,Puntamba,19.75,74.633,,T,Vidyadhisha_Tirtha,
+664,Bhakti Rakshak Sridhar,1895,1988,BH,Gaudiya,,Nadia district,Sanskrit,Nabadwip,23.409,88.366,,H,Bhakti_Rakshak_Sridhar,
+665,Bhakti Hridaya Bon,1901,1982,AC,Gaudiya,,Bangladesh,Bangla / Hindi,Faridpur District,23.5,89.83,,H,Bhakti_Hridaya_Bon,
+666,Visvanatha Chakravarti,1626,1708,AC,Gaudiya,,,Sanskrit,India,22.8,83,,H,Visvanatha_Chakravarti,
+667,Bhakti Prajnan Keshava,1898,1968,AC,Gaudiya,,Bangladesh,,Banaripara,22.783,90.167,,H,Bhakti_Prajnan_Keshava,
+668,Kripalu Maharaj,1922,2013,RF,Gaudiya,,India,,Pratapgarh district,25.75,81.75,,H,Kripalu_Maharaj,
+669,Madhavendra Puri,1420,1490,BH,Gaudiya,,,,India,22.8,83,,H,Madhavendra_Puri,
+670,Bhakti Ballabh Tirtha,1924,2017,AC,Gaudiya,,Goalpara district,,Goalpara,26.17,90.62,,H,Bhakti_Ballabh_Tirtha,
+671,Bhaktisvarupa Damodar Swami,1937,2006,AC,International Society for Krishna Consciousness,,India,,Manipur,24.81,93.94,,H,Bhaktisvarupa_Damodar_Swami,
+672,Pandurang Shastri Athavale,1920,2003,RF,revivalists,,India,Gujarati,Maharashtra,19.751,75.714,,H,Pandurang_Shastri_Athavale,
+673,Vishnubawa Brahmachari,1825,1871,RF,revivalists,,Ratnagiri district,Marathi,Shiravali,17.752,73.447,,H,Vishnubawa_Brahmachari,
+674,Ekkirala Bharadwaja,1938,1989,AC,Sai Baba of Shirdi,,Bapatla district,Telugu,Bapatla,15.905,80.468,,H,Ekkirala_Bharadwaja,
+675,Kumaraswamy Pulavar,1854,1922,RF,Sri Lankan Hindu revivalists,,Sri Lanka,Sinhala,Chunnakam,9.745,80.026,,H,Kumaraswamy_Pulavar,
+676,C. W. Thamotharampillai,1822,1901,RF,Sri Lankan Hindu revivalists,,Chennai district,Tamil,Chennai,13.082,80.275,,H,C._W._Thamotharampillai,
+677,R. G. Bhandarkar,1837,1925,RF,reformers,,Sindhudurg district,Sanskrit,Malvan,16.057,73.469,,H,R._G._Bhandarkar,
+678,Govindgiri,1858,1931,RF,reformers,,,,Dungarpur State,23.83,73.72,,H,Govindgiri,
+679,Odhavram,1889,1957,RF,reformers,,Kutch district,,Jakhau,23.219,68.717,,H,Odhavram,
+680,Swami Hariharananda Aranya,1869,1947,YO,Yoga,,Deoghar district,,Madhupur,24.267,86.646,,H,Swami_Hariharananda_Aranya,
+681,Vagish Shastri,1934,2022,YO,Yoga,,Sagar district,Sanskrit,Khurai,24.05,78.32,,H,Vagish_Shastri,
+682,Anirvan,1896,1978,YO,Yoga,,Bangladesh,Bangla,Mymensingh,24.75,90.417,,H,Anirvan,
+683,Dabral Baba,1932,2016,YO,Yoga,,Ujjain district,,Ujjain,23.183,75.777,,H,Dabral_Baba,
+684,Ganesh Baba,1890,1987,YO,Yoga,,Cuttack district,,Cuttack,20.45,85.867,,H,Ganesh_Baba,
+685,Keshavananda Brahmachari,1830,1942,YO,Yoga,,Mathura district,,Vrindavan,27.573,77.693,,H,Keshavananda_Brahmachari,
+686,Gopi Krishna,1903,1984,YO,Yoga,,Srinagar district,,Srinagar,34.091,74.806,,H,Gopi_Krishna_(yogi),
+687,Panth Maharaj,1855,1905,YO,Yoga,,Belagavi district,,Daddi,16.067,74.433,,H,Panth_Maharaj,
+688,Bishnu Charan Ghosh,1903,1970,BH,Modern yoga,,,,Lahore,31.55,74.344,,H,Bishnu_Charan_Ghosh,
+689,Dhirendra Brahmachari,1924,1994,AC,Modern yoga,,India,,Bihar,25.37,85.13,,H,Dhirendra_Brahmachari,
+690,Ram Chandra,1899,1983,BH,Modern yoga,,Shahjahanpur district,,Shahjahanpur,27.878,79.909,,H,Ram_Chandra_(Babuji),
+691,Yogamaharishi Swami Gitananda,1907,1993,BH,Modern yoga,,Maharajganj district,,Mahrajganj,27.144,83.562,,H,Yogamaharishi_Swami_Gitananda,
+692,V. Nanammal,1920,2019,YO,Modern yoga,,Coimbatore district,,Coimbatore,11.001,76.963,1,H,V._Nanammal,
+693,Kailash Puri,1925,2017,BH,Modern yoga,,,Punjabi,Rawalpindi,33.601,73.068,1,H,Kailash_Puri,
+694,Malladihalli Raghavendra,1890,1996,AY,Modern yoga,,India,,Kerala,10,76.3,,H,Malladihalli_Raghavendra,
+695,Nirmala Srivastava,1923,2011,BH,Modern yoga,,Chhindwara district,,Chhindwara,22.06,78.948,1,H,Nirmala_Srivastava,
+696,I. K. Taimni,1898,1978,BH,Modern yoga,,Lucknow district,,Lucknow,26.847,80.947,,H,I._K._Taimni,
+697,Selvarajan Yesudian,1916,1998,BH,Modern yoga,,India,,Madras Presidency,13.08,80.27,,H,Selvarajan_Yesudian,
+698,Jayadeva Yogendra,1929,2018,BH,Modern yoga,,Mumbai City district,,Mumbai,19.076,72.877,,H,Jayadeva_Yogendra,
+699,Ranganathananda,1908,2005,BH,Ramakrishna Mission,,Thrissur district,Malayalam,Thrissur,10.52,76.21,,H,Ranganathananda,
+700,Swami Virajananda,1873,1951,BH,Ramakrishna Mission,,Kolkata district,,Kolkata,22.567,88.37,,H,Swami_Virajananda,
+701,Swami Anand,1887,1976,BH,Ramakrishna Mission,,Mumbai City district,Gujarati,Mumbai,19.076,72.877,,H,Swami_Anand,
+702,Mohanananda Brahmachari,1903,1999,BH,,,Paschim Medinipur district,,Medinipur,22.433,87.333,,H,Mohanananda_Brahmachari,
+703,Avula Parthasarathy,1927,1987,AC,,,Chennai district,,Chennai,13.082,80.275,,T,Avula_Parthasarathy,
+704,Bodhendra Saraswati II,1610,1692,BH,,,India,,Kanchipuram,12.831,79.708,,H,Bodhendra_Saraswati_II,
+705,Chandrashekharendra Saraswati VIII,1894,1994,BH,,,Viluppuram district,,Viluppuram,11.933,79.483,,H,Chandrashekharendra_Saraswati_VIII,
+706,Swami Satyamitranand,1932,2019,AC,Shankaracharyas,,Agra district,,Agra,27.18,78.02,,H,Swami_Satyamitranand,
+707,Shankarananda,1880,1962,BH,Ramakrishna Mission,,Howrah district,,Belur Math,22.632,88.357,,H,Shankarananda_(Ramakrishna_monk),
+708,Swami Smaranananda,1929,2024,BH,Ramakrishna Mission,,Thanjavur district,,Andami,10.517,79.4,,H,Swami_Smaranananda,
+709,Swami Vidya Prakashananda Giri,1914,1998,AC,,,Krishna district,Telugu / Hindi,Machilipatnam,16.167,81.133,,H,Swami_Vidya_Prakashananda_Giri,
+710,Nana Maharaj Taranekar,1896,1993,BH,,,Ujjain district,,Tarana,23.33,76.03,,H,Nana_Maharaj_Taranekar,
+711,Vireshwarananda,1892,1985,BH,Ramakrishna Mission,,Chennai district,,Chennai,13.082,80.275,,H,Vireshwarananda,
+712,Mazhamaṅgalaṃ Nārāyaṇan Naṃpūtiri,1540,1610,MA,Kerala school of astronomy and mathematics,,Thrissur district,Malayalam,Cherpu,10.431,76.199,,H,Mazhamaṅgalaṃ_Nārāyaṇan_Naṃpūtiri,
+713,Haridatta,700,760,MA,Jyotisha,,Malappuram district,,Tirunavaya,11.001,75.991,,T,Haridatta,
+714,Lalla,720,790,MA,Jyotisha,,,,Indian subcontinent,22.208,76.97,,H,Lalla,
+715,Govindasvāmi,800,860,MA,Jyotisha,,India,,Kerala,10,76.3,,H,Govindasvāmi,
+716,Prithudaka,830,890,MA,Jyotisha,,,,Indian subcontinent,22.208,76.97,,T,Prithudaka,
+717,Śaṅkaranārāyaṇa,840,900,MA,Jyotisha,,,,Indian subcontinent,22.208,76.97,,H,Śaṅkaranārāyaṇa,
+718,Vijayanandi,940,1010,MA,Jyotisha,,Varanasi district,,Varanasi,25.319,83.013,,H,Vijayanandi,
+719,Brahmadeva,1060,1130,MA,Jyotisha,,Mathura district,,Mathura,27.492,77.674,,H,Brahmadeva,
+720,Raghunatha Shiromani,1477,1547,AC,Navya-Nyaya,,Nadia district,Sanskrit,Nabadwip,23.409,88.366,,H,Raghunatha_Shiromani,
+721,Ashutosh Bhattacharya,1917,2004,AY,Ayurvedacharyas,,Varanasi district,,Varanasi,25.319,83.013,,H,Ashutosh_Bhattacharya,
+722,Chatursen Shastri,1891,1960,AY,Ayurvedacharyas,,India,Hindi / Sanskrit,Bulandshahr district,28.417,77.833,,H,Chatursen_Shastri,
+723,Vaidya Suresh Chaturvedi,1928,2017,AY,Ayurvedacharyas,,Bharatpur district,,Bharatpur,27.217,77.49,,H,Vaidya_Suresh_Chaturvedi,
+724,Krishna Chandra Chunekar,1928,2019,AY,Ayurvedacharyas,,India,,Uttar Pradesh,26.85,80.91,,H,Krishna_Chandra_Chunekar,
+725,Bhau Daji,1822,1874,AY,Ayurvedacharyas,,North Goa district,Sanskrit / Marathi,Mandrem,15.658,73.713,,H,Bhau_Daji,
+726,Vaidya Bhagwan Dash,1934,2015,AY,Ayurvedacharyas,,,,India,22.8,83,,H,Vaidya_Bhagwan_Dash,
+727,Mohanlal Chunilal Dhami,1905,1981,AY,Ayurvedacharyas,,Patan district,,Patan,23.85,72.117,,H,Mohanlal_Chunilal_Dhami,
+728,Jogesh Chandra Ghosh,1887,1971,AY,Ayurvedacharyas,,Bangladesh,,Gosairhat Upazila,23.077,90.432,,H,Jogesh_Chandra_Ghosh,
+729,Divi Gopalacharlu,1872,1920,AY,Ayurvedacharyas,,Krishna district,Telugu,Machilipatnam,16.167,81.133,,H,Divi_Gopalacharlu,
+730,Jamini Bhushan Ray,1879,1926,AY,Ayurvedacharyas,,Bangladesh,Bangla,Khulna,22.817,89.55,,H,Jamini_Bhushan_Ray,
+731,Brihaspati Dev Triguna,1920,2013,AY,Ayurvedacharyas,,New Delhi district,,New Delhi,28.614,77.209,,H,Brihaspati_Dev_Triguna,
+732,Rajagopalan Krishnan,1932,2015,AY,Ayurvedacharyas from Kerala,,Kollam district,,Kollam,8.885,76.586,,H,Rajagopalan_Krishnan,
+733,P. N. V. Kurup,1925,2018,AY,Ayurvedacharyas from Kerala,,India,,Kerala,10,76.3,,H,P._N._V._Kurup,
+734,Raghavan Thirumulpad,1920,2010,AY,Ayurvedacharyas from Kerala,,Alappuzha district,,Chingoli,9.26,76.453,,H,Raghavan_Thirumulpad,
+735,Vaidyaratnam P. S. Varier,1869,1944,AY,Ayurvedacharyas from Kerala,,Malappuram district,Malayalam,Kottakkal,11,76.002,,H,Vaidyaratnam_P._S._Varier,
+736,P. K. Warrier,1921,2021,AY,Ayurvedacharyas from Kerala,,Malappuram district,,Kottakkal,11,76.002,,H,P._K._Warrier,
+737,G. P. Wickramarachchi,1889,1975,AY,Sri Lankan Ayurvedic practitioners,,Sri Lanka,,Gampaha,7.092,80,,H,G._P._Wickramarachchi,
+738,M. Balamuralikrishna,1930,2016,MU,Carnatic composers,,Dr. B.R. Ambedkar Konaseema district,Telugu,Sankaraguptham,16.39,81.862,,H,M._Balamuralikrishna,
+739,Periyasaamy Thooran,1908,1987,MU,Carnatic composers,,Erode district,Tamil,Modakurichi,11.233,77.778,,H,Periyasaamy_Thooran,
+740,Kumārila Bhaṭṭa,700,700,AC,philosophers and theologians,,India,Sanskrit,Assam,26,93,,T,Kumārila_Bhaṭṭa,
+741,Bhudev Mukhopadhyay,1827,1894,AC,philosophers and theologians,,Kolkata district,Bangla,Kolkata,22.567,88.37,,H,Bhudev_Mukhopadhyay,
+742,Jaideva Singh,1893,1986,AC,philosophers and theologians,,Varanasi district,,Varanasi,25.319,83.013,,H,Jaideva_Singh,
+743,Aulchand,1686,1769,AC,Bengali Hindu,,Bangladesh,Bangla / Sanskrit,Boalia,23,90.367,,H,Aulchand,
+744,Shridhar Swami Nazarekar,1658,1729,AC,Marathi Hindu,,Solapur district,Marathi,Pandharpur,17.67,75.33,,H,Shridhar_Swami_Nazarekar,
+745,Sitanath Tattwabhushan,1856,1945,AC,philosophers and theologians,,Bangladesh,Bangla,Sylhet,24.9,91.867,,H,Sitanath_Tattwabhushan,
+746,Bhalchandra Pandharinath Bahirat,1904,1998,AC,philosophers and theologians,,Solapur district,Marathi,Pandharpur,17.67,75.33,,H,Bhalchandra_Pandharinath_Bahirat,
+747,Krishna Chandra Bhattacharya,1875,1949,AC,philosophers and theologians,,Hooghly district,,Serampore,22.75,88.34,,H,Krishna_Chandra_Bhattacharya,
+748,Haridas Bhattacharya,1891,1956,AC,philosophers and theologians,,North 24 Parganas district,Bangla,Bhatpara,22.866,88.401,,H,Haridas_Bhattacharya,
+749,Bhuteshananda,1901,1998,AC,Ramakrishna Mission,,Howrah district,,Belur Math,22.632,88.357,,H,Bhuteshananda,
+750,Eknath Easwaran,1910,1999,AC,philosophers and theologians,,India,Malayalam / Hindi,Kerala,10,76.3,,H,Eknath_Easwaran,
+751,Gopinath Kaviraj,1887,1976,AC,philosophers and theologians,,Bangladesh,Sanskrit,Dhamrai Upazila,23.94,90.15,,H,Gopinath_Kaviraj,
+752,Master C. V. V.,1868,1922,AC,,,Thanjavur district,,Kudanthaiyan,10.967,79.383,,H,Master_C._V._V.,
+753,Swami Narayanananda,1902,1988,AC,Ramakrishna Mission,,India,,Karnataka,15,76,,H,Swami_Narayanananda,
+754,Nataraja Guru,1895,1973,AC,,,Bengaluru Urban district,,Bengaluru,12.979,77.591,,H,Nataraja_Guru,
+755,Ramchandra Dattatreya Ranade,1886,1957,AC,Marathi Hindu,,Solapur district,Marathi,Solapur,17.67,75.901,,H,Ramchandra_Dattatreya_Ranade,
+756,Satchidanandendra Saraswati,1880,1975,AC,philosophers and theologians,,Bengaluru Urban district,Sanskrit,Bengaluru,12.979,77.591,,H,Satchidanandendra_Saraswati,
+757,Swami Satprakashananda,1888,1979,AC,Ramakrishna Mission,,Bangladesh,,Dhaka,23.729,90.394,,H,Swami_Satprakashananda,
+758,Jadunath Sinha,1892,1978,AC,philosophers and theologians,,Birbhum district,,Kurumgram,24.244,87.876,,H,Jadunath_Sinha,
+759,Nitya Chaitanya Yati,1924,1999,AC,philosophers and theologians,,Nilgiris district,,Ooty,11.409,76.694,,H,Nitya_Chaitanya_Yati,
+760,Golap Ma,1864,1924,BH,,,,,Bagbazar,22.603,88.366,1,H,Golap_Ma,
+761,Pravrajika Bhaktiprana,1920,2022,BH,,,Kolkata district,,Kolkata,22.567,88.37,1,H,Pravrajika_Bhaktiprana,
+762,Dadi Janki,1915,2020,YO,,,,,Hyderabad,25.379,68.368,1,H,Dadi_Janki,
+763,Dadi Ratan Mohini,1925,2025,BH,,,,,Hyderabad,25.379,68.368,1,H,Dadi_Ratan_Mohini,
+764,Yogin Ma,1851,1924,BH,,,Kolkata district,,Kolkata,22.567,88.37,1,H,Yogin_Ma,
+765,Bhanubhakta Acharya,1814,1868,BH,,,Nepal,Nepali / Sanskrit,Tanahun District,27.917,84.25,,H,Bhanubhakta_Acharya,
+766,Gopalakrishna Adiga,1918,1992,BH,,,Dakshina Kannada district,Kannada,Kundapura,13.631,74.69,,H,Gopalakrishna_Adiga,
+767,Maraimalai Adigal,1876,1950,RF,,,Nagapattinam district,Tamil,Nagapattinam,10.767,79.833,,H,Maraimalai_Adigal,
+768,V. Akilesapillai,1853,1910,BH,,,Sri Lanka,Tamil,Trincomalee,8.567,81.233,,H,V._Akilesapillai,
+769,Rajinder Manchanda Bani,1932,1981,BH,,,,,Multan,30.198,71.471,,H,Rajinder_Manchanda_Bani,
+770,Ramram Basu,1757,1813,BH,,,Hooghly district,Bangla,Chinsurah,22.896,88.403,,H,Ramram_Basu,
+771,Bhaṭṭanārāyaṇa,8,9,BH,,,India,Sanskrit,Kannauj district,27.07,79.92,,H,Bhaṭṭanārāyaṇa,
+772,Rupnath Brahma,1902,1968,BH,,,Kokrajhar district,,Kokrajhar,26.4,90.27,,H,Rupnath_Brahma,
+773,Talib Chakwali,1900,1988,BH,,,,,Chakwal,32.933,72.863,,H,Talib_Chakwali,
+774,Bahinabai Chaudhari,1880,1951,BH,,,Jalgaon district,Marathi,Jalgaon,21.017,75.567,1,H,Bahinabai_Chaudhari,
+775,Zia Fatehabadi,1913,1986,BH,,,Kapurthala district,,Kapurthala,31.38,75.38,,H,Zia_Fatehabadi,
+776,Shankha Ghosh,1932,2021,BH,,,Bangladesh,Bangla,Chandpur District,23.214,90.636,,H,Shankha_Ghosh,
+777,Khushtar Girami,1902,1988,BH,,,,Urdu,Sialkot,32.5,74.533,,H,Khushtar_Girami,
+778,Jagadish Gupta,1886,1957,BH,,,Bangladesh,Bangla,Kushtia District,23.92,89.22,,H,Jagadish_Gupta,
+779,Hadidas,1772,1837,BH,,,India,Odia,Jajpur district,20.841,86.312,,H,Hadidas,
+780,Sahir Hoshiarpuri,1912,1994,BH,,,Hoshiarpur District,Punjabi,Hoshiarpur,31.532,75.917,,H,Sahir_Hoshiarpuri,
+781,Karmegha Konar,1889,1957,BH,,,Ramanathapuram district,Tamil,Agathariruppu,9.44,78.43,,H,Karmegha_Konar,
+782,Devulapalli Krishnasastri,1897,1980,BH,,,Kakinada district,Telugu,Pithapuram,17.117,82.267,,H,Devulapalli_Krishnasastri,
+783,G. D. Madgulkar,1919,1977,BH,,,Sangli district,Marathi,Sangli,16.867,74.567,,H,G._D._Madgulkar,
+784,Tilok Chand Mehroom,1887,1966,BH,,,Pakistan,,Mianwali District,32,71.5,,H,Tilok_Chand_Mehroom,
+785,Gopal Mittal,1906,1993,BH,,,Malerkotla district,,Malerkotla,30.517,75.883,,H,Gopal_Mittal,
+786,Krishan Mohan,1922,2004,BH,,,,,Sialkot,32.5,74.533,,H,Krishan_Mohan,
+787,Ratan Pandoravi,1907,1998,BH,,,Jalandhar District,,"Pandori, Jalandhar",33.083,74.333,,H,Ratan_Pandoravi,
+788,Shardha Ram Phillauri,1837,1881,RF,,,Jalandhar District,Punjabi,Phillaur,31.03,75.78,,H,Shardha_Ram_Phillauri,
+789,Ponmudiyar,220,280,BH,,,,Old Tamil,Chera dynasty,10.21,76.206,1,T,Ponmudiyar,
+790,Pothana,1450,1510,BH,,,India,Telugu,Andhra Pradesh,16.85,80.867,,H,Pothana,
+791,Dwijendralal Ray,1863,1913,MU,,,Nadia district,Bangla,Krishnanagar,23.4,88.5,,H,Dwijendralal_Ray,
+792,Naresh Kumar Shad,1927,1969,BH,,,India,Hindi,Yahiyapur,29.28,77.72,,H,Naresh_Kumar_Shad,
+793,T. N. Srikantaiah,1906,1966,BH,,,India,Kannada,Tumkur district,13.34,77.1,,H,T._N._Srikantaiah,
+794,Fikr Taunsvi,1918,1986,BH,,,,,Taunsa Sharif,30.706,70.658,,H,Fikr_Taunsvi,
+795,Agyeya,1911,1987,BH,,,Deoria district,Hindi,Kushinagar,26.74,83.889,,H,Agyeya,
+796,N. V. Krishna Warrier,1916,1989,BH,,,India,Malayalam,Kozhikode,11.248,75.78,,H,N._V._Krishna_Warrier,
+797,Sathya Sai Baba,1926,2011,BH,Founders of Hindu new religious movements,,Sri Sathya Sai district,Telugu,Puttaparthi,14.165,77.812,,H,Sathya_Sai_Baba,
+798,Siddeshwar Swami,1940,2023,BH,,,Vijaypura District,,Bijjargi,16.83,75.73,,H,Siddeshwar_Swami,
+799,Bal Thackeray,1926,2012,BH,,,Pune district,Marathi,Pune,18.521,73.855,,H,Bal_Thackeray,
+800,Sudhindra Thirtha,1926,2016,BH,,,Ernakulam district,,Ernakulam,9.978,76.284,,H,Sudhindra_Thirtha_(Kashi_Math),
+801,Dada Vaswani,1918,2018,AC,,,,,Hyderabad,25.379,68.368,,H,Dada_Vaswani,
+802,Kaadsiddheshwar,1905,2001,BH,Marathi Hindu,,Kolhapur district,,Kolhapur,16.7,74.233,,H,Kaadsiddheshwar,
+803,Kalikananda Abadhut,1910,1978,BH,Bengali Hindu,,Kolkata district,Bangla,Kolkata,22.567,88.37,,H,Kalikananda_Abadhut,
+804,Kavi Karnapura,1524,1580,BH,Bengali Hindu,,North 24 Parganas district,Bangla,Naihati,22.89,88.42,,T,Kavi_Karnapura,
+805,Boro Maa,1920,2019,BH,Bengali Hindu,,Bangladesh,,Barishal District,22.8,90.37,1,H,Boro_Maa,
+806,Bhupendranath Datta,1880,1961,BH,Swami Vivekananda,,Kolkata district,Bangla / Hindi,Kolkata,22.567,88.37,,H,Bhupendranath_Datta,
+807,Karunakara Guru,1927,1999,BH,Malayali Hindu,,Alappuzha district,,Chandiroor,9.848,76.308,,H,Karunakara_Guru,
+808,Shantanand Saraswati,1913,1997,AC,Shankaracharyas,,India,,Basti district,26.828,82.779,,H,Shantanand_Saraswati,
+809,Mahendranath Gupta,1854,1932,BH,Ramakrishna Mission,,Kolkata district,Bangla,Kolkata,22.567,88.37,,H,Mahendranath_Gupta,
+810,Gopaler Ma,1822,1906,BH,Ramakrishna Mission,,North 24 Parganas district,,Kamarhati,22.67,88.37,1,H,Gopaler_Ma,
+811,Narasingha Sil,1937,1997,BH,Ramakrishna Mission,,Kolkata district,,Kolkata,22.567,88.37,,T,Narasingha_Sil,
+812,Swami Adidevananda,1912,1983,BH,Ramakrishna Mission,,Mysuru district,,Mysore,12.309,76.653,,H,Swami_Adidevananda,
+813,Atmasthananda,1919,2017,BH,Ramakrishna Mission,,Bangladesh,,Dinajpur,25.63,88.65,,H,Atmasthananda,
+814,Gambhirananda,1889,1988,BH,Ramakrishna Mission,,Kolkata district,Bangla,Kolkata,22.567,88.37,,H,Gambhirananda,
+815,Swami Madhavananda,1888,1965,BH,Ramakrishna Mission,,Howrah district,Sanskrit / Bangla,Belur Math,22.632,88.357,,H,Swami_Madhavananda,
+816,Swami Nikhilananda,1895,1973,BH,Ramakrishna Mission,,India,,Bengal,23.989,88.731,,H,Swami_Nikhilananda,
+817,Nirmalananda,1863,1938,BH,Ramakrishna Mission,,Kolkata district,,Kolkata,22.567,88.37,,H,Nirmalananda,
+818,Prakashananda,1874,1927,BH,Ramakrishna Mission,,Kolkata district,,Kolkata,22.567,88.37,,H,Prakashananda,
+819,Swami Prameyananda,1933,2011,BH,Ramakrishna Mission,,Bangladesh,,Sylhet,24.9,91.867,,H,Swami_Prameyananda,
+820,Badri Maharaj,1868,1959,RF,Arya Samaj,,Rudraprayag district,,Rudraprayag,30.286,78.982,,T,Badri_Maharaj,
+821,Gopaldev,1541,1611,BH,Ekasarana Dharma,,Sivasagar district,,Nazira,26.92,94.73,,H,Gopaldev,
+822,Sri Chinmoy,1931,2007,MU,Sri Chinmoy,,Bangladesh,Bangla,Chattogram District,22.337,91.839,,H,Sri_Chinmoy,
+823,Sri Shilpi Siddanthi Siddalinga Swami,1885,1952,BH,,,Chamarajanagar district,,Kollegal,12.063,76.978,,H,Sri_Shilpi_Siddanthi_Siddalinga_Swami,
+824,Shiv Narayan Agnihotri,1850,1929,AC,,,Kanpur Dehat district,,Akbarpur,26.379,79.951,,H,Shiv_Narayan_Agnihotri,
+825,Anandashram Swami,1902,1966,BH,,,Uttara Kannada District,,Shirali,14.017,74.517,,H,Anandashram_Swami,
+826,Pilot Baba,1938,2024,BH,,,Rohtas district,Hindi / Bihari,Sasaram,24.95,84.03,,H,Pilot_Baba,
+827,Swami Satchidananda Saraswati,1914,2002,BH,,,India,,Tamil Nadu,11,79,,H,Swami_Satchidananda_Saraswati,
+828,Thakar Singh,1929,2005,AC,,,Chandigarh,,Chandigarh,30.733,76.78,,H,Thakar_Singh,
+829,Kirupanandha Variyar,1906,1993,BH,,,Vellore district,,Vellore,12.933,79.133,,H,Kirupanandha_Variyar,
+830,Velaiyar,1768,1840,AC,,,India,,Kanchipuram,12.831,79.708,,H,Velaiyar,
+831,Kumara Swamy Desikar,1711,1810,AC,spiritual writers,,India,,Kanchipuram,12.831,79.708,,H,Kumara_Swamy_Desikar,
+832,Durga Charan Mohanty,1912,1985,BH,spiritual writers,,Puri district,Odia,Biratunga,19.98,86.03,,H,Durga_Charan_Mohanty,
+833,A. K. Mozumdar,1864,1953,BH,spiritual writers,,Kolkata district,Hindi,Kolkata,22.567,88.37,,H,A._K._Mozumdar,
+834,M. P. Pandit,1918,1993,BH,spiritual writers,,Chennai district,Kannada / Marathi,Chennai,13.082,80.275,,H,M._P._Pandit,
+835,Chinthamani Ragoonatha Chary,1822,1880,MA,Astronomers from British India,,Chennai district,,Chennai,13.082,80.275,,H,Chinthamani_Ragoonatha_Chary,
+836,Bapudeva Sastri,1821,1900,MA,Astronomers from British India,,India,,Maharashtra,19.751,75.714,,H,Bapudeva_Sastri,
